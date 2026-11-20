@@ -1,50 +1,112 @@
-Pebble's active ability is called _____ | Speak! | Dog command ability
-Pebble's passive ability is called _____ | Fetch! | Barking or item tracking
-The Toon who can teleport through mirrors is _____ | Glisten | Mirror Toon
-The Toon who can pull other Toons toward him is _____ | Goob | Long arms Toon
-The Toon who can heal other Toons using Tapes is _____ | Sprout | Strawberry Toon
-The Toon who can heal herself using Tapes is _____ | Teagan | Teacup Toon
-The Toon who can highlight Twisteds and Machines is _____ | Vee | TV Toon
-The Toon who can restore other Toons' stamina is _____ | Astro | Moon Toon
-The Toon who can become invisible is _____ | Connie | Ghost Toon
-The Toon who can create a speed boost for nearby Toons is _____ | Tisha | Tissue box Toon
-The Toon who can turn into a werewolf during Blackouts is _____ | Eclipse | Blackout transformer
-The Toon who gets faster when losing Hearts is _____ | Looey | Balloon Toon
-The Toon who gains extraction speed for every surviving Toon is _____ | Boxten | Music box Toon
-The Toon with the ability called Beginner's Luck is _____ | Toodles | 8-ball Toon
-The Toon with the ability called Hug!? is _____ | Goob | Friendly hugger
-The Toon with the ability called Nap Time is _____ | Astro | Stamina recovery
-The Toon with the ability called Tea Time is _____ | Teagan | Self-heal with Tapes
-The Toon with the ability called Mic Check is _____ | Vee | Highlighting ability
-The Toon with the ability called Reflection is _____ | Glisten | Mirror teleport
-The Toon with the ability called Wind-Up is _____ | Boxten | Extraction boost
-The Toon with the ability called Panic Pop is _____ | Poppy | Bubble Toon
-The Toon with the ability called Tidy Up!? is _____ | Tisha | Speed boost ability
-The Toon with the ability called Haunting Escape is _____ | Connie | Invisibility ability
-The Toon with the ability called Reel In is _____ | Finn | Fishbowl Toon
-The Toon with the ability called Bonbon is _____ | Cocoa | Sweet Toon
-The Toon with the ability called Surprise!? is _____ | Gigi | Gumball machine Toon
-The Toon with the ability called Precious Packaging is _____ | Bobette | Holiday ornament Toon
-The Toon with the ability called Fixer Upper is _____ | Eggson | Easter egg Toon
-The Toon with the ability called Floaty Dash is _____ | Flutter | Butterfly Toon
-The Toon with the ability called Scout is _____ | Coal | Holiday pup
-The Toon with the ability called Artistic Inspiration is _____ | Brusha | Paintbrush Toon
-The Toon with the ability called Distressed Delicacy is _____ | Squirm | Fragile Toon
-The Toon with the ability called Springful Sharing is _____ | Bassie | Spring basket Toon
-The Toon with the ability called Trick or Treat is _____ | Gourdy | Pumpkin Toon
-The Toon with the ability called Soul Shield is _____ | Soulvester | Protective shield
-The Toon with the ability called Baked Sweets is _____ | Sprout | Baking ability
-The Toon with the ability called Overprotective is _____ | Sprout | Protective passive
-The Toon with the ability called Camera Hijack is _____ | Vee | Broadcast or highlight ability
-The Toon with the ability called Problem Solver is _____ | Goob | Pull-to-safety ability
-The Toon with the ability called Bully is _____ | Shrimpo | Angry shrimp Toon
-A normal Toon usually starts with _____ Hearts | 3 | Standard health count
-The currency used in the game is called _____ | Ichor | Main shop currency
-The enemies in Dandy's World are called _____ | Twisteds | Corrupted monsters
-The building where the game takes place is called _____ | Gardenview Center | Main facility name
-Players have to extract _____ to progress through floors | Machines | Fill them to open the elevator
-When Panic Mode begins, _____ | The timer starts | Countdown to the elevator
-The shopkeeper is named _____ | Dandy | Flower shopkeeper
-The playable characters are called _____ | Toons | Roster characters
-The machine-filling liquid is called _____ | Ichor | Dark substance
-The special character category that includes Astro and Vee is called _____ | Main Toons | Rare high-stat group
+Pebble's active ability is called _____ | Speak! | Barking ability
+Pebble's passive ability is called _____ | Fetch! | Item detection
+Astro's active ability is called _____ | Nap Time | Stamina restoration
+Astro's passive ability is called _____ | Well Rested | Stamina regeneration
+Bassie's active ability is called _____ | Springful Sharing | Sharing inventory items
+Bassie's passive ability is called _____ | Easter Basket | Extra inventory slot
+Bobette's active ability is called _____ | Precious Packaging | Gift box protection
+Bobette's passive ability is called _____ | Festive Aura | Team stamina and speed boost
+Boxten's passive ability is called _____ | Wind-Up | Extraction speed
+Toodles' active ability is called _____ | Beginner's Luck | Random stat boost
+Tisha's active ability is called _____ | Tidy Up! | Team speed boost
+Finn's passive ability is called _____ | Reel In | Speed after machine completion
+Cosmo's active ability is called _____ | Sharing is Caring | Gives away one of his Hearts
+Rodger's passive ability is called _____ | Detective | Extra Research
+Brightney's active ability is called _____ | Night Light | Reveals Twisteds during Blackouts
+Teagan's active ability is called _____ | Tea Time | Self-healing
+Brusha's ability is called _____ | Artistic Inspiration | Painting machines
+Flutter's active ability is called _____ | Floaty Dash | Forward dash
+Scraps' active ability is called _____ | Crafty Grapple | Pulls herself toward targets
+Goob's active ability is called _____ | Hug! | Pulls other Toons toward him
+Connie's active ability is called _____ | Haunting Escape | Invisibility
+Gigi's active ability is called _____ | Surprise! | Random item
+Razzle & Dazzle's ability is called _____ | Comedy/Tragedy | Alternating floor bonuses
+Yatta's passive ability is called _____ | Pinata Party | Drops candy items
+Glisten's active ability is called _____ | Reflection | Mirror teleportation
+Blot's active ability is called _____ | Blot Jr. | Decoy ability
+Squirm's active ability is called _____ | Distressed Delicacy | Eating books
+Waxwell's active ability is called _____ | Ignite | Flame ability
+Shelly's active ability is called _____ | Inspiration | Extraction speed boost
+Shelly's passive ability is called _____ | Problem Solver | Speed after machine completion
+Sprout's active ability is called _____ | Baked Sweets | Heals another Toon
+Sprout's passive ability is called _____ | Overprotective | Tracks teammates' health and locations
+Vee's active ability is called _____ | Mic Check | Highlights Twisteds and Machines
+Vee's passive ability is called _____ | Camera Hijack | Highlights nearby unfinished Machines
+Poppy's passive ability is called _____ | Panic Pop | Speed boost when attacked
+Shrimpo's passive ability is called _____ | Bully | Extremely low Stealth
+Eclipse's passive ability is called _____ | Total Eclipse | Blackout transformation
+Eggson's passive ability is called _____ | Fixer Upper | Machine completion bonus
+Coal's active ability is called _____ | Scout | Finds items
+Cocoa's active ability is called _____ | Bonbon | Places a candy boost
+Gourdy's active ability is called _____ | Trick or Treat | Random team stat boost
+Soulvester's active ability is called _____ | Soul Shield | Protects an ally
+Looey's passive ability is called _____ | Heart of Helium | Speed increases when Hearts are lost
+Ginger's active ability is called _____ | Baked with Care! | Heals a Toon to full Hearts
+Flyte's active ability is called _____ | Gust | Creates a speed-boosting gust
+Which Toon can bark to attract nearby Twisteds? _____ | Pebble | Speak!
+Which Toon can sniff out nearby items? _____ | Pebble | Fetch!
+Which Toon restores nearby Toons' stamina? _____ | Astro | Nap Time
+Which Toon can share items from her inventory? _____ | Bassie | Springful Sharing
+Which Toon can hide inside a protective gift box? _____ | Bobette | Precious Packaging
+Which Toon gains extraction speed for every living Toon? _____ | Boxten | Wind-Up
+Which Toon can roll for a random stat boost? _____ | Toodles | Beginner's Luck
+Which Toon creates a speed-boosting pulse? _____ | Tisha | Tidy Up!
+Which Toon can share one of his Hearts to heal someone? _____ | Cosmo | Sharing is Caring
+Which Toon gains extra Research from Capsules and Twisted encounters? _____ | Rodger | Detective
+Which Toon reveals Twisteds during Blackouts? _____ | Brightney | Night Light
+Which Toon spends Tapes to heal herself? _____ | Teagan | Tea Time
+Which Toon paints machines to boost extraction and skill checks? _____ | Brusha | Artistic Inspiration
+Which Toon can perform a fast forward dash? _____ | Flutter | Floaty Dash
+Which Toon can grapple herself toward another Toon or Machine? _____ | Scraps | Crafty Grapple
+Which Toon pulls other Toons toward his position? _____ | Goob | Hug!
+Which Toon can turn invisible for 5 seconds? _____ | Connie | Haunting Escape
+Which Toon can give herself a random item? _____ | Gigi | Surprise!
+Which Toon teleports through mirrors to a selected Toon? _____ | Glisten | Reflection
+Which Toon can place a decoy that attracts Twisteds? _____ | Blot | Blot Jr.
+Which Toon eats books to gain extraction speed? _____ | Squirm | Distressed Delicacy
+Which Toon removes his Tired II debuff with a flame ability? _____ | Waxwell | Ignite
+Which Toon boosts a selected Toon's extraction speed? _____ | Shelly | Inspiration
+Which Toon can see the locations and health of living teammates? _____ | Sprout | Overprotective
+Which Toon highlights the Twisteds and Machines on a Floor? _____ | Vee | Mic Check
+Which Toon receives a speed boost when attacked? _____ | Poppy | Panic Pop
+Which Toon has extremely low Stealth? _____ | Shrimpo | Bully
+Which Toon transforms into a werewolf during Blackouts? _____ | Eclipse | Total Eclipse
+Which Toon gives a Machine 20% completion when first touching it? _____ | Eggson | Fixer Upper
+Which Toon highlights items for all Toons? _____ | Coal | Scout
+Which Toon places a candy that boosts Extraction and Movement Speed? _____ | Cocoa | Bonbon
+Which Toon gives nearby Toons a random stat boost? _____ | Gourdy | Trick or Treat
+Which Toon can protect an ally by intercepting incoming damage? _____ | Soulvester | Soul Shield
+Which Toon gets faster when losing Hearts? _____ | Looey | Heart of Helium
+Which Toon can heal another Toon to full Hearts using Tapes? _____ | Ginger | Baked with Care!
+Which Toon places a Gust that boosts Movement Speed? _____ | Flyte | Gust
+Which Toon drops two random candy items after completing a Machine? _____ | Yatta | Pinata Party
+Which Toon gets a speed boost when a Machine is completed? _____ | Finn | Reel In
+Which Toon can remove Ichor puddles with her ability? _____ | Tisha | Tidy Up!
+Which Toon can teleport to a targeted Toon without needing line of sight? _____ | Glisten | Reflection
+How many playable Toons are listed in the current 40-Toon roster? _____ | 40 | Does not include Dandy and Dyle
+How many Main Toons are there? _____ | 8 | Signature character group
+How many Hearts do Main Toons generally have? _____ | 2 | Main Toon health
+What is the main in-game currency called? _____ | Ichor | Used in Dandy's Shop
+What are the enemies in Dandy's World called? _____ | Twisteds | Corrupted characters
+What are the playable characters called? _____ | Toons | Player characters
+What is the name of the shopkeeper? _____ | Dandy | Runs the shop
+What is the name of the main facility? _____ | Gardenview Center | Location of the game
+What are the six Toon stats called? _____ | Health, Skill Check, Movement Speed, Stamina, Stealth, Extraction Speed | Character statistics
+Which Toon has a maximum of 48% bonus Extraction Speed from living teammates? _____ | Boxten | Wind-Up
+How long does Connie's invisibility last? _____ | 5 seconds | Haunting Escape
+How long does Bobette stay inside her protective box? _____ | 8 seconds | Precious Packaging
+How much Extraction Speed does Cocoa's Bonbon provide? _____ | 50% | Candy boost
+How much Movement Speed does Cocoa's Bonbon provide? _____ | 25% | Candy boost
+How much completion does Eggson add to a Machine? _____ | 20% | First machine interaction
+How many Tapes does Teagan spend to heal herself by one Heart? _____ | 75 | Tea Time
+How many Tapes does Sprout normally spend to heal one Heart? _____ | 100 | Baked Sweets
+How many Tapes does Blot's decoy normally cost? _____ | 10 | Blot Jr.
+How long does Squirm's extraction boost last? _____ | 10 seconds | Distressed Delicacy
+How many random candy items does Yatta drop after a Machine is completed? _____ | 2 | Pinata Party
+How many random candy items does Yatta drop when injured? _____ | 4 | Pinata Party
+What happens to Razzle & Dazzle's stats on odd-numbered Floors? _____ | Movement Speed boost | Comedy/Tragedy
+What happens to Razzle & Dazzle's stats on even-numbered Floors? _____ | Extraction Speed boost | Comedy/Tragedy
+How much Movement Speed does Tisha's ability boost nearby Toons by? _____ | 25% | Tidy Up!
+How long does Tisha's speed boost last? _____ | 5 seconds | Tidy Up!
+How much Research does Rodger receive compared with normal? _____ | Double | Detective
+How much Movement Speed does Looey gain per missing Heart? _____ | 20% | Heart of Helium
