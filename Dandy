@@ -1,50 +1,222 @@
-What is Pebble's active ability called? | Speak!
-What is Pebble's passive ability called? | Fetch!
-Which Toon can teleport through mirrors? | Glisten
-Which Toon can pull other Toons toward him? | Goob
-Which Toon can heal other Toons using Tapes? | Sprout
-Which Toon can heal herself using Tapes? | Teagan
-Which Toon can highlight Twisteds and Machines? | Vee
-Which Toon can restore other Toons' stamina? | Astro
-Which Toon can become invisible? | Connie
-Which Toon can create a speed boost for nearby Toons? | Tisha
-Which Toon can turn into a werewolf during Blackouts? | Eclipse
-Which Toon gets faster when losing Hearts? | Looey
-Which Toon gains extraction speed for every surviving Toon? | Boxten
-Which Toon has the ability called Beginner's Luck? | Toodles
-Which Toon has the ability called Hug!? | Goob
-Which Toon has the ability called Nap Time? | Astro
-Which Toon has the ability called Tea Time? | Teagan
-Which Toon has the ability called Mic Check? | Vee
-Which Toon has the ability called Reflection? | Glisten
-Which Toon has the ability called Wind-Up? | Boxten
-Which Toon has the ability called Panic Pop? | Poppy
-Which Toon has the ability called Tidy Up!? | Tisha
-Which Toon has the ability called Haunting Escape? | Connie
-Which Toon has the ability called Reel In? | Finn
-Which Toon has the ability called Bonbon? | Cocoa
-Which Toon has the ability called Surprise!? | Gigi
-Which Toon has the ability called Precious Packaging? | Bobette
-Which Toon has the ability called Fixer Upper? | Eggson
-Which Toon has the ability called Floaty Dash? | Flutter
-Which Toon has the ability called Scout? | Coal
-Which Toon has the ability called Artistic Inspiration? | Brusha
-Which Toon has the ability called Distressed Delicacy? | Squirm
-Which Toon has the ability called Springful Sharing? | Bassie
-Which Toon has the ability called Trick or Treat? | Gourdy
-Which Toon has the ability called Soul Shield? | Soulvester
-Which Toon has the ability called Baked Sweets? | Sprout
-Which Toon has the ability called Overprotective? | Sprout
-Which Toon has the ability called Camera Hijack? | Vee
-Which Toon has the ability called Problem Solver? | Goob
-Which Toon has the ability called Bully? | Shrimpo
-How many Hearts does a normal Toon usually start with? | 3
-What is the name of the currency used in the game? | Ichor
-What are the enemies in Dandy's World called? | Twisteds
-What is the name of the building where the game takes place? | Gardenview Center
-What do players have to extract to progress through floors? | Machines
-What happens when Panic Mode begins? | The timer starts
-What is the name of the shopkeeper? | Dandy
-What are the playable characters called? | Toons
-What is the name of the machine-filling liquid? | Ichor
-What is the name of the special character category that includes Astro and Vee? | Main Toons
+Which Toon can bark loudly to attract nearby Twisteds? _____ | Pebble | His active ability is Speak!
+Which Toon can sniff out nearby Items? _____ | Pebble | Fetch! highlights nearby Items.
+Which Toon gains twice as much Research from Capsules and Twisted encounters? _____ | Rodger | His passive is Detective.
+Which Toon can pull another Toon toward him? _____ | Goob | His ability is Hug!
+Which Toon can teleport to another Toon through a mirror? _____ | Glisten | His ability is Reflection.
+Which Toon can boost another Toon's Extraction Speed? _____ | Shelly | Her ability is Inspiration.
+Which Toon can heal another Toon by spending Tapes? _____ | Sprout | His ability is Baked Sweets.
+Which Toon can heal themself by spending Tapes? _____ | Teagan | Her ability is Tea Time.
+Which Toon can give one of her Hearts to heal someone else? _____ | Ginger | She cannot use it at 1 Heart.
+Which Toon can pull herself toward a Toon or Machine? _____ | Scraps | Her ability is Crafty Grapple.
+Which Toon can create a speed-boosting pulse? _____ | Tisha | Her ability is Tidy Up!
+Which Toon can roll for a random stat boost? _____ | Toodles | Her ability is Beginner's Luck.
+Which Toon can give herself a random Item? _____ | Gigi | Her ability is Surprise!
+Which Toon gains speed when she is attacked? _____ | Poppy | Her passive is Panic Pop.
+Which Toon swaps between Movement Speed and Extraction Speed on alternating Floors? _____ | Razzle & Dazzle | Their passive is Comedy/Tragedy.
+Which Toon has a passive that makes them faster when they lose Hearts? _____ | Looey | His passive is Heart of Helium.
+Which Toon is known for having extremely low Stealth? _____ | Shrimpo | His passive is Bully.
+Which Toon can use books to gain Extraction Speed? _____ | Squirm | His ability is Distressed Delicacy.
+Which Toon can protect an ally by teleporting in front of an incoming hit? _____ | Soulvester | His ability is Soul Shield.
+Which Toon can charge forward using his antlers? _____ | Rudie | His ability is Antler Charge.
+Which Toon can see the locations and health of other living Toons? _____ | Astro | His passive is Overprotective.
+Which Toon can boost nearby Toons' Movement Speed and remove Ichor puddles? _____ | Tisha | Her ability is Tidy Up!
+Which Toon can apply a random boost to nearby players? _____ | Gourdy | His ability is Trick or Treat.
+Which Toon gains a Movement Speed boost when a Machine is completed? _____ | Shelly | Her passive is Problem Solver.
+Which Toon gains a Movement Speed boost when a Machine is completed? _____ | Vee | Her passive is Problem Solver.
+Which Toon is a detective? _____ | Rodger | His passive is Detective.
+Which Toon is associated with a mirror? _____ | Glisten | His ability uses a mirror.
+Which Toon is associated with books? _____ | Squirm | His ability uses books.
+Which Toon is associated with tea? _____ | Teagan | Her ability is Tea Time.
+Which Toon is associated with balloons and helium? _____ | Looey | His passive is Heart of Helium.
+What are the enemies in Dandy's World called? _____ | Twisteds | They roam the Floors.
+What do players extract to finish a Floor? _____ | Machines | Completing them opens the Elevator.
+What is the dark substance found throughout the game called? _____ | Ichor | It appears in puddles and is tied to the story.
+What is the safe area players use to leave a Floor? _____ | Elevator | Players enter it after finishing the Floor.
+What mode begins when the timer runs out? _____ | Panic Mode | The Floor becomes more dangerous.
+What are the playable characters called? _____ | Toons | Players choose one before a run.
+What do players collect from Capsules for Research? _____ | Research | It helps reveal information about Twisteds.
+What currency is commonly used to buy Items from Dandy's Shop? _____ | Tapes | Tapes are spent in the shop.
+What is the main currency used in the regular shop? _____ | Tapes | Tapes are used to buy Items from Dandy's Shop.
+What happens after a Floor is completed? _____ | A new Floor is generated | The run continues in the Elevator.
+What is the name of the game's main location? _____ | Gardenview Center | The game takes place there.
+What are character-specific challenges called? _____ | Mastery | They track progress for each Toon.
+What is the name of the mode used for free exploration and roleplay? _____ | Roleplay Mode | It includes special map options.
+How many Elevators are generated on each Floor? _____ | Two | One is taped off.
+What sign appears on the taped-off Elevator? _____ | DO NOT OPEN | It is marked with yellow tape.
+What is the maximum number of Machines that can spawn on a Floor? _____ | 20 | The Floor mechanics page lists the cap.
+What is the maximum number of Twisteds that can spawn on a Floor? _____ | 8 | The Floor mechanics page lists the cap.
+What is the minimum number of Machines on a Floor? _____ | 2 | Floors have at least two.
+What is the minimum number of Twisteds on a Floor? _____ | 2 | Floors have at least two.
+What do Trinkets provide? _____ | Gameplay bonuses | They can change stats or provide effects.
+What do Cards affect during a run? _____ | Floor effects or conditions | Players can vote for Cards.
+What happens when all required Machines are completed? _____ | The Elevator can be used | Players can leave the Floor.
+What does a Blackout affect? _____ | Visibility | It makes the Floor darker.
+What is the name of the game's main antagonist and shopkeeper? _____ | Dandy | He operates Dandy's Shop.
+What are the enemy versions of Toons called? _____ | Twisteds | They are encountered during runs.
+What do players use to restore a Heart? _____ | Healing abilities or healing Items | Some Toons can heal.
+What stat helps a Toon avoid being noticed by Twisteds? _____ | Stealth | Lower Stealth makes a Toon easier to detect.
+What stat affects how quickly Machines are completed? _____ | Extraction Speed | Higher Extraction Speed helps finish Machines faster.
+What stat affects how long a Toon can run? _____ | Stamina | It is used while running.
+Who runs the Halloween Event shop? _____ | Gourdy | His shop is in the Halloween Lobby.
+What is the Halloween Event currency called? _____ | Pumpkins | They are used in Gourdy's Store.
+Name one of the four Halloween Event Toons. _____ | Gourdy | Other answers: Eclipse, Ribecca, Soulvester.
+Which Halloween Toon is the main character of the event? _____ | Gourdy | His Twisted is guaranteed every 20 Floors on Halloween Floors.
+Which Halloween Toon is associated with the moon? _____ | Eclipse | One of her skins is Full Moon.
+Which Halloween Toon has a skeleton theme? _____ | Ribecca | She has a Skele-Kitty skin.
+Which Halloween Toon is associated with a knight theme? _____ | Soulvester | His Golden Skin is Golden Knight.
+What is the Halloween Floor Event called? _____ | Haunted Gala | It was added in the 2026 Halloween Event.
+What Card is associated with Haunted Gala? _____ | Party Crashers | It is listed with the Halloween Event.
+What is the Halloween Holiday Trinket from Twisted Ribecca called? _____ | Bone Needle and Thread | It highlights Pumpkins and Halloween Decor.
+What is the Golden Skin for Gourdy called? _____ | Golden Pumpkin | It is a Halloween quest reward.
+What is the Golden Skin for Eclipse called? _____ | Golden Wolf | It is a Halloween quest reward.
+What is the Golden Skin for Ribecca called? _____ | Golden Skeleton | It is a Halloween quest reward.
+What is the Golden Skin for Soulvester called? _____ | Golden Knight | It is a Halloween quest reward.
+Which Toon runs the Halloween shop? _____ | Gourdy | The shop is called Gourdy's Store.
+What collectible currency appears during Halloween? _____ | Pumpkins | Collect them during the event.
+What special doors were added during the 2026 Halloween Event? _____ | Trick or Treat Doors | They are special Floor mechanics.
+What new Floor Event arrived in the 2026 Halloween Event? _____ | Haunted Gala | It has an associated Card.
+Which Halloween Toon has the ability Trick or Treat? _____ | Gourdy | It gives nearby Toons a random boost.
+What does Bone Needle and Thread highlight? _____ | Pumpkins and Halloween Decor | It is linked to Twisted Ribecca Research.
+Which Halloween Toon has the passive The Undead? _____ | Ribecca | It makes her immune to applied debuffs.
+What is the name of Gourdy's shop? _____ | Gourdy's Store | It appears in the Halloween Lobby.
+Which Halloween Toon has the Golden Wolf skin? _____ | Eclipse | The skin is a Golden Skin reward.
+Which Halloween Toon has the Golden Pumpkin skin? _____ | Gourdy | The skin is a Golden Skin reward.
+Which Halloween Toon has the Golden Skeleton skin? _____ | Ribecca | The skin is a Golden Skin reward.
+Which Halloween Toon has the Golden Knight skin? _____ | Soulvester | The skin is a Golden Skin reward.
+What is the name of the Halloween cosmetic pack? _____ | Spooky-Time Cosmetic Pack | It is listed on the Halloween Event page.
+What is the name of the Halloween-themed lobby? _____ | Halloween Lobby | Gourdy's Store is located there.
+What type of currency disappears after a Holiday Event ends? _____ | Event Currency | It is not kept for the next event.
+What happens to collected Holiday Skins after an event ends? _____ | They remain usable | Collected cosmetics can be used year-round.
+Who runs the Christmas Event shop? _____ | Bobette | Her shop is in the Christmas Lobby.
+What is the Christmas Event currency called? _____ | Ornaments | They are used in Bobette's Store.
+Name one of the four Christmas Event Toons. _____ | Bobette | Other answers: Rudie, Ginger, Coal.
+Which Christmas Toon is the main character of the event? _____ | Bobette | Her Twisted is guaranteed every 20 Floors on Christmas Floors.
+Which Christmas Toon has antlers? _____ | Rudie | His ability is Antler Charge.
+Which Christmas Toon is associated with baking? _____ | Ginger | Her ability is Baked with Care!
+Which Christmas Toon is associated with coal? _____ | Coal | Coal is one of the Christmas Event Toons.
+What is the Christmas Floor Event called? _____ | Iced Over | It is listed with the Christmas Event.
+What is the Christmas Holiday Trinket named after Coal? _____ | Coal | It is obtained from Twisted Coal Research.
+What is the Christmas Trinket called that is linked to Twisted Ginger? _____ | Festive Lights | It is a Holiday Trinket.
+What is the Christmas Trinket linked to Twisted Rudie? _____ | Peppermint Icing | It is a Holiday Trinket.
+What is the Christmas Trinket linked to Twisted Bobette? _____ | Toy Kit | It is a Holiday Trinket.
+What is the Golden Skin for Rudie called? _____ | Golden Antlers | It is a Christmas quest reward.
+What is the Golden Skin for Ginger called? _____ | Golden Cookie | It is a Christmas quest reward.
+What is the Golden Skin for Coal called? _____ | Golden Dust | It is a Christmas quest reward.
+What is the Golden Skin for Bobette called? _____ | Golden Bauble | It is a Christmas quest reward.
+Which Christmas Toon has the Golden Antlers skin? _____ | Rudie | It is his Golden Skin.
+Which Christmas Toon has the Golden Cookie skin? _____ | Ginger | It is her Golden Skin.
+Which Christmas Toon has the Golden Dust skin? _____ | Coal | It is her Golden Skin.
+Which Christmas Toon has the Golden Bauble skin? _____ | Bobette | It is her Golden Skin.
+What is the name of Bobette's Christmas shop? _____ | Bobette's Store | It is in the Christmas Lobby.
+What is the Christmas-themed lobby called? _____ | Christmas Lobby | Bobette's Store is located there.
+What is the Christmas cosmetic pack called? _____ | Snow-Time Cosmetic Pack | It is listed on the Christmas Event page.
+Which Christmas Toon is associated with the Toy Kit Trinket quest? _____ | Bobette | Her Floor 20 quest requires Toy Kit.
+Which Floor Event can occur during Christmas? _____ | Iced Over | It is associated with the Christmas Event.
+What is the name of the Christmas currency? _____ | Ornaments | Not Pumpkins or Baskets.
+What is the name of the Christmas event shopkeeper? _____ | Bobette | She runs the seasonal shop.
+Which Christmas Toon uses an antler charge? _____ | Rudie | His active ability is Antler Charge.
+Which Christmas Toon can heal another Toon using one of her Hearts? _____ | Ginger | She cannot use the ability at 1 Heart.
+What is the Christmas sticker that says Merry Christmas! called? _____ | Merry Christmas! | It is one of the event stickers.
+Who runs the Easter Event shop? _____ | Bassie | Her shop is in the Easter Lobby.
+What is the Easter Event currency called? _____ | Baskets | They are used in Bassie's Store.
+Name one of the four Easter Event Toons. _____ | Bassie | Other answers: Cocoa, Eggson, Flyte.
+Which Easter Toon is the main character of the event? _____ | Bassie | Her Twisted is guaranteed every 20 Floors on Easter Floors.
+Which Easter Toon is a butterfly? _____ | Flyte | She is one of the seasonal Toons.
+Which Easter Toon is a chocolate bunny? _____ | Cocoa | She is one of the seasonal Toons.
+Which Easter Toon is egg-themed? _____ | Eggson | He is one of the seasonal Toons.
+What is the Easter Floor Event called? _____ | Spring Fever | It was added for the Easter Event.
+What is the Easter Holiday Trinket linked to Twisted Eggson? _____ | Egg Radar | It highlights nearby Baskets.
+What is the Easter Trinket linked to Twisted Cocoa? _____ | Glazed Fondant Bag | It is a Holiday Trinket.
+What is the Easter Trinket linked to Twisted Flyte? _____ | Scrapbook | It is a Holiday Trinket.
+What is the Easter Trinket linked to Twisted Bassie? _____ | Whispering Flower | It is a Holiday Trinket.
+What is the Golden Skin for Bassie called? _____ | Golden Basket | It is an Easter quest reward.
+What is the Golden Skin for Cocoa called? _____ | Golden Bunny | It is an Easter quest reward.
+What is the Golden Skin for Eggson called? _____ | Golden Egg | It is an Easter quest reward.
+What is the Golden Skin for Flyte called? _____ | Golden Wings | It is an Easter quest reward.
+Which Easter Toon has the Golden Basket skin? _____ | Bassie | It is her Golden Skin.
+Which Easter Toon has the Golden Bunny skin? _____ | Cocoa | It is her Golden Skin.
+Which Easter Toon has the Golden Egg skin? _____ | Eggson | It is his Golden Skin.
+Which Easter Toon has the Golden Wings skin? _____ | Flyte | It is her Golden Skin.
+What is the name of Bassie's Easter shop? _____ | Bassie's Store | It is in the Easter Lobby.
+What is the Easter-themed lobby called? _____ | Easter Lobby | Bassie's Store is located there.
+What is the Easter cosmetic pack called? _____ | Spring-Time Cosmetic Pack | It is listed on the Easter Event page.
+Which Easter Trinket highlights nearby Baskets? _____ | Egg Radar | It is linked to Twisted Eggson.
+What is the name of the Easter currency? _____ | Baskets | Not Ornaments or Pumpkins.
+Which Easter Toon is linked to the Whispering Flower quest? _____ | Bassie | Her Floor 20 quest requires it.
+Which Easter Toon has a quest to place BonBons picked up by other Toons? _____ | Cocoa | It is part of her Holiday quests.
+Which Easter Toon has a quest to use an ability on a Machine? _____ | Eggson | His quest involves using his ability on a Machine.
+What event introduced the Spring Fever Floor Event? _____ | Easter Event | It is the Easter event Floor Event.
+How many quests are in each Holiday Toon's quest set? _____ | Three | Completing the set awards a Golden Skin.
+What reward do you get for completing a Holiday Toon's full quest set? _____ | A Golden Skin | Each Event Toon has their own set.
+Which event was the first holiday event in Dandy's World? _____ | Christmas Event | It introduced Ornaments and Bobette's Store.
+Which holiday event introduced Pumpkins? _____ | Halloween Event | Gourdy runs its shop.
+Which holiday event introduced Baskets? _____ | Easter Event | Bassie runs its shop.
+Do collected Holiday Skins remain usable after the event ends? _____ | Yes | Collected skins remain usable year-round.
+Does unused Event Currency carry over to the next year's event? _____ | No | Event Currency disappears after the event.
+How often do Holiday Floors appear as a possible Floor? _____ | Every five Floors | Each has a 50% chance to appear.
+Which event has the Iced Over Floor Event? _____ | Christmas Event | It is the Christmas Floor Event.
+Which event has the Haunted Gala Floor Event? _____ | Halloween Event | It arrived in the 2026 Halloween Event.
+Which event has the Spring Fever Floor Event? _____ | Easter Event | It is the Easter Floor Event.
+Which Halloween Toon is guaranteed to appear every 20 Floors on the Halloween Floor? _____ | Twisted Gourdy | The event's main character Twisted.
+Which Christmas Toon is guaranteed to appear every 20 Floors on the Christmas Floor? _____ | Twisted Bobette | The event's main character Twisted.
+Which Easter Toon is guaranteed to appear every 20 Floors on the Easter Floor? _____ | Twisted Bassie | The event's main character Twisted.
+What is the Christmas seasonal currency used for? _____ | Buying event cosmetics | It is spent at Bobette's Store.
+What is the Halloween seasonal currency used for? _____ | Buying event cosmetics | It is spent at Gourdy's Store.
+What is the Easter seasonal currency used for? _____ | Buying event cosmetics | It is spent at Bassie's Store.
+What is Glisten's active ability called? _____ | Reflection | It lets him travel through a mirror.
+What is Goob's active ability called? _____ | Hug! | It pulls another Toon toward him.
+What is Pebble's active ability called? _____ | Speak! | It loudly alerts nearby Twisteds.
+What is Pebble's passive ability called? _____ | Fetch! | It highlights nearby Items.
+What is Shelly's active ability called? _____ | Inspiration | It boosts a selected Toon's Extraction Speed.
+What is Sprout's active ability called? _____ | Baked Sweets | It heals a targeted Toon for Tapes.
+What is Teagan's active ability called? _____ | Tea Time | It heals Teagan for Tapes.
+What is Tisha's active ability called? _____ | Tidy Up! | It boosts nearby Toons and clears Ichor puddles.
+What is Toodles' active ability called? _____ | Beginner's Luck | It rolls for a random stat boost.
+What is Gigi's active ability called? _____ | Surprise! | It gives her a random Item.
+What is Scraps' active ability called? _____ | Crafty Grapple | It pulls her toward a target position.
+What is Rudie's active ability called? _____ | Antler Charge | It is a short forward burst.
+What is Soulvester's active ability called? _____ | Soul Shield | It can protect an ally from the next hit.
+What is Gourdy's active ability called? _____ | Trick or Treat | It gives nearby Toons a random boost.
+What is Looey's passive ability called? _____ | Heart of Helium | He gets faster as he loses Hearts.
+What is Rodger's passive ability called? _____ | Detective | He earns extra Research.
+What is Poppy's passive ability called? _____ | Panic Pop | She gains speed after being attacked.
+What is Shrimpo's passive ability called? _____ | Bully | It gives him extremely low Stealth.
+What is Razzle & Dazzle's passive ability called? _____ | Comedy/Tragedy | Their stats alternate by Floor number.
+Which Trinket highlights Pumpkins and Halloween Decor? _____ | Bone Needle and Thread | It is linked to Twisted Ribecca.
+Which Trinket highlights Baskets nearby? _____ | Egg Radar | It is linked to Twisted Eggson.
+Which Christmas Trinket is linked to Twisted Bobette? _____ | Toy Kit | It is a Holiday Trinket.
+Which Christmas Trinket is linked to Twisted Coal? _____ | Coal | It shares the Toon’s name.
+Which Christmas Trinket is linked to Twisted Rudie? _____ | Peppermint Icing | It is a Holiday Trinket.
+Which Christmas Trinket is linked to Twisted Ginger? _____ | Festive Lights | It is a Holiday Trinket.
+What is the Halloween Trinket linked to Twisted Soulvester? _____ | Soul Sword | It is a Holiday Trinket.
+What is the Halloween Trinket linked to Twisted Eclipse? _____ | Moon Pack Heirloom | It is a Holiday Trinket.
+What is the Halloween Trinket linked to Twisted Gourdy? _____ | Memory Locket | It is a Holiday Trinket.
+What is the Easter Trinket linked to Twisted Flyte? _____ | Scrapbook | It is a Holiday Trinket.
+What is the Easter Trinket linked to Twisted Cocoa? _____ | Glazed Fondant Bag | It is a Holiday Trinket.
+What is the name of the Christmas shopkeeper's seasonal store? _____ | Bobette's Store | It appears in the Christmas Lobby.
+What is the name of the Easter shopkeeper's seasonal store? _____ | Bassie's Store | It appears in the Easter Lobby.
+What is the name of the Halloween shopkeeper's seasonal store? _____ | Gourdy's Store | It appears in the Halloween Lobby.
+Which event features a large ice rink in its Seasonal Room? _____ | Christmas Event | The Christmas Seasonal Room has an ice rink.
+Which event features Trick or Treat Doors? _____ | Halloween Event | They were added in 2026.
+Which holiday event has the Seasonal Room - Easter? _____ | Easter Event | It appears during the Easter Event.
+Which holiday event has the Seasonal Room - Halloween? _____ | Halloween Event | It appears during the Halloween Event.
+Which holiday event has the Seasonal Room - Christmas? _____ | Christmas Event | It appears during the Christmas Event.
+What is the name of the Christmas event's special Card? _____ | Frost Shield | It is listed among Christmas Cards.
+What is the name of the Easter event's special Card? _____ | Air Freshener | It is listed among Easter Cards.
+What is the name of the Halloween event's special Card? _____ | Party Crashers | It is linked to Haunted Gala.
+Which Halloween Toon has a skin called Full Moon? _____ | Eclipse | It is listed in Gourdy's Store.
+Which Halloween Toon has a skin called Skele-Kitty? _____ | Ribecca | It is listed in Gourdy's Store.
+Which Halloween Toon has a skin called Haunted Flame? _____ | Soulvester | It is listed in Gourdy's Store.
+Which Halloween Toon has a skin called Crinkling Leaves? _____ | Gourdy | It is listed in Gourdy's Store.
+Which Easter Toon has a skin called Spring Outing? _____ | Cocoa | It is listed in Bassie's Store.
+Which Easter Toon has a skin called Luna Moth? _____ | Flyte | It is listed in Bassie's Store.
+Which Easter Toon has a skin called Painted Patterns? _____ | Eggson | It is listed in Bassie's Store.
+Which Easter Toon has a skin called Belle Basket? _____ | Bassie | It is listed in Bassie's Store.
+Which Christmas Toon has a skin called Holly Jolly? _____ | Rudie | It is listed in Bobette's Store.
+Which Christmas Toon has a skin called Sugar Cookie? _____ | Ginger | It is listed in Bobette's Store.
+Which Christmas Toon has a skin called Pretty Present? _____ | Coal | It is listed in Bobette's Store.
+Which Christmas Toon has a skin called Eve Sleeper? _____ | Bobette | It is listed in Bobette's Store.
+Which seasonal event introduced the Advent Calendar feature to its event content? _____ | Christmas Event | The event page lists an Advent Calendar.
+Which Halloween Toon received the Lost Prince skin? _____ | Gourdy | It is listed in Gourdy's Store.
+Which Easter Toon received the Egg Thief skin? _____ | Gigi | It is listed in Bassie's Store.
+Which Christmas Toon received the Gleeful Gift skin? _____ | Pebble | It is listed in Bobette's Store.
