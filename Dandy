@@ -1,255 +1,151 @@
-What is Pebble's active ability? _____ | Speak! | Abilities
-What is Pebble's passive ability? _____ | Fetch! | Abilities
-What is Astro's active ability? _____ | Nap Time | Abilities
-What is Astro's passive ability? _____ | Well Rested | Abilities
-What is Bassie's active ability? _____ | Springful Sharing | Abilities
-What is Bassie's passive ability? _____ | Easter Basket | Abilities
-What is Bobette's active ability? _____ | Precious Packaging | Abilities
-What is Bobette's passive ability? _____ | Festive Aura | Abilities
-What is Boxten's passive ability? _____ | Wind-Up | Abilities
-What is Toodles' active ability? _____ | Beginner's Luck | Abilities
-What is Tisha's active ability? _____ | Tidy Up! | Abilities
-What is Finn's passive ability? _____ | Reel In | Abilities
-What is Cosmo's active ability? _____ | Sharing is Caring | Abilities
-What is Rodger's passive ability? _____ | Detective | Abilities
-What is Brightney's active ability? _____ | Night Light | Abilities
-What is Teagan's active ability? _____ | Tea Time | Abilities
-What is Brusha's ability? _____ | Artistic Inspiration | Abilities
-What is Flutter's active ability? _____ | Floaty Dash | Abilities
-What is Scraps' active ability? _____ | Crafty Grapple | Abilities
-What is Goob's active ability? _____ | Hug! | Abilities
-What is Connie's active ability? _____ | Haunting Escape | Abilities
-What is Gigi's active ability? _____ | Surprise! | Abilities
-What is Razzle & Dazzle's passive ability? _____ | Comedy/Tragedy | Abilities
-What is Yatta's passive ability? _____ | Piñata Party | Abilities
-What is Glisten's active ability? _____ | Reflection | Abilities
-What is Blot's active ability? _____ | Blot Jr. | Abilities
-What is Squirm's active ability? _____ | Distressed Delicacy | Abilities
-What is Waxwell's active ability? _____ | Ignite | Abilities
-What is Shelly's active ability? _____ | Inspiration | Abilities
-What is Shelly's passive ability? _____ | Problem Solver | Abilities
-What is Sprout's active ability? _____ | Baked Sweets | Abilities
-What is Sprout's passive ability? _____ | Overprotective | Abilities
-What is Vee's active ability? _____ | Mic Check | Abilities
-What is Vee's passive ability? _____ | Camera Hijack | Abilities
-What is Poppy's passive ability? _____ | Panic Pop | Abilities
-What is Shrimpo's passive ability? _____ | Bully | Abilities
-What is Eclipse's passive ability? _____ | Total Eclipse | Abilities
-What is Eggson's passive ability? _____ | Fixer Upper | Abilities
-What is Coal's active ability? _____ | Scout | Abilities
-What is Cocoa's active ability? _____ | Bonbon | Abilities
-What is Gourdy's active ability? _____ | Trick or Treat | Abilities
-What is Soulvester's passive ability? _____ | Knightly Armor | Abilities
-What is Looey's passive ability? _____ | Heart of Helium | Abilities
-What is Ginger's active ability? _____ | Baked with Care! | Abilities
-What is Flyte's active ability? _____ | Gust | Abilities
-What is Ribecca's passive ability? _____ | The Undead | Abilities
-What is Rudie's active ability? _____ | Antler Charge | Abilities
+What is Astro's active ability? _____ | Nap Time | Stamina
+What is Astro's passive ability? _____ | Well Rested | Stamina
+What is Bassie's active ability? _____ | Springful Sharing | Items
+What is Bassie's passive ability? _____ | Easter Basket | Inventory
+What is Blot's active ability? _____ | Blot Jr. | Decoy
+What is Bobette's active ability? _____ | Precious Packaging | Gift Box
+What is Bobette's passive ability? _____ | Festive Aura | Stamina
+What is Boxten's passive ability? _____ | Wind-Up | Extraction
+What is Brightney's active ability? _____ | Night Light | Blackouts
+What is Brusha's active ability? _____ | Artistic Inspiration | Machines
+What is Coal's active ability? _____ | Scout | Items
+What is Cocoa's active ability? _____ | Bonbon | Candy
+What is Connie's active ability? _____ | Haunting Escape | Invisibility
+What is Cosmo's active ability? _____ | Sharing is Caring | Healing
+What is Eclipse's passive ability? _____ | Total Eclipse | Blackouts
+What is Eggson's passive ability? _____ | Fixer Upper | Machines
+What is Finn's passive ability? _____ | Reel In | Speed
+What is Flutter's active ability? _____ | Floaty Dash | Movement
+What is Flyte's active ability? _____ | Gust | Speed
+What is Gigi's active ability? _____ | Surprise! | Items
+What is Ginger's active ability? _____ | Baked with Care! | Healing
+What is Glisten's active ability? _____ | Reflection | Mirrors
+What is Goob's active ability? _____ | Hug! | Pulling
+What is Gourdy's active ability? _____ | Trick or Treat | Stats
+What is Looey's passive ability? _____ | Heart of Helium | Speed
+What is Pebble's active ability? _____ | Speak! | Barking
+What is Pebble's passive ability? _____ | Fetch! | Items
+What is Poppy's passive ability? _____ | Panic Pop | Speed
+What is Razzle & Dazzle's ability? _____ | Comedy/Tragedy | Stats
+What is Rodger's passive ability? _____ | Detective | Research
+What is Scraps' active ability? _____ | Crafty Grapple | Grappling
+What is Shelly's active ability? _____ | Inspiration | Extraction
+What is Shrimpo's passive ability? _____ | Bully | Stealth
+What is Soulvester's passive ability? _____ | Knightly Armor | Defense
+What is Sprout's active ability? _____ | Baked Sweets | Healing
+What is Sprout's passive ability? _____ | Overprotective | Teammates
+What is Squirm's active ability? _____ | Distressed Delicacy | Books
+What is Teagan's active ability? _____ | Tea Time | Healing
+What is Tisha's active ability? _____ | Tidy Up! | Speed
+What is Toodles' active ability? _____ | Beginner's Luck | Stats
+What is Vee's active ability? _____ | Mic Check | Twisteds
+What is Vee's passive ability? _____ | Camera Hijack | Machines
+What is Waxwell's active ability? _____ | Ignite | Flame
+What is Yatta's passive ability? _____ | Piñata Party | Candy
 
-Which Toon can bark to attract Twisteds? _____ | Pebble | Abilities
-Which Toon can sniff out nearby items? _____ | Pebble | Items
-Which Toon can fully restore nearby Toons' Stamina? _____ | Astro | Stamina
-Which Toon regenerates Stamina 50% faster? _____ | Astro | Stamina
-Which Toon can drop items for teammates? _____ | Bassie | Items
-Which Toon has an extra inventory slot? _____ | Bassie | Inventory
-Which Toon can hide inside a gift box? _____ | Bobette | Protection
-Which Toon gives nearby Toons faster Stamina regeneration? _____ | Bobette | Support
-Which Toon gains Extraction Speed for every living Toon? _____ | Boxten | Extraction
-Which Toon rolls for a random stat boost? _____ | Toodles | Stats
-Which Toon creates a Movement Speed pulse? _____ | Tisha | Speed
-Which Toon gains Movement Speed after a Machine is completed? _____ | Finn | Speed
-Which Toon can give away one of his Hearts? _____ | Cosmo | Healing
-Which Toon earns double Research from Capsules and encountering Twisteds? _____ | Rodger | Research
-Which Toon makes Twisteds visible during Blackouts? _____ | Brightney | Blackouts
-Which Toon spends Tapes to heal herself? _____ | Teagan | Healing
-Which Toon enters Painting Mode? _____ | Brusha | Skill Checks
-Which Toon dashes forward? _____ | Flutter | Movement
-Which Toon can grapple toward another Toon or Machine? _____ | Scraps | Grappling
-Which Toon pulls other Toons toward herself? _____ | Goob | Grappling
-Which Toon becomes invisible? _____ | Connie | Stealth
-Which Toon can receive a random item? _____ | Gigi | Items
-Which Toon switches between Movement Speed and Extraction Speed bonuses? _____ | Razzle & Dazzle | Stats
-Which Toon drops candy after completing Machines? _____ | Yatta | Candy
-Which Toon travels through mirrors to teleport? _____ | Glisten | Teleportation
-Which Toon creates a decoy that attracts Twisteds? _____ | Blot | Decoy
-Which Toon eats books for Extraction Speed? _____ | Squirm | Extraction
-Which Toon boosts another Toon's Extraction Speed? _____ | Shelly | Support
-Which Toon can see the locations and health of living teammates? _____ | Sprout | Support
-Which Toon highlights the nearest unfinished Machines? _____ | Vee | Machines
-Which Toon receives a speed boost after being attacked? _____ | Poppy | Speed
-Which Toon has extremely low Stealth? _____ | Shrimpo | Stealth
-Which Toon transforms during Blackouts? _____ | Eclipse | Blackouts
-Which Toon adds Machine progress after extracting from it? _____ | Eggson | Machines
-Which Toon highlights items for everyone? _____ | Coal | Items
-Which Toon places a candy that boosts Movement and Extraction Speed? _____ | Cocoa | Items
-Which Toon gives nearby Toons a random stat boost? _____ | Gourdy | Support
-Which Toon has an extra Heart and immunity to ranged attacks? _____ | Soulvester | Defense
-Which Toon gains Movement Speed when missing Hearts? _____ | Looey | Speed
-Which Toon can heal a targeted Toon to full Hearts? _____ | Ginger | Healing
-Which Toon places a Gust that boosts Movement Speed? _____ | Flyte | Speed
-Which Toon is immune to applied debuffs? _____ | Ribecca | Defense
-Which Toon charges forward using his antlers? _____ | Rudie | Movement
+Which Toon is based on a Christmas ornament? _____ | Bobette | Christmas
+Which Toon is based on a pumpkin? _____ | Gourdy | Halloween
+Which Toon is based on an Easter basket? _____ | Bassie | Easter
+Which Toon is based on chocolate? _____ | Cocoa | Easter
+Which Toon is based on an egg? _____ | Eggson | Easter
+Which Toon is based on a butterfly? _____ | Flyte | Easter
+Which Toon is based on coal? _____ | Coal | Christmas
+Which Toon is based on a gingerbread cookie? _____ | Ginger | Christmas
+Which Toon is based on a reindeer? _____ | Rudie | Christmas
+Which Toon is associated with Halloween and transforms during Blackouts? _____ | Eclipse | Halloween
+Which Toon is Connie's twin? _____ | Soulvester | Halloween
+Which Toon is Flutter's sibling? _____ | Flyte | Easter
+Which Toon is Cosmo's cousin? _____ | Ginger | Christmas
+Which Toon owns the Easter event shop? _____ | Bassie | Easter
+Which Toon owns the Halloween event shop? _____ | Gourdy | Halloween
+Which Toon owns the Christmas event shop? _____ | Bobette | Christmas
+Which holiday Toon drops candy after completing Machines? _____ | Yatta | Candy
+Which holiday Toon has a protective gift-box ability? _____ | Bobette | Christmas
+Which holiday Toon can place a Bonbon? _____ | Cocoa | Easter
+Which holiday Toon can use Antler Charge? _____ | Rudie | Christmas
+Which holiday Toon has the ability Scout? _____ | Coal | Christmas
+Which holiday Toon has the ability Baked with Care!? _____ | Ginger | Christmas
+Which holiday Toon has the ability Gust? _____ | Flyte | Easter
+Which holiday Toon has the ability Trick or Treat? _____ | Gourdy | Halloween
+Which holiday Toon has the ability Knightly Armor? _____ | Soulvester | Halloween
+Which holiday Toon has the ability Total Eclipse? _____ | Eclipse | Halloween
+Which holiday Toon has the ability Fixer Upper? _____ | Eggson | Easter
+Which holiday Toon has the ability The Undead? _____ | Ribecca | Halloween
 
-EASTER HOLIDAY QUESTIONS
-
-Which four Toons belong to the Easter event? _____ | Bassie, Cocoa, Eggson, Flyte | Easter
-What currency is used in the Easter event? _____ | Baskets | Easter
-Who owns the Easter Toon shop? _____ | Bassie | Easter
-Which Easter Toon is a Main Character? _____ | Bassie | Easter
-Which Easter Toon is based on a basket? _____ | Bassie | Easter
-Which Easter Toon is based on chocolate? _____ | Cocoa | Easter
-Which Easter Toon is based on an egg? _____ | Eggson | Easter
-Which Easter Toon is based on a butterfly? _____ | Flyte | Easter
-Which Easter Toon has Springful Sharing? _____ | Bassie | Easter
-Which Easter Toon has Easter Basket? _____ | Bassie | Easter
-Which Easter Toon has Bonbon? _____ | Cocoa | Easter
-Which Easter Toon has Fixer Upper? _____ | Eggson | Easter
-Which Easter Toon has Gust? _____ | Flyte | Easter
-How many extra inventory slots does Bassie's Easter Basket provide? _____ | 1 | Easter
-How many Baskets does Bassie cost? _____ | 3000 | Easter
-How much Ichor does Bassie cost? _____ | 2500 | Easter
-What Research requirement does Bassie have? _____ | 100% Twisted Bassie Research | Easter
-How many Baskets does Cocoa cost? _____ | 1500 | Easter
-What is Cocoa's unlock Research requirement? _____ | 100% Research on 5 Twisteds | Easter
-How many Baskets does Eggson cost? _____ | 300 | Easter
-How many Baskets does Flyte cost? _____ | 700 | Easter
-What Research is required to unlock Flyte? _____ | 50% Twisted Flyte Research | Easter
-Who is Flyte's sister? _____ | Flutter | Easter
-What does Cocoa's Bonbon boost? _____ | Movement Speed and Extraction Speed | Easter
-How much Extraction Speed does Bonbon provide? _____ | 50% | Easter
-How much Movement Speed does Bonbon provide? _____ | 25% | Easter
-How long does Bonbon's boost last? _____ | 10 seconds | Easter
-How long does Flyte's Gust remain at its location? _____ | 10 seconds | Easter
-How long does a Toon receive Flyte's speed boost? _____ | 3 seconds | Easter
-
-HALLOWEEN HOLIDAY QUESTIONS
-
-Which four Toons belong to the Halloween event? _____ | Eclipse, Gourdy, Ribecca, Soulvester | Halloween
-What currency is used in the Halloween event? _____ | Pumpkins | Halloween
-Who owns the Halloween Toon shop? _____ | Gourdy | Halloween
-Which Halloween Toon is a Main Character? _____ | Gourdy | Halloween
-Which Halloween Toon is based on a pumpkin? _____ | Gourdy | Halloween
-Which Halloween Toon transforms during Blackouts? _____ | Eclipse | Halloween
-Which Halloween Toon is immune to applied debuffs? _____ | Ribecca | Halloween
-Which Halloween Toon has an extra Heart? _____ | Soulvester | Halloween
-Which Halloween Toon has Trick or Treat? _____ | Gourdy | Halloween
-Which Halloween Toon has Total Eclipse? _____ | Eclipse | Halloween
-Which Halloween Toon has The Undead? _____ | Ribecca | Halloween
-Which Halloween Toon has Knightly Armor? _____ | Soulvester | Halloween
-Who is Connie's twin sibling? _____ | Soulvester | Halloween
-How many Pumpkins does Gourdy cost? _____ | 3000 | Halloween
-How much Ichor does Gourdy cost? _____ | 2500 | Halloween
-What Research requirement does Gourdy have? _____ | 100% Twisted Gourdy Research | Halloween
-How many Pumpkins does Eclipse cost? _____ | 1500 | Halloween
-What is Eclipse's unlock requirement? _____ | Own 5 or more Toons | Halloween
-How many Pumpkins does Soulvester cost? _____ | 700 | Halloween
-What Research is required to unlock Soulvester? _____ | 50% Twisted Soulvester Research | Halloween
-How many Pumpkins does Ribecca cost? _____ | 300 | Halloween
-What happens when Eclipse transforms? _____ | He glows and gains extra Stamina and Movement Speed | Halloween
-What does Eclipse gain in Movement Speed during a Blackout? _____ | 20% | Halloween
-What does Gourdy's Trick or Treat provide? _____ | A random 20% stat boost | Halloween
-How long does Gourdy's stat boost last? _____ | 15 seconds | Halloween
-What is the name of Soulvester's passive ability? _____ | Knightly Armor | Halloween
-What type of attacks is Soulvester immune to? _____ | Ranged attacks | Halloween
-
-CHRISTMAS HOLIDAY QUESTIONS
-
-Which four Toons belong to the Christmas event? _____ | Bobette, Coal, Ginger, Rudie | Christmas
-What currency is used in the Christmas event? _____ | Ornaments | Christmas
-Who owns the Christmas Toon shop? _____ | Bobette | Christmas
-Which Christmas Toon is a Main Character? _____ | Bobette | Christmas
-Which Christmas Toon is based on a Christmas ornament? _____ | Bobette | Christmas
-Which Christmas Toon is a pet rock? _____ | Coal | Christmas
-Which Christmas Toon is based on a cookie? _____ | Ginger | Christmas
-Which Christmas Toon is a reindeer? _____ | Rudie | Christmas
-Which Christmas Toon has Precious Packaging? _____ | Bobette | Christmas
-Which Christmas Toon has Festive Aura? _____ | Bobette | Christmas
-Which Christmas Toon has Scout? _____ | Coal | Christmas
-Which Christmas Toon has Baked with Care!? _____ | Ginger | Christmas
-Which Christmas Toon has Antler Charge? _____ | Rudie | Christmas
-How many Ornaments does Bobette cost? _____ | 3000 | Christmas
-How much Ichor does Bobette cost? _____ | 2500 | Christmas
-What Research requirement does Bobette have? _____ | 100% Twisted Bobette Research | Christmas
-How many Ornaments does Coal cost? _____ | 1500 | Christmas
-What is Coal's unlock requirement? _____ | Own 15 or more Trinkets | Christmas
-How many Ornaments does Ginger cost? _____ | 700 | Christmas
-What Research is required to unlock Ginger? _____ | 50% Twisted Ginger Research | Christmas
-How many Ornaments does Rudie cost? _____ | 300 | Christmas
-How long does Bobette's Precious Packaging last? _____ | 8 seconds | Christmas
-What happens while Bobette is inside her gift box? _____ | She is invincible but cannot move | Christmas
-How much faster does Bobette's aura make Stamina regenerate? _____ | 50% | Christmas
-How much Movement Speed does Bobette's aura provide? _____ | 25% | Christmas
-How long does Bobette's Movement Speed boost last? _____ | 5 seconds | Christmas
-How long does Coal's Scout highlight items? _____ | 10 seconds | Christmas
-What does Coal's Scout reveal? _____ | Items across the map | Christmas
-How many Tapes does Ginger's Baked with Care cost? _____ | 100 | Christmas
-What does Ginger's Baked with Care do? _____ | Heals a targeted Toon to full Hearts | Christmas
-How much longer is Ginger's cooldown for each extra Ginger? _____ | 30 seconds | Christmas
-How much more does Ginger's ability cost for each extra Ginger? _____ | 50 Tapes | Christmas
-What is Rudie's active ability? _____ | Antler Charge | Christmas
-
-GENERAL GAMEPLAY QUESTIONS
-
-What is the main currency in Dandy's World? _____ | Ichor | Gameplay
-What are the enemies called? _____ | Twisteds | Gameplay
-What are the playable characters called? _____ | Toons | Gameplay
-Who runs the main shop? _____ | Dandy | Gameplay
-What is the main facility called? _____ | Gardenview Center | Gameplay
-What is the name of the machine players extract Ichor from? _____ | Ichor Machine | Gameplay
+What is the main currency in Dandy's World? _____ | Ichor | Currency
+What are the enemies called? _____ | Twisteds | Enemies
+What are playable characters called? _____ | Toons | Characters
+Who runs the shop? _____ | Dandy | Shopkeeper
+What is the main facility called? _____ | Gardenview Center | Location
 What transports players between Floors? _____ | Elevator | Gameplay
-What is the main objective of a Floor? _____ | Complete the required Machines and escape | Gameplay
-What currency is collected from Capsules? _____ | Research | Gameplay
-What happens when a player loses all their Hearts? _____ | They are eliminated | Gameplay
+What do players need to extract from Machines? _____ | Ichor | Machines
+What is the main objective of each Floor? _____ | Complete the required Machines and escape | Gameplay
+What is the name of the currency earned from Research Capsules? _____ | Research | Currency
+What happens when a Toon loses all their Hearts? _____ | They are eliminated | Health
 What are the six Toon stats? _____ | Health, Skill Check, Movement Speed, Stamina, Stealth, Extraction Speed | Stats
-What determines how quickly a Toon extracts Machines? _____ | Extraction Speed | Stats
-What determines how quickly a Toon runs? _____ | Movement Speed | Stats
-What stat affects how easily Twisteds detect a Toon? _____ | Stealth | Stats
-What stat affects Skill Check difficulty? _____ | Skill Check | Stats
-What stat determines how much Stamina a Toon has? _____ | Stamina | Stats
-How many Hearts do Main Characters generally have? _____ | 2 | Health
-How many total stars do regular Toons have across their five rated stats? _____ | 15 | Stats
-How many total stars do Main Characters have across their five rated stats? _____ | 16 | Stats
-How many stars can a normal Toon stat have at maximum? _____ | 5 | Stats
-What happens when a player misses a Skill Check? _____ | The Machine makes noise | Machines
-What happens when all required Machines are completed? _____ | The Elevator opens | Machines
-What is the name of the event where the lights go out? _____ | Blackout | Events
-What is the name of the currency used to unlock Holiday Toons? _____ | Event currency | Events
-What are the three types of Toon abilities? _____ | Active, Passive, Toggle | Abilities
-Which type of ability requires the player to activate it? _____ | Active | Abilities
-Which type of ability works without direct activation? _____ | Passive | Abilities
-Which type of ability can be turned on and off? _____ | Toggle | Abilities
-How many seconds does Connie's Haunting Escape last? _____ | 5 seconds | Abilities
-How much Extraction Speed does Boxten gain per living Toon? _____ | 6% | Abilities
-What is Boxten's maximum Wind-Up bonus? _____ | 48% | Abilities
-How much Machine progress does Eggson add? _____ | 20% | Abilities
-How long does Finn's Reel In boost last? _____ | 10 seconds | Abilities
-How much Movement Speed does Finn gain? _____ | 35% | Abilities
-How much Research does Rodger earn compared with normal? _____ | Double | Abilities
-How much Extraction Speed does Shelly provide? _____ | 75% | Abilities
-How long does Shelly's Inspiration last? _____ | 15 seconds | Abilities
-How much Movement Speed does Tisha provide? _____ | 25% | Abilities
-How long does Tisha's Tidy Up boost last? _____ | 5 seconds | Abilities
-How much Extraction Speed does Squirm gain? _____ | 100% | Abilities
-How long does Squirm's extraction boost last? _____ | 10 seconds | Abilities
-How many Tapes does Teagan spend to heal one Heart? _____ | 75 | Abilities
-How many Tapes does Sprout spend to heal one Heart? _____ | 100 | Abilities
-How many Tapes does Blot's decoy cost? _____ | 10 | Abilities
-How many Hearts does Blot Jr. have? _____ | 1 | Abilities
-How many random candy items does Yatta drop after completing a Machine? _____ | 2 | Abilities
-How many random candy items does Yatta drop when injured? _____ | 4 | Abilities
-How much Movement Speed does Looey gain per missing Heart? _____ | 20% | Abilities
-How many seconds does Poppy's Panic Pop last? _____ | 3 seconds | Abilities
-How much speed does Poppy gain from Panic Pop? _____ | 50% | Abilities
-How long does Vee's Mic Check reveal Twisteds and Machines? _____ | 5 seconds | Abilities
-How many unfinished Machines does Vee's Camera Hijack highlight? _____ | 2 | Abilities
-How long does Brightney's Night Light reveal Twisteds? _____ | 8 seconds | Abilities
-How long does Flutter's Floaty Dash increase her Movement Speed? _____ | 0.75 seconds | Abilities
-How long does Flyte's Gust stay on the ground? _____ | 10 seconds | Abilities
-How much speed does Flyte's Gust provide? _____ | 15% | Abilities
-How long does Flyte's speed boost last? _____ | 3 seconds | Abilities
-How much Extraction Speed does Brusha's Painting Mode boost? _____ | 25% | Abilities
-How much does Brusha increase Skill Check chance? _____ | 15% | Abilities
-How much Movement Speed does Gourdy's Trick or Treat boost? _____ | 20% | Abilities
-How much Extraction Speed does Gourdy's Trick or Treat boost? _____ | 20% | Abilities
-How long does Gourdy's boost last? _____ | 15 seconds | Abilities
-```
+Which stat determines how quickly Machines are completed? _____ | Extraction Speed | Stats
+Which stat affects how easily Twisteds detect a Toon? _____ | Stealth | Stats
+Which stat determines how quickly a Toon runs? _____ | Movement Speed | Stats
+Which stat affects Skill Checks? _____ | Skill Check | Stats
+What happens when all required Machines are completed? _____ | The Elevator opens | Gameplay
+What is the event where the lights go out called? _____ | Blackout | Events
+What are the three ability categories? _____ | Active, Passive, Toggle | Abilities
+Which ability category requires direct activation? _____ | Active | Abilities
+Which ability category works without direct activation? _____ | Passive | Abilities
+Which ability category can be switched on and off? _____ | Toggle | Abilities
+How many Hearts do Main Toons generally have? _____ | 2 | Health
+How many stars do regular Toons generally have across their five rated stats? _____ | 15 | Stats
+How many stars do Main Toons generally have across their five rated stats? _____ | 16 | Stats
+What is the maximum star rating for a stat? _____ | 5 | Stats
+
+How much Extraction Speed does Boxten gain per living Toon? _____ | 6% | Wind-Up
+What is Boxten's maximum Wind-Up bonus? _____ | 48% | Wind-Up
+How long does Bobette's Precious Packaging last? _____ | 8 seconds | Protection
+How long does Bobette's Festive Aura speed boost last? _____ | 5 seconds | Speed
+How much faster does Bobette's aura regenerate Stamina? _____ | 50% | Stamina
+How much Movement Speed does Bobette's aura provide? _____ | 25% | Speed
+How long does Connie's invisibility last? _____ | 5 seconds | Haunting Escape
+How many Tapes does Teagan spend to heal one Heart? _____ | 100 | Tea Time
+How many Tapes does Ginger's healing ability cost? _____ | 100 | Baked with Care
+How many Tapes does Blot's decoy cost? _____ | 10 | Blot Jr.
+How many Hearts does Blot's decoy have? _____ | 1 | Blot Jr.
+How much Machine completion does Eggson add? _____ | 20% | Fixer Upper
+How many times can Eggson activate Fixer Upper on one Machine? _____ | Once | Fixer Upper
+How much Movement Speed does Finn gain? _____ | 35% | Reel In
+How long does Finn's speed boost last? _____ | 10 seconds | Reel In
+How much Extraction Speed does Cocoa's Bonbon provide? _____ | 50% | Bonbon
+How much Movement Speed does Cocoa's Bonbon provide? _____ | 25% | Bonbon
+How long does Cocoa's Bonbon boost last? _____ | 10 seconds | Bonbon
+How long does Brightney reveal Twisteds during Blackouts? _____ | 8 seconds | Night Light
+How long does Flyte's Gust remain at its location? _____ | 10 seconds | Gust
+How much Movement Speed does Flyte's Gust provide? _____ | 15% | Gust
+How long does Flyte's speed boost last? _____ | 5 seconds | Gust
+How much faster does Astro regenerate Stamina? _____ | 50% | Well Rested
+How much Extraction Speed does Brusha's Artistic Inspiration provide? _____ | 25% | Painting
+How much higher is Brusha's Skill Check chance? _____ | 15% | Painting
+How long does Coal highlight items? _____ | 10 seconds | Scout
+How much Movement Speed does Tisha's Tidy Up provide? _____ | 25% | Speed
+How long does Tisha's speed boost last? _____ | 5 seconds | Speed
+How much Research does Rodger earn compared with normal? _____ | Double | Detective
+How much Movement Speed does Looey gain per missing Heart? _____ | 20% | Heart of Helium
+
+How many holiday Toons are in the Easter event? _____ | 4 | Easter
+How many holiday Toons are in the Halloween event? _____ | 4 | Halloween
+How many holiday Toons are in the Christmas event? _____ | 4 | Christmas
+How many holiday Toons are there in total? _____ | 12 | Holiday
+Which holiday event uses Baskets? _____ | Easter | Currency
+Which holiday event uses Pumpkins? _____ | Halloween | Currency
+Which holiday event uses Ornaments? _____ | Christmas | Currency
+Which Easter Toon is a Main Character? _____ | Bassie | Easter
+Which Halloween Toon is a Main Character? _____ | Gourdy | Halloween
+Which Christmas Toon is a Main Character? _____ | Bobette | Christmas
+What is the Easter event currency? _____ | Baskets | Easter
+What is the Halloween event currency? _____ | Pumpkins | Halloween
+What is the Christmas event currency? _____ | Ornaments | Christmas
+How many Event Toons belong to each holiday? _____ | 4 | Holiday
+Can purchased Holiday Toons still be used after their event ends? _____ | Yes | Holiday
+What happens to Holiday Toons after the event ends? _____ | They remain playable if unlocked | Holiday
+Which three planned Halloween Toons were scrapped? _____ | Harvey, Countess, and Duke | Halloween
+Which Holiday Toon was originally planned as a Halloween Toon before becoming a regular Toon? _____ | Connie | Halloween
+Which Christmas Toons are Common, Uncommon, Rare, and Main? _____ | Rudie, Ginger, Coal, and Bobette | Christmas
+Which Holiday Toon is the older sibling? _____ | Flyte | Easter
