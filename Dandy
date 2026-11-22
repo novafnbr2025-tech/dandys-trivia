@@ -1,110 +1,67 @@
-Holiday Toons are unlocked using their event's exclusive currency during an active _____.|Event|Can still be played after the event ends once bought
-Once you buy a Holiday Toon during its event, you _____ use them in runs after the event ends.|can|You just cannot purchase them again until the event returns
-Common Holiday Toons always cost _____ event currency.|300|Rudie is a Common Holiday Toon
-Common Holiday Toons have _____ stars in every single stat.|3|Balanced starter-like stat spread
-A Common Holiday Toon's main trait is being an enthusiast of their _____.|holiday|Costs 300 event currency
-Uncommon Holiday Toons always cost _____ event currency.|700|Plus 50% Twisted research
-Uncommon Holiday Toons require _____% research on their Twisted counterpart.|50|Plus 700 event currency
-An Uncommon Holiday Toon's main trait is being biologically _____ to a base-game Toon.|related|Cousin, sibling, or twin
-Uncommon Holiday Toons always appear on _____ Only Signs.|Staff|Holiday rarity pattern
-Rare Holiday Toons always cost _____ event currency.|1500|Plus a miscellaneous objective
-All Rare Holiday Toons are _____.|female|Share animal-like designs and real-word names
-A Rare Holiday Toon's main trait is having an _____ design and a real-word name.|animal-like|Coal and Cocoa are Rare Holiday Toons
-Main Character Holiday Toons always cost _____ event currency.|3000|Paired with 2500 Ichor and 100% research
-Main Character Holiday Toons cost _____ Ichor in addition to event currency.|2500|Cheapest Ichor cost among Main Toons
-To unlock a Main Character Holiday Toon, you need _____% research on their Twisted.|100|Max Twisted research
-Main Character Holiday Toons own the event _____.|shop|Share their design with the event currency
-Main Character Holiday Toons each have _____ posters.|2|Holiday Main Toon trait
-Every Main Character Holiday Toon is female and starts with the letter B except _____.|Gourdy|Halloween Main Toon
-Non-Main Holiday Toons require _____ Ichor to unlock.|no|Unlocked using event currency and requirements
-There are _____ limited-time Holiday Trinkets documented in Dandy's World.|12|Unavailable outside their events
-The currency used to unlock Christmas Event Toons is _____.|Ornaments|Festive tree decorations
-The four Christmas Event Toons are Bobette, Coal, Ginger, and _____.|Rudie|Released in the Christmas Event
-The Christmas Main Character Toon who owns the Christmas shop is _____.|Bobette|Ornament Main Toon
-The Rare Christmas Toon who looks like a dog is _____.|Coal|Costs 1500 Ornaments + objective
-The Uncommon Christmas Toon who is Cosmo's cousin is _____.|Ginger|Gingy cookie Toon
-The Common Christmas Toon with a glowing red nose is _____.|Rudie|Reindeer Toon
-Ginger is biologically related to _____, who is her cousin.|Cosmo|Base-game cake Toon
-Bobette's Passive Ability is called Festive _____.|Aura|Passively boosts nearby Toons
-Bobette's Festive Aura gives nearby Toons _____% faster stamina regeneration.|50|Aura stamina buff
-Bobette's Festive Aura gives nearby Toons a _____% speed boost for 5 seconds.|25|Aura speed buff
-Bobette's Festive Aura speed boost lasts _____ seconds.|5|Paired with 50% faster stamina regen
-Bobette can keep providing her aura boost even while extracting a _____.|Machine|Helpful on Duo Machines
-Bobette originally had 5 stars in Skill Check and Stamina before a Discord poll moved a star to Movement _____.|Speed|Updated in v0.6.1
-Bobette has the highest Stamina tier in the game at _____ stars.|5|Tied with Scraps, Sprout, and Blot
-Coal, Ginger, and _____ were the very first Toons to require no Ichor to unlock.|Rudie|Christmas trio
-When alphabetically sorted, the Christmas Toons appear in _____ rarity order.|inverse|Bobette, Coal, Ginger, Rudie
-The Christmas Toon whose Active Ability has a short 23-second cooldown is _____.|Rudie|Quick dash ability
-Rudie's Active Ability has a cooldown of _____ seconds.|23|Fastest holiday dash cooldown
-The Trinket that grants 30 Stamina when using an Active Ability is Peppermint _____.|Icing|Ginger's holiday trinket
-Peppermint Icing grants _____ Stamina whenever you use an Active Ability.|30|Christmas holiday trinket
-The currency used to unlock Easter Event Toons is _____.|Baskets|Woven Easter baskets
-The four Easter Event Toons are Bassie, Cocoa, Eggson, and _____.|Flyte|Unlocked using Baskets
-The Easter Main Character Toon who owns the Easter shop is _____.|Bassie|Easter 2025 Main Toon
-The Rare Easter Toon who is a chocolate bunny is _____.|Cocoa|Drops Bonbons for teammates
-The Uncommon Easter Toon who is Flutter's sibling is _____.|Flyte|Butterfly sibling
-The Common Easter Toon who is an elderly egg with a cane is _____.|Eggson|Costs 300 Baskets
-Flutter and _____ are siblings.|Flyte|Base-game and Easter butterflies
-Bassie was the very first Toon in the game to have an Active Ability with no _____.|cooldown|Added in the 2025 Easter Event
-Bassie's Active Ability is called Springful _____.|Sharing|Lets her drop items from her inventory
-Bassie's Springful Sharing lets her drop _____ from her inventory for other Toons.|items|Supportive inventory ability
-Cocoa's Active Ability drops _____ candy items on the floor.|Bonbon|Boosts extraction and speed
-Cocoa's Bonbon boosts extraction speed by +_____% for 10 seconds.|50|Also boosts movement speed by +25%
-Cocoa's Bonbon boosts movement speed by +_____% for 10 seconds.|25|Also boosts extraction speed by +50%
-Cocoa's Bonbon boosts last _____ seconds.|10|Extraction and speed buff duration
-Cocoa's Bonbon ability has a cooldown of _____ seconds.|40|Places a Bonbon on the floor
-Eggson's Passive Ability is called Fixer _____.|Upper|Hitting a machine with his cane completes it by 20%
-Eggson's Fixer Upper completes a machine by _____% when hitting it with his cane.|20|Passive machine boost
-Flyte's Active Ability places a _____ at his location for 10 seconds.|Gust|Speed pad for teammates
-Flyte's Gust stays on the floor for _____ seconds.|10|Boosts teammates who walk through it
-Walking into Flyte's Gust gives a +_____% movement speed boost for 5 seconds.|15|Lasts 5 seconds
-Walking into Flyte's Gust gives a movement speed boost for _____ seconds.|5|+15% speed boost
-Cocoa, Flyte, and _____ were the second group of Toons requiring no Ichor to obtain.|Eggson|Easter non-Main trio
-The first Toon event to feature Bassie was the 2025 _____ Event.|Easter|Spring holiday event
-The currency used to unlock Halloween Event Toons is _____.|Pumpkins|Spooky jack-o'-lanterns
-The four Halloween Event Toons are Eclipse, Gourdy, Ribecca, and _____.|Soulvester|Unlocked using Pumpkins
-The Halloween Main Character Toon who owns the Halloween shop is _____.|Gourdy|Pumpkin Main Toon
-The Rare Halloween Toon who transforms into a werewolf during blackouts is _____.|Eclipse|Wolf Toon
-The Common Halloween Toon who is a skeleton immune to debuffs is _____.|Ribecca|Spooky skeleton Toon
-The Halloween ghost knight Toon who is Connie's twin sibling is _____.|Soulvester|Armored ghost Toon
-Connie and _____ are twin siblings.|Soulvester|Ghost twins
-Gourdy's Active Ability is called Trick or _____.|Treat|Applies a random 20% boost
-Gourdy's Trick or Treat applies a random _____% boost for 15 seconds to Toons in range.|20|Cooldown is 35 seconds
-Gourdy's Trick or Treat boost lasts _____ seconds.|15|Random stat boost duration
-Gourdy's Trick or Treat Active Ability has a cooldown of _____ seconds.|35|Halloween Main Active Ability
-Gourdy's Passive Ability is called Sugar _____.|Rush|Team-wide speed boost
-Gourdy's Sugar Rush gives all players a _____% speed boost when the elevator opens or Panic Mode starts.|20|Team-wide speed passive
-Gourdy's Sugar Rush speed boost lasts _____ seconds.|5|Triggers on elevator open and Panic Mode
-Ribecca's Passive Ability is called The _____.|Undead|Makes her immune to applied debuffs
-Ribecca's The Undead makes her immune to all applied _____.|debuffs|Excluding trinket downsides
-When Ribecca's debuff immunity triggers, she gets a random buff for _____ seconds.|10|Turns debuffs into buffs
-Ribecca's Mastery quest that references Ichor Leaks is called Experience Ichor _____.|Spills|Immunity passive helps handle puddles
-Soulvester's Active Ability lets him spend a heart to guard an ally and stun the attacking Twisted for _____ seconds.|1.5|Teleports to block the hit
-Soulvester's guard ability gives a _____-Star speed boost while guarding.|1|Increases to 3-Star after blocking
-Soulvester's guard ability gives a _____-Star speed boost for 2 seconds after defending.|3|Post-block escape boost
-Soulvester and _____ were the second pair of Toons to have 5 stars in two different stats.|Gourdy|High-stat Halloween Toons
-Eclipse's Passive Ability is called Full _____.|Eclipse|Activates during blackouts
-Eclipse's Full Eclipse passive activates during _____.|blackouts|Transforms her into a werewolf
-During a blackout, Eclipse's Full Eclipse passive grants _____ extra Stamina Stars.|2|Plus a 20% movement speed boost
-During a blackout, Eclipse's Full Eclipse passive grants a _____% movement speed boost.|20|Also makes her glow and highlights Twisteds
-Due to the cancellation of the 2024 Halloween Event, there are _____ scrapped Holiday Toons.|3|Harvey, Countess, and Duke
-The three scrapped 2024 Halloween Toons were Harvey, Countess, and _____.|Duke|Their designs will never be revealed
-The Toon originally made as a 2024 Halloween Toon before becoming a permanent base Toon is _____.|Connie|Replaced by Eclipse as a Holiday Toon
-The Holiday Toon who replaced Connie after she became permanent is _____.|Eclipse|Halloween werewolf Toon
-The non-Main Holiday Toons with Passive Abilities are Eggson, Ribecca, Eclipse, and _____.|Soulvester|All other non-Main Holiday Toons have Active Abilities
-The Christmas Event currency is _____.|Ornaments|Used for Bobette, Coal, Ginger, and Rudie
-The Easter Event currency is _____.|Baskets|Used for Bassie, Cocoa, Eggson, and Flyte
-The Halloween Event currency is _____.|Pumpkins|Used for Gourdy, Eclipse, Ribecca, and Soulvester
-The Christmas Main Character Toon is _____.|Bobette|Costs 3000 Ornaments and 2500 Ichor
-The Easter Main Character Toon is _____.|Bassie|Costs 3000 Baskets and 2500 Ichor
-The Halloween Main Character Toon is _____.|Gourdy|Costs 3000 Pumpkins and 2500 Ichor
-The Christmas Common Toon is _____.|Rudie|Costs 300 Ornaments
-The Easter Common Toon is _____.|Eggson|Costs 300 Baskets
-The Halloween Common Toon is _____.|Ribecca|Costs 300 Pumpkins
-The Christmas Rare Toon is _____.|Coal|Costs 1500 Ornaments + objective
-The Easter Rare Toon is _____.|Cocoa|Costs 1500 Baskets + objective
-The Halloween Rare Toon is _____.|Eclipse|Costs 1500 Pumpkins + objective
-The Christmas Uncommon Toon is _____.|Ginger|Costs 700 Ornaments + 50% research
-The Easter Uncommon Toon is _____.|Flyte|Costs 700 Baskets + 50% research
-Gourdy is the only Holiday Main Character Toon whose name does not start with the letter _____.|B|Bobette and Bassie start with B
-Every Holiday Main Character Toon shares their design with their event's _____.|currency|Ornament, Basket, and Pumpkin designs
+The Toon with 1 star in every single stat (Skill Check, Movement Speed, Stamina, Stealth, and Extraction Speed) is _____.|Shrimpo|Challenge Toon with 5 stars total
+The Toon with 5 stars in every single stat when played by developers is _____.|Dandy|25 stars total
+The Toon with 5-star Extraction Speed, 4-star Skill Check, 3-star Stamina, 3-star Movement Speed, and 2-star Stealth is _____.|Vee|Main Character TV Toon
+The Toon with 5-star Skill Check, 4-star Extraction Speed, 3-star Movement Speed, 3-star Stealth, and 2-star Stamina is _____.|Shelly|Main Character fossil Toon
+The Toon with 5-star Stealth, 3-star Skill Check, 3-star Movement Speed, 3-star Stamina, and 3-star Extraction Speed is _____.|Astro|Main Character moon Toon
+The Toon with 5-star Movement Speed, 4-star Stamina, 3-star Skill Check, 3-star Stealth, and 1-star Extraction Speed is _____.|Pebble|Main Character rock dog Toon
+The Toon with 5-star Stamina, 4-star Movement Speed, 3-star Stealth, 2-star Skill Check, and 2-star Extraction Speed is _____.|Sprout|Main Character strawberry Toon
+The Toon with 5-star Movement Speed, 5-star Stealth, 2-star Skill Check, 2-star Stamina, and 2-star Extraction Speed is _____.|Bassie|Easter Main Character Toon
+The Toon with 5-star Skill Check, 5-star Extraction Speed, 3-star Stamina, 2-star Movement Speed, and 1-star Stealth is _____.|Gourdy|Halloween Main Character Toon
+The Toon with 5-star Stamina, 3-star Skill Check, 3-star Movement Speed, 3-star Stealth, and 2-star Extraction Speed is _____.|Bobette|Christmas Main Character Toon
+The Toon with 5-star Skill Check, 5-star Extraction Speed, 3-star Stealth, 1-star Movement Speed, and 1-star Stamina is _____.|Soulvester|Armored ghost Halloween Toon
+The Toon with 5-star Extraction Speed, 3-star Skill Check, 3-star Movement Speed, 2-star Stamina, and 2-star Stealth is _____.|Glisten|Mirror Toon
+The Toon with 5-star Stealth, 4-star Extraction Speed, 3-star Skill Check, 2-star Stamina, and 1-star Movement Speed is _____.|Connie|Ghost Toon
+The Toon with 5-star Skill Check, 4-star Stealth, 3-star Extraction Speed, 2-star Movement Speed, and 1-star Stamina is _____.|Gigi|Gachapon capsule Toon
+The Toon with 5-star Extraction Speed, 5-star Movement Speed, 2-star Skill Check, 2-star Stealth, and 1-star Stamina is _____.|Yatta|Pinata Toon
+The Toon with 5-star Stamina, 4-star Movement Speed, 2-star Skill Check, 2-star Extraction Speed, and 2-star Stealth is _____.|Blot|Mime Toon
+The Toon with 5-star Stamina, 3-star Skill Check, 3-star Stealth, 2-star Movement Speed, and 2-star Extraction Speed is _____.|Scraps|Craft-paper cat Toon
+The Toon with 4-star Movement Speed, 4-star Stamina, 4-star Stealth, 2-star Skill Check, and 1-star Extraction Speed is _____.|Goob|Fluffy craft-arm distractor Toon
+The Toon with 4-star Movement Speed, 4-star Skill Check, 3-star Stamina, 2-star Stealth, and 2-star Extraction Speed is _____.|Tisha|Tissue box Toon
+The Toon with 4-star Movement Speed, 4-star Skill Check, 3-star Stamina, 2-star Extraction Speed, and 2-star Stealth is _____.|Looey|Balloon dog Toon
+The Toon with 4-star Extraction Speed, 4-star Skill Check, 3-star Movement Speed, 2-star Stamina, and 2-star Stealth is _____.|Finn|Fishbowl Toon
+The Toon with 4-star Extraction Speed, 4-star Stealth, 3-star Skill Check, 2-star Movement Speed, and 2-star Stamina is _____.|Rodger|Magnifying glass detective Toon
+The Toon with 4-star Stamina, 4-star Stealth, 3-star Movement Speed, 2-star Skill Check, and 2-star Extraction Speed is _____.|Toodles|Magic 8-ball Toon
+The Toon with 4-star Stamina, 3-star Skill Check, 3-star Movement Speed, 3-star Stealth, and 3-star Extraction Speed is _____.|Teagan|Brown teacup Toon
+The Toon with 4-star Stamina, 3-star Skill Check, 3-star Movement Speed, 3-star Extraction Speed, and 1-star Stealth is _____.|Brightney|Lamp Toon with 1-star Stealth
+The Toon with 4-star Stealth, 4-star Stamina, 3-star Movement Speed, 3-star Extraction Speed, and 1-star Skill Check is _____.|Cosmo|Swiss roll cake healer Toon
+The Toon with 4-star Movement Speed, 4-star Stamina, 3-star Skill Check, 2-star Stealth, and 2-star Extraction Speed is _____.|Flutter|Butterfly Toon
+The Toon with 4-star Movement Speed, 4-star Extraction Speed, 3-star Skill Check, 2-star Stamina, and 2-star Stealth is _____.|Flyte|Easter butterfly Toon
+The Toon with 4-star Movement Speed, 4-star Stamina, 3-star Stealth, 2-star Skill Check, and 2-star Extraction Speed is _____.|Cocoa|Easter bunny Toon
+The Toon with 4-star Stamina, 4-star Stealth, 3-star Skill Check, 2-star Movement Speed, and 2-star Extraction Speed is _____.|Coal|Christmas dog Toon
+The Toon with 4-star Stealth, 4-star Stamina, 3-star Skill Check, 2-star Movement Speed, and 2-star Extraction Speed is _____.|Ginger|Christmas cookie healer Toon
+The Toon with 4-star Movement Speed, 4-star Stamina, 3-star Skill Check, 2-star Extraction Speed, and 2-star Stealth is _____.|Eclipse|Halloween werewolf Toon
+The Toon with 4-star Skill Check, 4-star Stamina, 3-star Extraction Speed, 2-star Movement Speed, and 2-star Stealth is _____.|Brusha|Paintbrush artist Toon
+The Toon with 4-star Extraction Speed, 4-star Skill Check, 3-star Stamina, 2-star Movement Speed, and 2-star Stealth is _____.|Squirm|Bookworm Toon
+The Toon who swaps between 5-star Movement Speed (1-star Extraction) on odd floors and 5-star Extraction Speed (1-star Speed) on even floors is _____.|Razzle & Dazzle|Comedy and Tragedy masks
+The Main Character Toon with 5-star Extraction Speed and 4-star Skill Check is _____.|Vee|Yellow TV Toon
+The Main Character Toon with 5-star Skill Check and 4-star Extraction Speed is _____.|Shelly|Green fossil Toon
+The Main Character Toon with 5-star Movement Speed and 1-star Extraction Speed is _____.|Pebble|Rock dog Toon
+The Main Character Toon with 5-star Stamina and 4-star Movement Speed is _____.|Sprout|Strawberry Toon
+The Main Character Toon with 5-star Stealth and 3 stars in all other stats is _____.|Astro|Crescent moon Toon
+The Holiday Main Toon with 5-star Movement Speed and 5-star Stealth is _____.|Bassie|Easter basket Toon
+The Holiday Main Toon with 5-star Skill Check, 5-star Extraction Speed, and 1-star Stealth is _____.|Gourdy|Halloween pumpkin Toon
+The Holiday Main Toon with 5-star Stamina and 3-star Movement Speed is _____.|Bobette|Christmas ornament Toon
+The regular Toon with 5-star Extraction Speed and 2-star Stealth is _____.|Glisten|Mirror Toon
+The regular Toon with 5-star Stealth and 1-star Movement Speed is _____.|Connie|Floating ghost Toon
+The regular Toon with 5-star Skill Check and 1-star Stamina is _____.|Gigi|Gachapon Toon
+The regular Toon with 5-star Stamina and 2-star Movement Speed is _____.|Scraps|Paper cat Toon
+The regular Toon with 5-star Stamina and 4-star Movement Speed is _____.|Blot|Ink mime Toon
+The Holiday Toon with 5-star Skill Check, 5-star Extraction Speed, 1-star Speed, and 1-star Stamina is _____.|Soulvester|Halloween ghost knight
+The distractor Toon with 4-star Movement Speed, 4-star Stamina, and 1-star Stealth is _____.|Goob|Fluffy arms Toon
+The Toon with 4-star Stamina and 1-star Stealth is _____.|Brightney|Glowing lamp Toon
+The healer Toon with 4-star Stealth and 1-star Skill Check is _____.|Cosmo|Cake roll Toon
+The Toon with 5-star Extraction Speed, 5-star Movement Speed, and 1-star Stamina is _____.|Yatta|Pinata Toon
+The Toon with 4-star Movement Speed, 4-star Skill Check, and 2-star Stealth who speeds up when losing hearts is _____.|Looey|Balloon dog Toon
+The Toon with 4-star Movement Speed, 4-star Skill Check, and 2-star Extraction Speed who cleans puddles is _____.|Tisha|Tissue box Toon
+The detective Toon with 4-star Extraction Speed, 4-star Stealth, and 2-star Movement Speed is _____.|Rodger|Magnifying glass Toon
+The Toon with 4-star Extraction Speed, 4-star Skill Check, and 2-star Stamina who tells ocean puns is _____.|Finn|Fishbowl Toon
+The Toon with 4-star Stealth, 4-star Stamina, and 3-star Movement Speed who looks like an 8-ball is _____.|Toodles|8-ball Toon
+The Toon with 4-star Stamina and 3 stars in every other stat who heals herself with Tapes is _____.|Teagan|Teacup Toon
+The Toon with 4-star Skill Check, 4-star Stamina, and 2-star Stealth who paints is _____.|Brusha|Paintbrush Toon
+The Toon with 4-star Extraction Speed, 4-star Skill Check, and 2-star Movement Speed who eats books is _____.|Squirm|Bookworm Toon
+The Toon with 4-star Movement Speed, 4-star Stamina, and 2-star Extraction Speed who cannot speak is _____.|Flutter|Butterfly Toon
+The Toon with 4-star Movement Speed, 4-star Extraction Speed, and 2-star Stamina who is Flutter's brother is _____.|Flyte|Easter butterfly Toon
+The Toon with 4-star Movement Speed, 4-star Stamina, and 2-star Extraction Speed who drops Bonbons is _____.|Cocoa|Easter bunny Toon
+The Toon with 4-star Stamina, 4-star Stealth, and 2-star Extraction Speed who is a Christmas dog is _____.|Coal|Holiday dog Toon
+The Toon with 4-star Stealth, 4-star Stamina, and 2-star Movement Speed who is Cosmo's cousin is _____.|Ginger|Christmas cookie Toon
+The Toon with 4-star Movement Speed, 4-star Stamina, and 2-star Stealth who turns into a werewolf is _____.|Eclipse|Halloween wolf Toon
