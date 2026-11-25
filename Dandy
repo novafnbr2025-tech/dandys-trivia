@@ -1,167 +1,98 @@
-What is Astro's active ability called?|Nap Time|Stamina restoration
-What does Astro's Nap Time restore?|Nearby Toons' Stamina|Team support
-What is Astro's passive ability called?|Well Rested|Stamina regeneration
-What percentage faster does Astro regenerate Stamina?|50%|Passive ability
-Which Toon can see allies below 50% Stamina?|Astro|Well Rested
-What is Bassie's active ability called?|Springful Sharing|Sharing items
-What does Springful Sharing allow Bassie to do?|Drop items from their inventory for others|Team support
-What is Bassie's passive ability called?|Easter Basket|Inventory
-What does Easter Basket provide?|An extra inventory slot|Passive ability
-What is Blot's active ability called?|Blot Jr.|Decoy
-What does Blot Jr. place on the Floor?|A decoy|Twisted distraction
-How much does Blot's Blot Jr. ability cost?|10 Tapes|Ability cost
-What is Bobette's active ability called?|Precious Packaging|Gift box
-What does Precious Packaging turn Bobette into?|A gift box|Defensive ability
-How long does Bobette stay inside her gift box?|8 seconds|Ability duration
-Can Bobette move while using Precious Packaging?|No|Gift box ability
-What is Bobette's passive ability called?|Festive Aura|Team support
-What does Bobette's Festive Aura improve?|Nearby Toons' Stamina regeneration and Movement Speed|Passive ability
-What is Boxten's passive ability called?|Wind-up|Extraction
-How much extra Extraction Speed does Boxten gain per living Toon?|6%|Wind-up
-What is Boxten's maximum Wind-up bonus?|48%|Extraction Speed
-What is Brightney's active ability called?|Night Light|Blackouts
-What does Night Light help Brightney see?|Twisteds during Blackouts|Visibility
-How long does Brightney's Night Light last?|8 seconds|Ability duration
-What is Brusha's ability called?|Artistic Inspiration|Painting Mode
-What type of ability is Artistic Inspiration?|Toggle|Ability categories
-What does Brusha's Painting Mode improve?|Nearby Toons' Skill Check|Team support
-What happens to Brusha's Movement Speed in Painting Mode?|It becomes slower|Ability drawback
-What is Coal's active ability called?|Scout|Finding items
-What does Scout highlight?|Items across the map|Item detection
-How long does Coal's Scout highlight items?|10 seconds|Ability duration
-What is Cocoa's active ability called?|Bonbon|Candy
-What does Cocoa's Bonbon place?|A candy item|Team support
-What does Cocoa's Bonbon boost?|Extraction Speed and Movement Speed|Candy effect
-What is Connie's active ability called?|Haunting Escape|Invisibility
-What happens when Connie uses Haunting Escape?|She becomes invisible|Twisted avoidance
-How long does Connie's Haunting Escape last?|5 seconds|Ability duration
-What is Cosmo's active ability called?|Sharing is Caring|Healing
-What does Sharing is Caring allow Cosmo to do?|Give one of his Hearts to another Toon|Healing ability
-Can Cosmo use Sharing is Caring when he has only one Heart?|No|Ability restriction
-What is Eclipse's passive ability called?|Total Eclipse|Blackouts
-When does Eclipse's Total Eclipse activate?|During Blackouts|Passive ability
-What Movement Speed boost does Eclipse gain from Total Eclipse?|20%|Blackout effect
-What is Eggson's passive ability called?|Fixer Upper|Machines
-What does Fixer Upper do to a Machine?|Adds completion when Eggson first extracts from it|Passive ability
-Can Eggson use Fixer Upper repeatedly on the same Machine?|No|One use per Machine
-What is Finn's passive ability called?|Reel In|Movement Speed
-What triggers Finn's Reel In?|A Machine being completed|Passive ability
-How long does Finn's Reel In Movement Speed boost last?|10 seconds|Ability duration
-What is Flutter's active ability called?|Floaty Dash|Movement
-What does Floaty Dash do?|Dashes Flutter forward|Movement ability
-What is Flyte's active ability called?|Gust|Movement support
-What does Flyte's Gust create?|A Gust that other Toons can walk through|Team support
-What does walking through Flyte's Gust provide?|A Movement Speed boost|Ability effect
-What is Gigi's active ability called?|Surprise!|Random items
-What does Surprise! give Gigi?|A random item|Item ability
-Can Gigi receive items from Dandy's Shop through Surprise!?|Yes|Random item ability
-What is Ginger's active ability called?|Baked with Care!|Healing
-What does Baked with Care! allow Ginger to do?|Heal a targeted Toon|Healing ability
-What resource is required for Ginger's healing ability?|Tapes|Ability cost
-What is Glisten's active ability called?|Reflection|Teleportation
-What does Reflection allow Glisten to do?|Teleport to a targeted Toon|Mirror ability
-Does Glisten need direct line of sight to teleport with Reflection?|No|Ability mechanic
-What is Goob's active ability called?|Hug!|Pulling allies
-What does Goob's Hug! do?|Pulls other Toons toward him|Team support
-Does Goob need line of sight to use Hug!?|Yes|Ability requirement
-What is Gourdy's active ability called?|Trick or Treat|Stat boosts
-What does Trick or Treat give nearby Toons?|A random stat boost|Ability effect
-What is Gourdy's passive ability called?|Sugar Rush|Movement Speed
-When does Sugar Rush activate?|When the Elevator opens and Panic Mode begins|Passive ability
-What does Looey's Heart of Helium improve?|Movement Speed|Missing Hearts
-What happens to Looey's speed as he loses Hearts?|His Movement Speed increases|Passive ability
-What is Pebble's active ability called?|Speak!|Barking
-What does Pebble's Speak! do?|Makes a loud bark that lowers Stealth|Ability effect
-What is Pebble's passive ability called?|Fetch!|Item detection
-What does Fetch! help Pebble locate?|Nearby items|Passive ability
-What is Poppy's passive ability called?|Panic Pop|Movement Speed
-What triggers Poppy's Panic Pop?|Being attacked|Passive ability
-What Movement Speed boost does Panic Pop provide?|50%|Ability effect
-How long does Poppy's Panic Pop boost last?|3 seconds|Ability duration
-What is Razzle & Dazzle's passive ability called?|Comedy/Tragedy|Floor numbers
-What changes Razzle & Dazzle's passive bonus?|Whether the Floor number is odd or even|Passive ability
-What does Razzle & Dazzle gain on odd-numbered Floors?|Movement Speed|Comedy/Tragedy
-What does Razzle & Dazzle gain on even-numbered Floors?|Extraction Speed|Comedy/Tragedy
-What is Ribecca's passive ability called?|The Undead|Debuffs
-What does The Undead make Ribecca immune to?|Applied debuffs|Passive ability
-What is Rodger's passive ability called?|Detective|Research
-What does Detective improve?|Research gained from Capsules and Twisted encounters|Passive ability
-How much Research does Rodger gain compared with normal?|Twice as much|Detective
-What is Rudie's active ability called?|Antler Charge|Movement
-What does Antler Charge allow Rudie to do?|Charge forward|Movement ability
-What is Scraps' active ability called?|Crafty Grapple|Grappling
-What does Crafty Grapple pull Scraps toward?|A targeted Toon or Machine position|Ability effect
-Does Scraps need line of sight for Crafty Grapple?|Yes|Ability requirement
-What is Shelly's active ability called?|Inspiration|Extraction
-What does Shelly's Inspiration boost?|A selected Toon's Extraction Speed|Team support
-How long does Shelly's Inspiration last?|15 seconds|Ability duration
-What is Shelly's passive ability called?|Problem Solver|Movement Speed
-What triggers Shelly's Problem Solver?|A Machine being completed|Passive ability
-How long does Shelly's Problem Solver boost last?|10 seconds|Ability duration
-What is Shrimpo's passive ability called?|Bully|Stealth
-What is unusual about Shrimpo's Stealth?|It is drastically lower than other Toons|Challenge Toon
-What is Soulvester's passive ability called?|Knightly Armor|Health
-What does Knightly Armor give Soulvester?|An extra Heart|Passive ability
-What type of Twisted attacks is Soulvester immune to?|Ranged attacks|Knightly Armor
-What is Sprout's active ability called?|Baked Sweets|Healing
-How many Hearts does Sprout's Baked Sweets restore?|1 Heart|Healing ability
-What resource does Sprout spend to heal another Toon?|Tapes|Ability cost
-What is Sprout's passive ability called?|Overprotective|Ally tracking
-What information can Sprout see about other living Toons?|Their locations and Health status|Passive ability
-What is Squirm's active ability called?|Distressed Delicacy|Books
-What does Squirm do while using Distressed Delicacy?|Eats books|Ability mechanic
-What does eating books give Squirm?|100% Extraction Speed for 10 seconds|Ability effect
-What makes Squirm's cooldown recover twice as fast?|Being near a bookshelf|Passive mechanic
-What is Teagan's active ability called?|Tea Time|Self-healing
-How many Hearts does Tea Time restore?|1 Heart|Healing ability
-What does Teagan spend to use Tea Time?|75 Tapes|Ability cost
-What is Tisha's active ability called?|Tidy Up!|Movement Speed
-What does Tidy Up! create?|A pulse|Ability effect
-What does Tisha's pulse do to nearby Toons?|Increases their Movement Speed|Team support
-How long does Tisha's Movement Speed boost last?|5 seconds|Ability duration
-What is Toodles' active ability called?|Beginner's Luck|Random stats
-What does Beginner's Luck provide?|A random stat boost|Ability effect
-What is the size of Toodles' Beginner's Luck boost?|15%|Stat boost
-How long does Beginner's Luck last?|10 seconds|Ability duration
-What is Vee's active ability called?|Mic Check|Detection
-What does Mic Check highlight?|Twisteds and Machines|Ability effect
-How long does Vee's Mic Check last?|5 seconds|Ability duration
-What is Vee's passive ability called?|Camera Hijack|Machine detection
-How many uncompleted Machines does Camera Hijack highlight?|2|Passive ability
-What is Yatta's passive ability called?|Piñata Party|Candy items
-What does Yatta drop after completing a Machine?|2 random candy items|Passive ability
-How many random candy items does Yatta drop when injured?|4|Piñata Party
-How many Trinkets can a Toon equip at once?|2|Loadout
-Can Trinkets be changed after entering a run?|No|Equipment rules
-How many Trinket loadouts can a player save?|3|Loadouts
-Where can most Trinkets be obtained?|Dandy's Store or Twisted Research|Trinket sources
-Which Trinket is obtained by joining the BlushCrunch Studio Roblox Group?|Blushy Bat|Group reward
-Which Trinket gives a Movement Speed boost when a new Floor arrives?|Pull Toy|Movement Speed
-How long does Pull Toy's Floor-start boost last?|10 seconds|Trinket effect
-What does Pop Pack provide at the start of a new Floor?|A Pop item|Item Trinket
-What does Megaphone provide every other Floor?|An Air Horn item|Item Trinket
-What does Cooler increase?|Stamina|Trinket effect
-What drawback does Cooler have?|It lowers Movement Speed|Trinket drawback
-What type of Twisted attacks does Cardboard 'Armor' protect against?|Long-ranged attacks|Defensive Trinket
-How many times can Cardboard 'Armor' activate per Floor?|Once|Trinket limit
-What are Trinkets used for?|Providing special effects to equipped Toons|Equipment
-Can a player save different combinations of Trinkets?|Yes|Loadouts
-What is the name of the area where players explore Floors?|Gardenview|Location
-What are the hostile versions of Toons called?|Twisteds|Enemies
-What do players extract from Machines?|Ichor|Main objective
-What resource is used for purchases in Dandy's Store?|Ichor|Currency
-What is the name of the shopkeeper in Dandy's Store?|Dandy|Shopkeeper
-What is the name of the special currency used for purchases in Dandy's Store?|Tapes|Currency
-What happens when a player activates an Active Ability for the first time on a Floor?|They receive 5 Ichor and 3 Tapes|Ability reward
-What are the three categories of Toon abilities?|Active, Passive, and Toggle|Ability types
-Which ability category requires direct player activation?|Active|Ability types
-Which ability category works without direct player input?|Passive|Ability types
-Which ability category stays active until the player turns it off?|Toggle|Ability types
-What key activates abilities on PC?|F|Controls
-What controller button activates abilities?|LB or L1|Controls
-Can Active Abilities be activated inside the Elevator between Floors?|No|Ability rules
-What is the purpose of a Toon’s Skill Check stat?|It affects Skill Checks|Toon stats
-What does the Movement Speed stat affect?|How quickly a Toon moves|Toon stats
-What does the Stamina stat affect?|How much Stamina a Toon has|Toon stats
-What does the Stealth stat affect?|How easily Twisteds notice a Toon|Toon stats
-What does the Extraction stat affect?|How quickly a Toon extracts Machines|Toon stats
+Astro's active ability is called ____|Nap Time|Stamina restoration
+Astro's passive ability is called ____|Well Rested|Stamina regeneration
+Astro's Nap Time restores nearby Toons' ____|Stamina|Team support
+Astro's Well Rested increases his Stamina regeneration by ____|50%|Passive ability
+Which Toon can see allies below 50% Stamina? ____|Astro|Well Rested
+Bassie's active ability is called ____|Springful Sharing|Sharing items
+Bassie's Springful Sharing allows him to ____|Drop items from his inventory for others|Team support
+Bassie's passive ability is called ____|Easter Basket|Inventory
+Bassie's Easter Basket provides an extra ____|Inventory slot|Passive ability
+Blot's active ability is called ____|Blot Jr.|Decoy
+Blot Jr. places a ____ on the Floor|Decoy|Twisted distraction
+Bobette's active ability is called ____|Precious Packaging|Gift box
+Precious Packaging turns Bobette into a ____|Gift box|Defensive ability
+Bobette's passive ability is called ____|Festive Aura|Team support
+Bobette's Festive Aura improves nearby Toons' ____|Stamina regeneration and Movement Speed|Passive ability
+Boxten's passive ability is called ____|Wind-up|Extraction
+Boxten gains 6% Extraction Speed for every ____ living Toons|One|Wind-up
+Boxten's maximum Wind-up bonus is ____|48%|Extraction Speed
+Brightney's active ability is called ____|Night Light|Blackouts
+Brightney's Night Light helps her see Twisteds during ____|Blackouts|Visibility
+Brusha's ability is called ____|Artistic Inspiration|Painting Mode
+Brusha's Artistic Inspiration is what type of ability? ____|Toggle|Ability categories
+Brusha's Painting Mode improves nearby Toons' ____|Skill Check|Team support
+Coal's active ability is called ____|Scout|Finding items
+Coal's Scout highlights ____ across the map|Items|Item detection
+Cocoa's active ability is called ____|Bonbon|Candy
+Cocoa's Bonbon places a ____|Candy item|Team support
+Cocoa's Bonbon boosts Extraction Speed and ____|Movement Speed|Candy effect
+Connie's active ability is called ____|Haunting Escape|Invisibility
+Connie becomes ____ when using Haunting Escape|Invisible|Twisted avoidance
+Cosmo's active ability is called ____|Sharing is Caring|Healing
+Cosmo's Sharing is Caring allows him to give another Toon one of his ____|Hearts|Healing ability
+What resource does Ginger spend to use Baked with Care? ____|Tapes|Ability cost
+Glisten's active ability is called ____|Reflection|Teleportation
+Glisten's Reflection allows him to teleport to a ____|Targeted Toon|Mirror ability
+Goob's active ability is called ____|Hug!|Pulling allies
+Goob's Hug! pulls other Toons ____|Toward him|Team support
+Gourdy's active ability is called ____|Trick or Treat|Stat boosts
+Gourdy's Trick or Treat gives nearby Toons a ____|Random stat boost|Ability effect
+Looey's passive ability is called ____|Heart of Helium|Movement Speed
+Looey's Movement Speed increases as he loses ____|Hearts|Passive ability
+Pebble's active ability is called ____|Speak!|Barking
+Pebble's Speak! makes a loud bark that lowers his ____|Stealth|Ability effect
+Pebble's passive ability is called ____|Fetch!|Item detection
+Pebble's Fetch! helps him locate nearby ____|Items|Passive ability
+Poppy's passive ability is called ____|Panic Pop|Movement Speed
+Poppy's Panic Pop activates when she is ____|Attacked|Passive ability
+Razzle & Dazzle's passive ability is called ____|Comedy/Tragedy|Floor numbers
+Razzle & Dazzle's passive bonus changes depending on whether the Floor number is ____|Odd or even|Passive ability
+Ribecca's passive ability is called ____|The Undead|Debuffs
+Rodger's passive ability is called ____|Detective|Research
+Rodger's Detective ability improves Research gained from Capsules and ____|Twisted encounters|Passive ability
+Rudie's active ability is called ____|Antler Charge|Movement
+Scraps' active ability is called ____|Crafty Grapple|Grappling
+Scraps' Crafty Grapple pulls her toward a targeted ____|Toon or Machine position|Ability effect
+Shelly's active ability is called ____|Inspiration|Extraction
+Shelly's Inspiration boosts a selected Toon's ____|Extraction Speed|Team support
+Shelly's passive ability is called ____|Problem Solver|Movement Speed
+Shrimpo's passive ability is called ____|Bully|Stealth
+Shrimpo has drastically lower ____ than other Toons|Stealth|Challenge Toon
+Soulvester's passive ability is called ____|Knightly Armor|Health
+Sprout's active ability is called ____|Baked Sweets|Healing
+Sprout's Baked Sweets restores ____ Heart|One|Healing ability
+Sprout's passive ability is called ____|Overprotective|Ally tracking
+Teagan's active ability is called ____|Tea Time|Healing
+Teagan spends ____ Tapes to use Tea Time|75|Ability cost
+Tisha's active ability is called ____|Tidy Up!|Movement Speed
+Tisha's Tidy Up! creates a ____|Pulse|Ability effect
+Toodles' active ability is called ____|Beginner's Luck|Random stats
+Toodles' Beginner's Luck provides a ____|Random stat boost|Ability effect
+Vee's active ability is called ____|Mic Check|Detection
+Vee's Mic Check highlights Twisteds and ____|Machines|Ability effect
+Vee's passive ability is called ____|Camera Hijack|Machine detection
+Yatta's passive ability is called ____|Piñata Party|Candy items
+A Toon can equip how many Trinkets at once? ____|2|Loadout
+How many Trinket loadouts can a player save? ____|3|Loadouts
+Most Trinkets can be obtained from Dandy's Store or ____|Twisted Research|Trinket sources
+The Trinket obtained by joining the BlushCrunch Studio Roblox Group is called ____|Blushy Bat|Group reward
+Which Trinket provides a Pop item at the start of a new Floor? ____|Pop Pack|Item Trinket
+Which Trinket provides an Air Horn every other Floor? ____|Megaphone|Item Trinket
+Which Trinket increases Stamina but lowers Movement Speed? ____|Cooler|Trinket effect
+Which Trinket protects against certain long-ranged Twisted attacks? ____|Cardboard 'Armor'|Defensive Trinket
+Trinkets provide special effects to equipped ____|Toons|Equipment
+What are the hostile versions of Toons called? ____|Twisteds|Enemies
+What do players extract from Machines? ____|Ichor|Main objective
+What resource is used for purchases in Dandy's Store? ____|Ichor|Currency
+Who is the shopkeeper in Dandy's Store? ____|Dandy|Shopkeeper
+What is the special currency used for purchases in Dandy's Store? ____|Tapes|Currency
+What is the name of the area where players explore Floors? ____|Gardenview|Location
+What are the three categories of Toon abilities? ____|Active, Passive, and Toggle|Ability types
+Which ability category requires direct player activation? ____|Active|Ability types
+Which ability category works without direct player input? ____|Passive|Ability types
+Which ability category stays active until the player turns it off? ____|Toggle|Ability types
+What is the purpose of a Toon's Skill Check stat? ____|It affects Skill Checks|Toon stats
+What does the Movement Speed stat affect? ____|How quickly a Toon moves|Toon stats
+What does the Stamina stat affect? ____|How much Stamina a Toon has|Toon stats
+What does the Stealth stat affect? ____|How easily Twisteds notice a Toon|Toon stats
+What does the Extraction stat affect? ____|How quickly a Toon extracts Machines|Toon stats
