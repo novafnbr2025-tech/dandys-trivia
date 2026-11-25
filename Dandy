@@ -1,106 +1,91 @@
-The main currency used to buy Toons, Trinkets, and Skins in the Lobby is _____.|Ichor|Earned from machines, floors, and capsules
-The currency found during runs to spend at Dandy's Shop or on certain abilities is _____.|Tapes|Used by Sprout, Teagan, and Blot
-The educational center and museum where Dandy's World takes place is _____ Center.|Gardenview|Main setting of the game
-The flower mascot who runs the shop in the elevator between floors is _____.|Dandy|Refuses to sell if ignored repeatedly
-You can equip up to _____ Trinkets on a Toon before starting a run.|2|Equipped before entering the elevator
-Regular Toons have _____ hearts of health.|3|Main Character Toons have 2
-Main Character Toons only have _____ hearts of health.|2|One less than regular Toons
-Regular Toons have a total of _____ stars distributed across their 5 stats.|15|Main Character Toons have 16
-Main Character Toons have a total of _____ stars distributed across their 5 stats.|16|One extra star over regular Toons
-The starter Toon who is a blue bubble is _____.|Poppy|Costs 100 Ichor
-The starter Toon who is a red music box is _____.|Boxten|Costs 100 Ichor
-The angry shrimp Toon who has 1 star in every single stat is _____.|Shrimpo|5 stars total
-Poppy's Passive Ability that gives her a 50% movement speed boost for 3 seconds when hit is called Panic _____.|Pop|Starter Toon passive
-Boxten's Passive Ability that increases his extraction speed by 6% for every alive Toon is called _____.|Wind-up|Caps at 48% in an 8-player run
-Shrimpo's Passive Ability that drastically lowers his Stealth and attracts Twisteds is called _____.|Bully|1 star in every stat
-Tisha's Active Ability that increases the movement speed of nearby Toons by 25% for 5 seconds is called _____.|Tidy Up|50-second cooldown
-Cosmo's Active Ability that sacrifices 1 of his own hearts to heal another Toon by 1 heart is called _____.|Sharing|60-second cooldown
-Brightney's Active Ability that shines a bright light during Blackouts and highlights Twisteds is called Night _____.|Light|45-second cooldown
-Finn's Passive Ability that increases his movement speed by 33% for 10 seconds whenever any machine completes is called _____.|Reel It In|Stacks on multiple completions
-Teagan's Active Ability that spends 100 Tapes to heal herself by 1 heart is called Tea _____.|Time|100-second cooldown
-Toodles' Active Ability that grants her a random 15% stat boost for 10 seconds is called _____ Eight.|Lucky|25-second cooldown
-Rodger's Passive Ability that doubles Research gained from capsules and encountering Twisteds is called _____.|Detective|Fills research twice as fast
-Razzle & Dazzle's Passive Ability that swaps their 5-star Speed and 5-star Extraction between odd and even floors is called Comedy / _____.|Tragedy|Odd = Speed, Even = Extraction
-Flutter's Active Ability that launches her forward at high speed for 0.75 seconds is called Floaty _____.|Dash|40-second cooldown
-Connie's Active Ability that turns her invisible and undetectable to Twisteds for 5 seconds is called _____.|Haunting|60-second cooldown
-Goob's Active Ability that pulls a targeted Toon directly to his location is called _____.|Hug|30-second cooldown
-Scraps' Active Ability that pulls her toward a targeted Toon or Machine is called Crafty _____.|Grasp|25-second cooldown
-Glisten's Active Ability that teleports him directly to a targeted Toon is called _____.|Reflection|60-second cooldown
-Gigi's Active Ability that grants her a random item in an open inventory slot is called _____.|Surprise|80-second cooldown
-Looey's Passive Ability that increases his movement speed by 20% for each missing heart is called _____ & Lighter.|Lighter|Faster at 2 hearts and 1 heart
-Blot's Active Ability that spends 10 Tapes to summon a decoy that distracts Twisteds is called Blot _____.|Jr.|Summons an ink decoy
-Yatta's Passive Ability that drops 3 candy items on the floor whenever she completes a machine or gets hit is called Sweet _____.|Scatter|Drops candies for the team
-Astro's Active Ability that restores 50% Stamina to all nearby Toons is called Nap _____.|Time|75-second cooldown
-Astro's Passive Ability that lets him see teammates below 50% Stamina and regenerates his own Stamina 50% faster is called _____.|Well-Rested|Main Toon passive
-Pebble's Active Ability that barks to drastically lower his Stealth and draw Twisteds toward him is called _____.|Speak|60-second cooldown
-Pebble's Passive Ability that highlights nearby items within 50 studs is called _____.|Fetch|Main Toon passive
-Shelly's Active Ability that boosts a targeted Toon's extraction speed by 75% for 15 seconds is called _____.|Inspiration|50-second cooldown
-Shelly's Passive Ability that boosts her movement speed by 25% for 10 seconds whenever any machine finishes is called Problem _____.|Solver|Main Toon passive
-Sprout's Active Ability that spends 100 Tapes to heal a targeted Toon by 1 heart is called Baked _____.|Sweets|100-second cooldown
-Sprout's Passive Ability that lets him see injured teammates and grants 10 Tapes when any machine completes is called _____.|Overprotective|Main Toon passive
-Vee's Active Ability that highlights all Twisteds on the floor for 5 seconds is called Mic _____.|Check|60-second cooldown
-Vee's Passive Ability that highlights the 2 closest uncompleted machines is called Camera _____.|Filter|Main Toon passive
-Rudie's Active Ability that launches him forward with a quick dash every 23 seconds is called Antler _____.|Charge|Christmas Common Toon
-Ginger's Active Ability that sacrifices 1 heart to heal a targeted Toon by 1 heart is called Baking _____.|Supplies|Christmas Uncommon Toon
-Coal's Active Ability that highlights all items on the floor for 10 seconds is called _____.|Scout|Christmas Rare Toon
-Bobette's Active Ability that encases her in a gift box to become invulnerable for 8 seconds is called _____.|Packed|Christmas Main Toon
-Bobette's Passive Ability that increases nearby Toons' Stamina regeneration by 50% is called Festive _____.|Aura|Christmas Main passive
-Eggson's Passive Ability that adds 20% completion when hitting a machine with his cane is called Fixer _____.|Upper|Easter Common Toon
-Flyte's Active Ability that leaves a wind trail boosting teammates' movement speed by 15% for 5 seconds is called _____ Gust.|Updraft|Easter Uncommon Toon
-Cocoa's Active Ability that drops a Bonbon item on the floor is called _____.|Bonbon|Easter Rare Toon
-Bassie's Active Ability that drops her currently selected item on the floor with no cooldown is called Springful _____.|Sharing|Easter Main Toon
-Bassie's Passive Ability that highlights all items on the floor is called _____.|Forager|Easter Main passive
-Ribecca's Passive Ability that makes her immune to applied negative status debuffs is called The _____.|Undead|Halloween Common Toon
-Eclipse's Passive Ability that boosts her speed by 20% and grants 2 extra Stamina stars during Blackouts is called Full _____.|Eclipse|Halloween Rare Toon
-Gourdy's Active Ability that applies a random 20% stat boost to nearby Toons for 15 seconds is called Trick or _____.|Treat|Halloween Main Toon
-Gourdy's Passive Ability that gives all Toons a 20% speed boost for 5 seconds when the elevator opens or Panic Mode starts is called Sugar _____.|Rush|Halloween Main passive
-Soulvester's Active Ability that spends 1 heart to guard an ally and stun the attacking Twisted for 1.5 seconds is called Soul _____.|Guard|Halloween ghost knight
-The Coin Purse trinket starts you with _____ Tapes at the beginning of a run.|30|Costs 200 Ichor
-The Wrench trinket instantly completes _____% of the first machine you touch on each floor.|33|Costs 325 Ichor
-The Machine Manual trinket increases Extraction Speed by _____%.|5|Costs 350 Ichor
-The Speedy Shoes trinket increases Walk and Run speed by _____%.|5|Costs 400 Ichor
-The Speedometer trinket increases maximum Stamina by _____.|15|Costs 450 Ichor
-The Thinking Cap trinket increases your Skill Check window size by _____.|40|Costs 750 Ichor
-The Alarm trinket increases movement speed by _____% during Panic Mode.|25|Costs 800 Ichor
-The Thermos trinket increases Stamina regeneration by _____%.|15|Costs 1100 Ichor
-The Pull Toy trinket increases movement speed by _____% for the first 10 seconds of every floor.|25|Costs 1200 Ichor
-The Cooler trinket grants 50 extra Stamina at the cost of _____% slower movement speed.|5|Costs 1750 Ichor
-The Cardboard Armor trinket blocks _____ ranged Twisted attack per floor.|1|Costs 2750 Ichor
-The Pink Bow trinket increases run speed by _____%.|7.5|Poppy's Twisted trinket
-The Blue Bandana trinket increases Extraction Speed by 7.5% while reducing Skill Check chance by _____%.|5|Boxten's Twisted trinket
-The Brick trinket reduces movement speed by _____% and is Shrimpo's Twisted trinket.|10|Challenge trinket
-The Feather Duster trinket restores _____ Stamina whenever you pick up an item.|20|Tisha's Twisted trinket
-The Sweet Charm trinket reduces Active Ability cooldowns by _____%.|8|Cosmo's Twisted trinket
-The Spare Bulb trinket increases light radius during Blackouts by _____%.|25|Brightney's Twisted trinket
-The Fishing Rod trinket grants _____ random items at the start of a run.|3|Finn's Twisted trinket
-The Fancy Purse trinket grants _____ Tapes once per run at the start.|100|Teagan's Twisted trinket
-The Dog Bone trinket increases movement speed by _____% for 3 seconds after picking up an item.|25|Toodles' Twisted trinket
-The Magnifying Glass trinket increases Skill Check value by 50% while shrinking the Skill Check window by _____%.|33|Rodger's Twisted trinket
-The Ribbon Spool trinket increases movement speed by _____% on even-numbered floors.|10|Razzle & Dazzle's Twisted trinket
-The Diary trinket increases Stealth by _____%.|25|Flutter's Twisted trinket
-The Ghost Snakes In A Can trinket reduces Active Ability cooldowns by _____ seconds.|5|Connie's Twisted trinket
-The Friendship Bracelet trinket grants _____ extra Stamina for every player currently in the run.|5|Goob's Twisted trinket
-The Crayon Set trinket grants a random uncommon or rare _____ at the start of every floor.|item|Scraps' Twisted trinket
-The Vanity Mirror trinket increases movement speed by _____% during Panic Mode.|30|Glisten's Twisted trinket
-The Lucky Coin trinket increases one random stat by _____% on every floor.|12|Gigi's Twisted trinket
-The Clown Horn trinket increases movement speed by _____% on odd-numbered floors.|10|Looey's Twisted trinket
-The Star Pillow trinket increases Stamina regeneration by _____% while extracting a machine.|100|Astro's Twisted trinket
-The Bone trinket increases movement speed by _____% for 4 seconds after picking up an item.|25|Pebble's Twisted trinket
-The Participation Award trinket increases Skill Check chance by 25% and Skill Check value by _____%.|15|Shelly's Twisted trinket
-The Savory Charm trinket saves you from a lethal hit once per run at _____ heart.|1|Sprout's Twisted trinket
-Vee's Remote instantly completes _____% of the first machine you touch on each floor.|50|Vee's Twisted trinket
-A Bandage restores _____ heart of health.|1|Common healing item
-A Health Kit restores _____ hearts of health.|2|Ultra Rare healing item
-A Pop restores _____ Stamina.|30|Common stamina item
-A Bottle o' Pop restores _____ Stamina and boosts movement speed by 15% for 5 seconds.|50|Rare stamina item
-A Box o' Chocolates has _____ uses that each restore 15 Stamina and boost speed by 15% for 5 seconds.|5|Ultra Rare item
-An Air Horn draws all Twisteds within _____ studs toward your location.|150|Distractor item
-A Smoke Bomb creates a cloud that hides Toons from Twisteds for _____ seconds.|5|Escape item
-An Eject Button teleports you straight back to the open elevator during _____ Mode.|Panic|Emergency escape item
-You must ignore Dandy's Shop _____ times in a row before Twisted Dandy can spawn.|3|Plays eerie music when active
-Twisted Rodger disguises himself as a fake Research _____ and attacks if picked up.|Capsule|Check for no black mist/eyes
-Twisted Razzle & Dazzle sleep inside a circle of ribbons and attack if any Toon _____ inside it.|runs|Walk through their circle
-Twisted Glisten becomes aggressive if left alone and needs a Toon to stay _____ him.|near|Calms his meter
-Twisted Connie possesses uncompleted _____ and jumps out if you try to extract them.|Machines|Look for blue smoke/eyes
-Twisted Gigi can steal _____ item directly from your inventory when she hits you.|1|Drops it if you escape or stun
-Twisted Finn applies a _____% movement speed slowdown for 5 seconds whenever a machine completes.|33|Slowed II debuff
+The main currency used to purchase Toons, Trinkets, Skins, and Stickers is _____.|Ichor|Used in Dandy's Store
+The in-run currency used to purchase items and activate certain Toon abilities is _____.|Tapes|Earned throughout Floors
+The alternate game mode that uses Ambrosia as its currency is called _____.|The Labs|Features Dessa
+The main game takes place in the _____.|Gardenview Educational Center and Museum|Main setting
+How many Trinkets can a player equip before starting a run?|2|Cannot change them during a run
+How many Hearts do most regular Toons have?|3|Main Toons have 2
+How many Hearts do Main Toons normally have?|2|One less than regular Toons
+How many stars do regular Toons have across their five star-rated stats?|15|Excludes Health
+How many stars do Main Toons have across their five star-rated stats?|16|One extra star
+How many stars does Shrimpo have in total?|5|One star in each stat
+How many Hearts does Soulvester have?|4|Unique health total
+What is Poppy's Passive Ability called?|Panic Pop|Grants a movement speed boost after being attacked
+What is Boxten's Passive Ability called?|Wind-Up|Extraction Speed increases with each alive Toon
+What is Shrimpo's Passive Ability called?|Bully|Drastically lowers Stealth
+What is Tisha's Active Ability called?|Tidy Up!|Boosts nearby Toons' movement speed
+What is Cosmo's Active Ability called?|Sharing is Caring|Sacrifices one Heart to heal another Toon
+What is Brightney's Active Ability called?|Night Light|Reveals Twisteds during Blackouts
+What is Finn's Passive Ability called?|Reel In|Boosts movement speed after a Machine is completed
+What is Teagan's Active Ability called?|Tea Time|Spends 75 Tapes to heal herself
+What is Toodles' Active Ability called?|Beginner's Luck|Randomly boosts one stat
+What is Rodger's Passive Ability called?|Detective|Doubles Research gained
+What is Razzle & Dazzle's Passive Ability called?|Comedy / Tragedy|Changes their stats depending on the Floor
+What is Flutter's Active Ability called?|Floaty Dash|Provides a quick movement burst
+What is Connie's Active Ability called?|Haunting Escape|Makes her invisible to most Twisteds
+What is Goob's Active Ability called?|Hug!|Pulls another Toon toward him
+What is Scraps' Active Ability called?|Crafty Grapple|Pulls herself toward a Toon or Machine
+What is Glisten's Active Ability called?|Reflection|Teleports to a targeted Toon
+What is Gigi's Active Ability called?|Surprise!|Grants herself a random item
+What is Looey's Passive Ability called?|Heart of Helium|Movement speed increases when Hearts are missing
+What is Blot's Active Ability called?|Blot Jr.|Creates a decoy that attracts Twisteds
+What is Yatta's Passive Ability called?|Sweet Scatter|Drops candy items under certain conditions
+What is Astro's Active Ability called?|Nap Time|Restores nearby Toons' Stamina
+What is Astro's Passive Ability called?|Well Rested|Regenerates Stamina faster and detects exhausted teammates
+What is Pebble's Active Ability called?|Speak!|Barks to attract nearby Twisteds
+What is Pebble's Passive Ability called?|Fetch!|Highlights nearby items
+What is Shelly's Active Ability called?|Inspiration|Boosts a targeted Toon’s Extraction Speed
+What is Shelly's Passive Ability called?|Problem Solver|Boosts movement speed after Machine completion
+What is Sprout's Active Ability called?|Baked Sweets|Heals a targeted Toon using Tapes
+What is Sprout's Passive Ability called?|Overprotective|Shows teammates and their health
+What is Vee's Active Ability called?|Mic Check|Highlights Twisteds and Machines
+What is Vee's Passive Ability called?|Camera Hijack|Highlights the two nearest unfinished Machines
+What is Rudie's Active Ability called?|Antler Charge|Quickly charges forward
+What is Ginger's Active Ability called?|Baked with Care!|Heals a targeted Toon using Tapes
+What is Coal's Active Ability called?|Scout|Highlights items across the map
+What is Bobette's Active Ability called?|Precious Packaging|Becomes invulnerable inside a gift box
+What is Bobette's Passive Ability called?|Festive Aura|Boosts nearby Stamina regeneration and movement speed
+What is Eggson's Passive Ability called?|Fixer Upper|Adds Machine completion when first extracting from it
+What is Flyte's Active Ability called?|Gust|Creates a movement-speed-boosting wind area
+What is Cocoa's Active Ability called?|Bonbon|Places a candy item for other Toons
+What is Bassie's Active Ability called?|Springful Sharing|Drops items from her inventory
+What is Bassie's Passive Ability called?|Easter Basket|Provides an extra inventory slot
+What is Ribecca's Passive Ability called?|The Undead|Provides immunity to applied debuffs
+What is Eclipse's Passive Ability called?|Total Eclipse|Gains special bonuses during Blackouts
+What is Gourdy's Active Ability called?|Trick or Treat|Provides random stat boosts to nearby Toons
+What is Gourdy's Passive Ability called?|Sugar Rush|Boosts players' speed when the Elevator opens and Panic Mode begins
+What is Soulvester's Active Ability called?|Soul Shield|Guards an ally and stuns the attacking Twisted
+What is Squirm's Active Ability called?|Distressed Delicacy|Boosts Extraction Speed by eating books
+The Coin Purse Trinket starts a run with how many extra Tapes?|30|Dandy's Store Trinket
+The Machine Manual Trinket increases Extraction Speed by how much?|5%|Dandy's Store Trinket
+The Speedy Shoes Trinket increases Walk and Run Speed by how much?|5%|Dandy's Store Trinket
+The Speedometer Trinket grants how much extra Stamina?|15|Dandy's Store Trinket
+The Pull Toy Trinket increases Movement Speed by how much?|25%|Lasts 10 seconds when a new Floor arrives
+The Cooler Trinket grants extra Stamina at the cost of how much slower Movement Speed?|5%|Grants 50 extra Stamina
+The Blue Bandana increases Extraction Speed by how much?|7.5%|Reduces Skill Check chances by 5%
+The Pink Bow increases Run Speed by how much?|7.5%|Twisted Poppy Research Trinket
+The Brick reduces Walk and Run Speed by how much?|10%|Twisted Shrimpo Research Trinket
+The Feather Duster restores how much Stamina when picking up an item?|20|Twisted Tisha Research Trinket
+The Sweet Charm reduces Active Ability cooldowns by how much?|8%|Twisted Cosmo Research Trinket
+The Spare Bulb increases Blackout light radius by how much?|25%|Twisted Brightney Research Trinket
+The Fancy Purse starts a run with how many extra Tapes?|100|Twisted Teagan Research Trinket
+The Clown Horn increases Walk and Run Speed by how much on odd-numbered Floors?|10%|Twisted Looey Research Trinket
+The Diary increases Stealth by how much?|25%|Twisted Flutter Research Trinket
+The Ghost Snakes In A Can reduces Active Ability cooldowns by how many seconds?|5|Twisted Connie Research Trinket
+The Ribbon Spool increases Walk and Run Speed by how much on even-numbered Floors?|10%|Twisted Razzle & Dazzle Research Trinket
+The Magnifying Glass decreases Skill Check size by how much?|33%|Twisted Rodger Research Trinket
+How much Stamina does the Pop item restore?|45|Common Stamina item
+What does Bottle o' Pop do?|Refills Stamina to full capacity|Very Rare item
+How many uses does Box o' Chocolates have?|5|Each use restores Stamina
+What does a Health Kit restore?|Health to maximum|Healing item
+What does a Smoke Bomb do?|Makes a chasing Twisted lose interest temporarily|Escape item
+What does an Eject Button do?|Provides an emergency escape from a Floor|Emergency item
+What does a Valve do when used while extracting a Machine?|Instantly completes the Machine|Machine item
+How many Research points does collecting a normal Research Capsule provide?|1%|Rodger receives double
+How much Research does Rodger receive from a Research Capsule?|2%|His Passive Ability doubles Research
+How much Research does encountering a Twisted normally provide?|5%|Rodger receives double
+How much Ichor does collecting a Research Capsule provide?|2|Earned when collecting capsules
+How much Ichor does completing a Machine provide?|5|Earned through Machine completion
+How many Tapes does completing a Machine provide at 100% completion?|10|In-run currency
+How many Tapes are earned for surviving a Floor?|10|In-run currency
+How many times must Dandy's Shop be ignored before Twisted Dandy can appear?|3|Ignoring the shop increases his chance
+What happens when Twisted Rodger's fake Research Capsule is picked up?|Twisted Rodger emerges|The fake capsule applies debuffs
