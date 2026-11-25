@@ -1,107 +1,219 @@
-Astro's active ability is called _____.|Nap Time|Stamina restoration
-Astro's passive ability is called _____.|Well Rested|Stamina regeneration
-How long does Astro's Nap Time stamina regeneration boost last? _____ seconds.|10|Active ability duration
-How many Star Pillows can Astro carry? _____|10|Ability range
-How many Star Pillows can Astro spend in one use of Nap Time? _____|5|Ability limit
-Bassie's active ability is called _____.|Springful Sharing|Item sharing
-Bassie's passive ability is called _____.|Easter Basket|Inventory space
-How many extra inventory slots does Bassie's Easter Basket provide? _____|One|Passive ability
-Blot's active ability is called _____.|Blot Jr.|Decoy ability
-How many Hearts does Blot Jr. have? _____|One|Decoy health
-How many Tapes does Blot's decoy initially cost? _____|10|Ability cost
-Bobette's active ability is called _____.|Precious Packaging|Gift box ability
-How many seconds does Bobette stay inside her gift box? _____|8|Ability duration
-Bobette's passive ability is called _____.|Festive Aura|Stamina support
-Boxten's passive ability is called _____.|Wind-Up|Extraction Speed
-How much additional Extraction Speed does Boxten gain per living Toon? _____%|6|Passive ability
-Brightney's active ability is called _____.|Night Light|Blackout ability
-How long does Brightney's Night Light reveal Twisteds? _____ seconds.|8|Ability duration
-Brusha's active ability is called _____.|Artistic Inspiration|Machine support
-How much faster does Brusha make Extraction Speed? _____%|25|Machine buff
-Coal's active ability is called _____.|Scout|Item detection
-How long does Coal's Scout highlight items? _____ seconds.|10|Ability duration
-Cocoa's active ability is called _____.|Bonbon|Candy item
-How much Extraction Speed does Cocoa's Bonbon provide? _____%|50|Candy effect
-How much Movement Speed does Cocoa's Bonbon provide? _____%|25|Candy effect
-Connie's active ability is called _____.|Haunting Escape|Invisibility
-How many seconds does Connie remain invisible? _____|5|Ability duration
-Cosmo's active ability is called _____.|Sharing is Caring'|Healing ability
-How many Hearts does Cosmo give away when using Sharing is Caring'? _____|One|Healing cost
-Eclipse's passive ability is called _____.|Total Eclipse|Blackout transformation
-How much Movement Speed does Eclipse gain during Blackouts? _____%|20|Werewolf form
-Eggson's passive ability is called _____.|Fixer Upper|Machine completion
-How much Machine completion does Eggson receive from Fixer Upper? _____%|20|Cane ability
-Finn's passive ability is called _____.|Reel In|Machine completion speed
-How much Movement Speed does Finn gain when a Machine is completed? _____%|35|Passive ability
-Flutter's active ability is called _____.|Floaty Dash|Movement ability
-How long does Flutter's Floaty Dash last? _____ seconds.|0.75|Ability duration
-What is Flutter's Floaty Dash cooldown? _____ seconds.|45|Ability cooldown
-Flyte's active ability is called _____.|Gust|Movement support
-How long does Flyte's Gust remain at its location? _____ seconds.|10|Ability duration
-How much Movement Speed does Flyte's Gust provide? _____%|15|Speed boost
-How long does Flyte's Gust speed boost last? _____ seconds.|5|Speed boost duration
-Gigi's active ability is called _____.|Surprise!|Random item ability
-What does Gigi receive from her Surprise! ability? _____|A random item|Item ability
-What is Gigi's Surprise! cooldown? _____ seconds.|60|Ability cooldown
-Ginger's active ability is called _____.|Baked with Care!|Healing ability
-How many Tapes does Ginger's Baked with Care! initially cost? _____|100|Healing cost
-How much does Ginger's healing cost increase for each additional Ginger? _____ Tapes.|50|Team cost increase
-Glisten's active ability is called _____.|Reflection|Mirror ability
-What does Glisten use to travel to another Toon? _____|A mirror|Teleportation
-Goob's active ability is called _____.|Hug!|Pulling ability
-What does Goob pull toward his position? _____|Other Toons|Active ability
-What does Goob need to use Hug!? _____|Direct line of sight|Ability requirement
-Gourdy's active ability is called _____.|Trick or Treat|Random boost
-How much does Gourdy's Trick or Treat boost a random stat? _____%|20|Ability effect
-How long does Gourdy's random stat boost last? _____ seconds.|15|Ability duration
-Gourdy's passive ability is called _____.|Sugar Rush|Team speed boost
-How much speed does Sugar Rush provide? _____%|20|Passive ability
-Looey's passive ability is called _____.|Heart of Helium|Missing Hearts
-How much additional speed multiplier does Looey gain per missing Heart? _____%|20|Passive ability
-Pebble's active ability is called _____.|Speak!|Barking ability
-Pebble's passive ability is called _____.|Fetch!|Item detection
-What does Pebble's Fetch! ability highlight? _____|Nearby items|Passive ability
-Poppy's passive ability is called _____.|Panic Pop|Damage reaction
-How much speed does Poppy gain when attacked? _____%|50|Passive ability
-How long does Poppy's speed boost last? _____ seconds.|3|Passive ability
-Razzle & Dazzle's passive ability is called _____.|Comedy/Tragedy|Alternating stats
-Razzle & Dazzle use Movement Speed on _____ floors.|Odd-numbered|Stat rotation
-Razzle & Dazzle use Extraction Speed on _____ floors.|Even-numbered|Stat rotation
-Ribecca's passive ability is called _____.|The Undead|Debuff immunity
-Rodger's passive ability is called _____.|Detective|Research bonus
-How much Research does Rodger receive compared with normal Research rewards? _____|Twice as much|Passive ability
-Rudie's active ability is called _____.|Antler Charge|Movement ability
-What does Rudie use to charge forward? _____|His antlers|Active ability
-What is Rudie's Antler Charge cooldown? _____ seconds.|23|Ability cooldown
-Scraps' active ability is called _____.|Crafty Grapple|Grappling ability
-What does Scraps pull herself toward with Crafty Grapple? _____|A Toon or Machine's targeted position|Active ability
-Shelly's active ability is called _____.|Inspiration|Extraction support
-How much Extraction Speed does Shelly's Inspiration provide? _____%|75|Ability effect
-How long does Shelly's Inspiration boost last? _____ seconds.|15|Ability duration
-Shelly's passive ability is called _____.|Problem Solver|Machine completion
-How much Movement Speed does Problem Solver provide? _____%|25|Passive ability
-Shrimpo's passive ability is called _____.|Bully|Stealth stat
-Soulvester's active ability is called _____.|Soul Shield|Ally protection
-How many Hearts does Soulvester spend to guard an ally? _____|One|Ability cost
-How long does Soulvester stun an attacking Twisted after defending? _____ seconds.|1.5|Ability effect
-Sprout's active ability is called _____.|Baked Sweets|Healing ability
-How many Hearts does Sprout restore with Baked Sweets? _____|One|Healing amount
-How many Tapes does Sprout's Baked Sweets initially cost? _____|100|Healing cost
-Sprout's passive ability is called _____.|Overprotective|Team information
-What information can Sprout see about other living Toons? _____|Their locations and Health status|Passive ability
-Squirm's active ability is called _____.|Distressed Delicacy|Bookshelf ability
-How much Extraction Speed does Squirm gain from eating books? _____%|100|Active ability
-How long does Squirm's Extraction Speed boost last? _____ seconds.|10|Ability duration
-Teagan's active ability is called _____.|Tea Time|Self-healing
-How many Tapes does Teagan spend to heal one Heart? _____|75|Ability cost
-Tisha's active ability is called _____.|Tidy Up!|Movement support
-How much Movement Speed does Tisha's Tidy Up! provide? _____%|25|Ability effect
-How long does Tisha's speed boost last? _____ seconds.|5|Ability duration
-What does Tisha's Tidy Up! remove within its pulse radius? _____|Ichor puddles|Ability effect
-Toodles' active ability is called _____.|Beginner's Luck|Random stat boost
-What percentage stat boost can Toodles roll? _____%|15|Ability effect
-How long does Toodles' stat boost last? _____ seconds.|10|Ability duration
-Vee's active ability is called _____.|Mic Check|Twisted detection
-How long does Vee's Mic Check highlight Twisteds and Machines? _____ seconds.|5|Ability duration
-Vee's passive ability is called _____.|Camera Hijack|Machine detection
-How many uncompleted Machines does Vee's Camera Hijack highlight? _____|Two|Passive ability
+What type of object is Boxten based on?|Music Box|He has a wind-up key
+What color is Boxten primarily?|Purple|Look at his box-shaped body
+What is Boxten's personality like?|Shy|He gets nervous around others
+What does Boxten enjoy watching?|Vee's Gameshow|He likes trivia
+Which Toon is Boxten close with?|Glisten|They are good friends
+What hobby is Cosmo teaching Boxten?|Baking|It involves making treats
+What type of object is Poppy based on?|Bubble|She is round and blue
+What drink is Poppy strongly associated with?|Pop|It is shown in her room
+How would you describe Poppy's personality?|Optimistic|She is cheerful and energetic
+Which Toon is confirmed to be great friends with Poppy?|Looey|They get along very well
+What type of object is Cosmo based on?|Pastry|He resembles a rolled dessert
+What dessert does Cosmo resemble?|Chocolate Swiss Roll|Look at his brown rolled design
+What does Cosmo love doing?|Baking|He enjoys making sweet treats
+Who is Cosmo's best friend?|Sprout|They are often seen together
+What does Cosmo use to decorate his cheeks?|Star Sprinkles|They are colorful and noticeable
+What type of object is Finn based on?|Fishbowl|He has water inside his head
+What does Finn wear around his body?|Life Jacket|It is orange
+What is the name of Finn's toy fish?|Barnaby Wilikers|It appears inside his fishbowl
+What subject does Finn love talking about?|Marine Biology|He knows lots about sea life
+What does Finn often make when talking?|Fish Puns|He loves making jokes about sea life
+What type of object is Glisten based on?|Mirror|He has a reflective face
+What does Glisten always want?|The Spotlight|He loves being the center of attention
+What word does Glisten use frequently?|Perfect|He is obsessed with perfection
+What does Glisten enjoy besides attention?|Fashion|He likes makeup and beautiful things
+What does Glisten carry in his artwork?|Microphone|He enjoys performing
+What type of object is Goob based on?|Craft|He has a fluffy handmade appearance
+Who is Goob's older sister?|Scraps|They are siblings
+What does Goob love giving?|Hugs|He believes they can cheer people up
+What is Goob's signature ability called?|Hug!|It pulls other Toons toward him
+What type of object is Scraps based on?|Craft|She has a handmade appearance
+Who is Scraps's younger brother?|Goob|They are siblings
+What hobby is Scraps interested in?|Art|She enjoys making crafts
+What does Scraps sometimes fold napkins into?|Origami|Cosmo notices her creations
+What type of object is Astro based on?|Crescent Moon|Look at the shape of his head
+What does Astro wear around his body?|Blanket|It gives him a sleepy appearance
+What kind of personality does Astro have?|Introverted|He enjoys peace and quiet
+What does Astro enjoy helping other Toons with?|Their Dreams|He is interested in their sleep
+What is Astro's active ability called?|Nap Time|It restores nearby Toons' stamina
+What type of object is Shelly based on?|Ammonite Shell|Her head has a spiral shell shape
+What subject does Shelly love?|Dinosaurs|She enjoys prehistoric life
+What other hobby does Shelly enjoy?|Sewing|It appears in her interactions
+What is Shelly's full name?|Shelly Fossilian|It is her full character name
+What kind of personality does Shelly have?|Extroverted|She loves talking with others
+What type of food is Sprout based on?|Strawberry|His head resembles the fruit
+Who is Sprout's best friend?|Cosmo|They enjoy baking together
+What is Sprout's personality like?|Protective|He looks after his friends
+What does Sprout enjoy doing with Cosmo?|Cooking|They share an interest in baking
+What is Sprout's active ability called?|Baked Sweets|It can heal another Toon
+What type of object is Vee based on?|Television|She has a screen for a face
+What does Vee host?|A Gameshow|She enjoys being a host
+What is Vee's personality like?|Confident|She can be competitive
+What does Vee use to show information about Twisteds?|Mic Check|It highlights Twisteds on the floor
+Which Toon does Vee consider her best contestant?|Brightney|Their interactions show this
+What type of object is Pebble based on?|Rock|He is Dandy's pet
+What animal is Pebble designed to resemble?|Dog|He acts like a canine
+Who is Pebble's owner?|Dandy|They have a close connection
+What game does Pebble enjoy playing?|Fetch|He enjoys chasing things
+How does Pebble communicate?|Barks|He cannot speak English
+What does Pebble enjoy eating?|Treats|He acts like a dog
+What type of object is Tisha based on?|Tissue Box|She has a tissue sticking out of her head
+What does Tisha love doing?|Cleaning|She dislikes messes
+What does Tisha carry in her ability animation?|Feather Duster|She uses it while tidying
+What is Tisha's active ability called?|Tidy Up!|It helps clean and boosts movement
+What kind of personality does Tisha have?|Organized|She likes everything neat
+What type of object is Teagan based on?|Teacup|She has tea inside her head
+What does Teagan enjoy hosting?|Tea Parties|She invites other Toons
+What does Teagan know about the other Toons?|Their Favorite Teas|She remembers their preferences
+How would you describe Teagan's personality?|Elegant|She is polite and composed
+What does Teagan wear around her neck?|Boa|It is part of her outfit
+What type of character is Rodger designed to resemble?|Detective|He investigates mysteries
+What does Rodger love finding?|Clues|He enjoys solving cases
+What is Rodger's personality like?|Curious|He likes investigating things
+What does Rodger often do to other Toons?|Interview Them|He asks questions for his investigations
+What type of object is Toodles based on?|Eight Ball|She resembles a pool ball
+Who is Toodles connected to like a father figure?|Rodger|They have a close relationship
+What does Toodles like?|Dogs|She has a Dog Plush
+What type of object are Razzle and Dazzle based on?|Theatre Masks|They represent comedy and tragedy
+Which twin has the smiling white mask?|Razzle|He is the cheerful one
+Which twin has the gloomy dark mask?|Dazzle|He has a sad expression
+What do Razzle and Dazzle share?|One Body|They are joined together
+Which twin is more optimistic?|Razzle|He is outgoing and cheerful
+Which twin is more pessimistic?|Dazzle|He often has a negative outlook
+What type of object is Shrimpo based on?|Shrimp|His design resembles a sea creature
+How would you describe Shrimpo's personality?|Mean|He often acts rude toward others
+What does Shrimpo commonly express toward other Toons?|Dislike|He is known for being unpleasant
+What type of object is Brightney based on?|Lamp|She gives off light
+What happens to Brightney's light during a blackout?|It Helps Her See|Her lamp design is useful in darkness
+What is Brightney's connection to Vee?|Best Contestant|Vee considers her a favorite
+What type of character is Connie based on?|Ghost|She can become invisible
+What does Connie enjoy doing to other Toons?|Pranking Them|She likes teasing others
+Who is Connie especially close to?|Gigi|She cares about her friend
+What is Connie's personality like?|Mischievous|She enjoys causing playful trouble
+What does Connie sometimes do when bored?|Snoop Around|She likes listening to conversations
+What type of object is Gigi based on?|Lucky Cat|Her design is associated with luck
+What does Gigi enjoy doing?|Collecting Items|She likes finding things
+What is Gigi's active ability called?|Surprise!|It gives her a random item
+What type of object is Looey based on?|Balloon|His design resembles a balloon
+What kind of performer is Looey?|Clown|He is part of a circus troupe
+Which Toons are part of Looey's circus troupe?|Yatta and Blot|They perform together
+What does Looey sometimes struggle with?|Stage Fright|He can feel nervous performing
+What type of character is Yatta themed around?|Party|Her design is festive
+Which two Toons perform alongside Looey?|Yatta and Blot|They are in the same troupe
+What type of object is Flutter based on?|Butterfly|She has wings and antennae
+What shape is featured on Flutter's wings?|Heart|It is part of her wing design
+How would you describe Flutter's personality?|Positive|She has an optimistic outlook
+What does Flutter use to communicate?|Gestures|She does not speak like the other Toons
+What type of object is Waxwell based on?|Wax|His design is connected to wax
+What does Rodger enjoy doing around Gardenview?|Investigating|He looks for clues and answers
+What is the relationship between Goob and Scraps?|Siblings|Scraps is Goob's older sister
+What is the relationship between Cosmo and Sprout?|Best Friends|They are very close
+What is the relationship between Razzle and Dazzle?|Twins|They share one body
+What is the relationship between Shelly and Tisha?|Friends|They have a close friendship
+What does Astro prefer over noisy surroundings?|Peace and Quiet|He is introverted
+What does Glisten care a lot about?|His Appearance|He wants to look perfect
+What does Finn enjoy teaching others about?|Sea Life|He loves marine biology
+What does Shelly get excited talking about?|Prehistoric Life|She loves dinosaurs
+What does Goob believe can help someone feel better?|A Hug|He loves giving hugs
+What does Tisha wish other Toons would do more often?|Clean Up|She dislikes messes
+What does Teagan remember about each Toon?|Their Tea Preference|She knows what tea they like
+What does Sprout often worry about?|His Friends|He is protective of them
+What does Poppy describe herself as?|Optimistic|She says she is optimistic
+What does Boxten sometimes struggle with?|Nervousness|He is shy and easily frightened
+What does Razzle enjoy doing with others?|Entertaining|He is energetic and outgoing
+What does Dazzle often struggle with?|Confidence|He can be pessimistic
+What is Astro's active ability called?|Nap Time|It restores nearby Toons' stamina
+What is Astro's passive ability called?|Well Rested|It improves his stamina regeneration
+Which Toon can fully restore nearby teammates' stamina?|Astro|His active ability is Nap Time
+Which Toon can see teammates with low stamina?|Astro|This is part of his passive ability
+What is Bassie's active ability called?|Springful Sharing|It lets her share items
+Which Toon can drop items from her inventory for teammates?|Bassie|Her ability is Springful Sharing
+What is Blot's active ability called?|Blot Jr.|It creates a decoy
+What does Blot's Blot Jr. ability create?|A Decoy|It attracts nearby Twisteds
+Which Toon can create a decoy to attract Twisteds?|Blot|His ability is Blot Jr.
+What is Bobette's active ability called?|Precious Packaging|She hides inside a gift box
+What does Bobette turn into when using Precious Packaging?|A Gift Box|She covers herself to become invincible
+Which Toon can protect herself inside a gift box?|Bobette|Her ability is Precious Packaging
+What is Boxten's passive ability called?|Wind-Up|It increases his extraction speed
+Which Toon gains extraction speed based on how many Toons are alive?|Boxten|His passive ability is Wind-Up
+What is Brightney's active ability called?|Night Light|It helps reveal Twisteds during Blackouts
+Which Toon can reveal Twisteds during a Blackout?|Brightney|Her ability is Night Light
+What is Brusha's active ability called?|Artistic Inspiration|She paints on nearby machines
+What does Brusha's Artistic Inspiration improve?|Extraction Speed and Skill Checks|Her artwork inspires nearby Toons
+Which Toon can paint on machines to help teammates extract faster?|Brusha|Her ability is Artistic Inspiration
+What is Coal's active ability called?|Scout|It helps locate items
+Which Toon can sniff out items for the whole team?|Coal|Her ability highlights items across the map
+What does Coal's Scout ability highlight?|Items|The effect is visible to all Toons
+What is Cocoa's active ability called?|Bonbon|She places a candy item
+Which Toon can place a Bonbon for other players to use?|Cocoa|Her ability is named after the candy
+What boosts do players receive from Cocoa's Bonbon?|Extraction Speed and Movement Speed|It gives two temporary boosts
+What is Connie's active ability called?|Haunting Escape|It makes her invisible
+Which Toon can become invisible with an ability?|Connie|Her ability is Haunting Escape
+What happens when Connie uses Haunting Escape?|She Becomes Invisible|Twisteds cannot normally notice her
+What is Cosmo's active ability called?|Sharing is Caring|He can give a Heart to another Toon
+Which Toon can give one of his Hearts to heal a teammate?|Cosmo|His ability is Sharing is Caring
+What does Cosmo give up to heal another Toon?|One Heart|He cannot use the ability with only one Heart
+What is Eclipse's passive ability called?|Total Eclipse|It activates during Blackouts
+Which Toon transforms into a werewolf during Blackouts?|Eclipse|Her passive ability is Total Eclipse
+What happens to Eclipse during a Blackout?|She Transforms into a Werewolf|Her passive ability activates
+What is Eggson's passive ability called?|Fixer Upper|It helps complete machines
+Which Toon can add progress to a machine after extracting from it?|Eggson|His passive ability is Fixer Upper
+What is Finn's passive ability called?|Reel In|It gives him a speed boost
+Which Toon gets faster when a machine is completed?|Finn|His passive ability is Reel In
+What triggers Finn's Reel In ability?|A Machine Being Completed|It gives him a temporary movement boost
+What is Flutter's active ability called?|Floaty Dash|It lets her dash forward
+Which Toon can dash forward using an ability?|Flutter|Her ability is Floaty Dash
+What does Flutter's Floaty Dash increase?|Movement Speed|It gives her a quick burst of speed
+What is Flyte's active ability called?|Gust|It creates a speed-boosting area
+Which Toon can place a Gust for teammates to walk through?|Flyte|His ability is Gust
+What happens when a Toon walks into Flyte's Gust?|They Gain Movement Speed|The effect lasts temporarily
+What is Gigi's active ability called?|Surprise!|It gives her a random item
+Which Toon can receive a random item using an ability?|Gigi|Her ability is Surprise!
+What type of reward does Gigi's Surprise! provide?|A Random Item|It can come from any item tier
+What is Ginger's active ability called?|Baked with Care!|It heals another Toon
+Which Toon can heal a teammate to full Hearts?|Ginger|Her ability is Baked with Care!
+What does Ginger's Baked with Care! ability restore?|A Toon's Hearts|It can heal a targeted teammate
+What is Glisten's active ability called?|Reflection|It lets him travel through a mirror
+Which Toon can teleport to another Toon using a mirror?|Glisten|His ability is Reflection
+What does Glisten's Reflection ability allow him to do?|Teleport to a Targeted Toon|He travels through a mirror
+What is Goob's active ability called?|Hug!|It pulls other Toons toward him
+Which Toon can pull teammates toward himself?|Goob|His ability is Hug!
+What does Goob need to use Hug! successfully?|Direct Line of Sight|He needs to see the targeted Toon
+What is Shrimpo's passive ability called?|Bully|It makes him easier for Twisteds to notice
+Which Toon has extremely low Stealth because of his passive?|Shrimpo|His ability is Bully
+What is Soulvester's active ability called?|Soul Shield|It protects an ally
+Which Toon can teleport to protect a teammate from damage?|Soulvester|His ability is Soul Shield
+What does Soulvester's Soul Shield protect?|An Ally|He can block their next incoming damage
+What happens to the Twisted when Soulvester defends an ally?|It Gets Stunned|His ability briefly stuns the attacker
+What is Sprout's active ability called?|Baked Sweets|It heals another Toon
+What is Sprout's passive ability called?|Overprotective|It shows teammates' locations and health
+Which Toon can see the locations and health of all living teammates?|Sprout|His passive ability is Overprotective
+What does Sprout's Baked Sweets ability restore?|One Heart|It heals a targeted Toon
+What is Squirm's active ability called?|Distressed Delicacy|It involves eating books
+Which Toon can eat books to increase extraction speed?|Squirm|His ability is Distressed Delicacy
+What does Squirm gain after eating books?|Extraction Speed|His ability boosts machine work
+What makes Squirm's ability cooldown recover faster?|Being Near a Bookshelf|It is connected to his book-eating ability
+What is Teagan's active ability called?|Tea Time|It lets her heal herself
+Which Toon can spend Tapes to heal herself?|Teagan|Her ability is Tea Time
+What does Teagan's Tea Time restore?|One Heart|She spends Tapes to use it
+What is Tisha's active ability called?|Tidy Up!|It creates a helpful pulse
+Which Toon can boost nearby teammates' movement speed?|Tisha|Her ability is Tidy Up!
+What else can Tisha's Tidy Up! remove?|Ichor Puddles|Her pulse cleans the surrounding area
+What is Toodles' active ability called?|Beginner's Luck|It gives her a random stat boost
+Which Toon can roll for a random stat boost?|Toodles|Her ability is Beginner's Luck
+What does Toodles receive from Beginner's Luck?|A Random Stat Boost|The boost is temporary
+What is Vee's active ability called?|Mic Check|It reveals Twisteds and Machines
+What is Vee's passive ability called?|Camera Hijack|It highlights nearby unfinished machines
+Which Toon can highlight all Twisteds and Machines on a Floor?|Vee|Her active ability is Mic Check
+What does Vee's Camera Hijack highlight?|The Two Nearest Uncompleted Machines|It helps her find machines
+Which Toon has an ability that highlights unfinished machines?|Vee|Her passive ability is Camera Hijack
+Which Toon has an ability called Nap Time?|Astro|It restores stamina
+Which Toon has an ability called Hug!?|Goob|It pulls other Toons closer
+Which Toon has an ability called Tea Time?|Teagan|It heals herself
+Which Toon has an ability called Night Light?|Brightney|It helps during Blackouts
+Which Toon has an ability called Surprise!?|Gigi|It gives her a random item
+Which Toon has an ability called Reflection?|Glisten|It uses mirrors to teleport
+Which Toon has an ability called Scout?|Coal|It helps find items
+Which Toon has an ability called Reel In?|Finn|It activates after machines are completed
+Which Toon has an ability called Floaty Dash?|Flutter|It gives her a quick dash
+Which Toon has an ability called Tidy Up!?|Tisha|It creates a speed-boosting pulse
