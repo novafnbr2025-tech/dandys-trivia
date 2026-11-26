@@ -1,234 +1,120 @@
-
-What is Astro's Active Ability called? | Nap Time | Restores nearby Toons' Stamina
-What does Astro's Nap Time do to nearby Toons? | Fully restores their Stamina | Also increases Stamina regeneration by 50% for 10 seconds
-How much of Astro's own Stamina does Nap Time restore per Toon reached? | 20% | Based on the number of Toons reached
-How many Star Pillows can Astro carry? | 10 | Used to increase Nap Time's range
-How many Star Pillows can Astro use in one activation? | 5 | Maximum consumed per use
-What is Astro's Nap Time cooldown? | 55 seconds | Active Ability
-What is Astro's Passive Ability called? | Well Rested | Improves Stamina regeneration
-How much faster does Astro regenerate Stamina with Well Rested? | 50% | Passive bonus
-What Stamina level allows Astro to see a Toon across the map? | Below 50% | Well Rested
-What is Bassie's Active Ability called? | Springful Sharing | Drops items from her inventory
-What is Bassie's Passive Ability called? | Easter Basket | Gives her an additional inventory slot
-How many inventory slots does Bassie's Easter Basket provide? | 1 extra slot | Allows her to carry four items
-What is Blot's Active Ability called? | Blot Jr. | Places a decoy that attracts nearby Twisteds
-How many Hearts does Blot Jr. have? | 1 | Decoy health
-How many Tapes does Blot's Blot Jr. cost? | 10 | Cost increases with additional Blots
-What is Blot's Blot Jr. cooldown? | 60 seconds | Active Ability
-What is Bobette's Active Ability called? | Precious Packaging | Hides her inside a gift box
-How long does Bobette remain inside her gift box? | 8 seconds | She is invincible but cannot move
-What is Bobette's Precious Packaging cooldown? | 90 seconds | Active Ability
-What is Bobette's Passive Ability called? | Festive Aura | Supports nearby Toons
-How much faster does Bobette's aura increase nearby Stamina regeneration? | 50% | Passive effect
-How much Movement Speed does Bobette's aura provide? | 25% | Lasts 5 seconds
-What is Boxten's Passive Ability called? | Wind-Up | Increases Extraction Speed
-How much Extraction Speed does Boxten gain per living Toon? | 6% | Wind-Up
-What is Boxten's maximum Wind-Up bonus? | 48% | Maximum Extraction Speed bonus
-What is Brightney's Active Ability called? | Night Light | Reveals Twisteds during Blackouts
-How long does Brightney's Night Light reveal Twisteds? | 8 seconds | Blackout visibility
-What is Brightney's Night Light cooldown? | 45 seconds | Active Ability
-What is Brusha's Active Ability called? | Artistic Inspiration | Buffs nearby Machines
-How much Extraction Speed does Artistic Inspiration provide? | 25% | Applies to extracting Toons
-How much additional Skill Check chance does Artistic Inspiration provide? | 15% | Machine buff
-What is Brusha's Artistic Inspiration cooldown? | 15 seconds | Active Ability
-What is Coal's Active Ability called? | Scout | Highlights items across the map
-Who can see the items highlighted by Coal's Scout? | All Toons | Team-wide item highlighting
-How long does Coal's Scout highlight items? | 10 seconds | Active Ability
-What is Coal's Scout cooldown? | 30 seconds | Active Ability
-What is Cocoa's Active Ability called? | Bonbon | Places a BonBon candy item
-How much Extraction Speed does a BonBon provide? | 50% | Lasts 10 seconds
-How much Movement Speed does a BonBon provide? | 25% | Lasts 10 seconds
-What is Cocoa's Bonbon cooldown? | 40 seconds | Active Ability
-What is Connie's Active Ability called? | Haunting Escape | Makes her invisible to most Twisteds
-How long does Connie remain invisible? | 5 seconds | Lethal Twisteds can still see her
-What is Connie's Haunting Escape cooldown? | 50 seconds | Active Ability
-What is Cosmo's Active Ability called? | Sharing is Caring | Gives one of his Hearts to another Toon
-Can Cosmo use Sharing is Caring with only one Heart remaining? | No | Ability restriction
-What is Cosmo's Sharing is Caring cooldown? | 60 seconds | Active Ability
-What is Eclipse's Passive Ability called? | Total Eclipse | Activates during Blackouts
-What transformation does Eclipse undergo during a Blackout? | Werewolf | Total Eclipse
-How many additional Stamina Stars does Eclipse gain during a Blackout? | 2 | Total Eclipse
-How much Movement Speed does Eclipse gain during a Blackout? | 20% | Total Eclipse
-What is Eggson's Passive Ability called? | Fixer Upper | Adds completion to Machines
-How much Machine completion does Eggson's Fixer Upper provide? | 20% | Once per Machine
-What triggers Eggson's Fixer Upper? | His first extraction from a Machine | Uses his cane
-What is Finn's Passive Ability called? | Reel In | Activates when a Machine is completed
-How much Movement Speed does Finn gain from Reel In? | 35% | Lasts 10 seconds
-How long does Finn's Reel In speed boost last? | 10 seconds | Triggered by Machine completion
-What is Flutter's Active Ability called? | Floaty Dash | Dashes forward at increased Movement Speed
-How long does Flutter's Floaty Dash last? | 0.75 seconds | Movement burst
-What is Flutter's Floaty Dash cooldown? | 45 seconds | Active Ability
-What is Flyte's Active Ability called? | Gust | Places a temporary speed-boosting area
-How long does Flyte's Gust remain on the floor? | 10 seconds | Temporary Gust
-How much Movement Speed does Flyte's Gust provide? | 15% | Lasts 5 seconds after entering
-What is Flyte's Gust cooldown? | 50 seconds | Active Ability
-What is Gigi's Active Ability called? | Surprise! | Gives her a random item
-Can Gigi receive Dandy's Shop items through Surprise!? | Yes | Random item pool
-What is Gigi's Surprise! cooldown? | 60 seconds | Active Ability
-What is Ginger's Active Ability called? | Baked with Care! | Heals a targeted Toon to full Hearts
-How many Tapes does Ginger's Baked with Care! cost? | 100 | Cost increases with additional Gingers
-What is Ginger's Baked with Care! cooldown? | 100 seconds | Increases with additional Gingers
-What is Glisten's Active Ability called? | Reflection | Teleports to a targeted Toon
-Does Glisten need line of sight to use Reflection? | No | Travels through a mirror
-What is Glisten's Reflection cooldown? | 100 seconds | Active Ability
-What is Goob's Active Ability called? | Hug! | Pulls another Toon toward him
-Does Goob need direct line of sight to use Hug!? | Yes | Required for the pull
-What is Goob's Hug! cooldown? | 30 seconds | Active Ability
-What is Gourdy's Active Ability called? | Trick or Treat | Gives nearby Toons a random stat boost
-How large is Gourdy's Trick or Treat stat boost? | 20% | Random stat other than Stealth
-How long does Gourdy's Trick or Treat boost last? | 15 seconds | Active Ability
-What is Gourdy's Trick or Treat cooldown? | 35 seconds | Active Ability
-What is Gourdy's Passive Ability called? | Sugar Rush | Gives all players a speed boost
-When does Gourdy's Sugar Rush activate? | When the elevator opens and Panic Mode begins | Team-wide effect
-How much Movement Speed does Sugar Rush provide? | 20% | Lasts 5 seconds
-What is Looey's Passive Ability called? | Heart of Helium | Gains Movement Speed when Hearts are missing
-How much Movement Speed does Looey gain per missing Heart? | 20% | Heart of Helium
-What Movement Speed multiplier does Looey reach at one Heart? | 40% | Low-health bonus
-What is Pebble's Active Ability called? | Speak! | Barks loudly and attracts nearby Twisteds
-What Stealth value does Pebble's Speak! set? | -40 | Alerts nearby Twisteds
-What is Pebble's Speak! cooldown? | 60 seconds | Active Ability
-What is Pebble's Passive Ability called? | Fetch! | Highlights nearby items
-What is Ribecca's Passive Ability called? | The Undead | Makes her immune to applied debuffs
-Do Ribecca's The Undead effects include Trinkets? | No | Trinket effects are excluded
-What is Scraps' Active Ability called? | Crafty Grapple | Pulls herself toward a targeted Toon
-Does Scraps need line of sight to use Crafty Grapple? | Yes | Required for the ability
-What is Scraps' Crafty Grapple cooldown? | 30 seconds | Active Ability
-What is Soulvester's Active Ability called? | Soul Shield | Protects an ally from an incoming hit
-How long does Soulvester stun an attacking Twisted after defending an ally? | 1.5 seconds | Soul Shield
-What speed boost does Soulvester receive while guarding? | 1-Star Speed boost | During Soul Shield
-What speed boost does Soulvester receive after defending? | 3-Star Speed boost | Lasts 2 seconds
-What is Sprout's Active Ability called? | Baked Sweets | Heals a targeted Toon by one Heart
-How many Tapes does Sprout's Baked Sweets cost? | 100 | Cost increases with additional healers
-What is Sprout's Baked Sweets cooldown? | 100 seconds | Active Ability
-What is Sprout's Passive Ability called? | Overprotective | Reveals living teammates and their health
-What is Squirm's Active Ability called? | Distressed Delicacy | Eats books to increase Extraction Speed
-How much Extraction Speed does Squirm gain? | 100% | Lasts 10 seconds
-What makes Squirm's cooldown recover twice as fast? | Being near a bookshelf | Distressed Delicacy
-What is Squirm's Distressed Delicacy cooldown? | 80 seconds | Active Ability
-What is Teagan's Active Ability called? | Tea Time | Heals herself by one Heart
-How many Tapes does Teagan's Tea Time cost? | 75 | Self-healing ability
-What is Teagan's Tea Time cooldown? | 100 seconds | Active Ability
-What is Tisha's Active Ability called? | Tidy Up! | Creates a Movement Speed-boosting pulse
-How much Movement Speed does Tisha's Tidy Up! provide? | 25% | Lasts 5 seconds
-What else does Tisha's Tidy Up! remove? | Ichor puddles | Within the pulse radius
-What is Tisha's Tidy Up! cooldown? | 50 seconds | Active Ability
-What is Toodles' Active Ability called? | Beginner's Luck | Rolls for a random stat boost
-How large is Toodles' Beginner's Luck stat boost? | 15% | Random stat
-How long does Beginner's Luck last? | 10 seconds | Active Ability
-What is Toodles' Beginner's Luck cooldown? | 25 seconds | Active Ability
-What is Vee's Active Ability called? | Mic Check | Highlights Twisteds and Machines
-How long does Vee's Mic Check highlighting last? | 5 seconds | Active Ability
-What is Vee's Mic Check cooldown? | 50 seconds | Active Ability
-What is Vee's Passive Ability called? | Camera Hijack | Highlights nearby unfinished Machines
-How many unfinished Machines does Vee's Camera Hijack highlight? | 2 | Nearest Machines
-What is Waxwell's Active Ability called? | Ignite | Removes his Tired II debuff and creates a flame trail
-How long does Waxwell remove Tired II with Ignite? | 10 seconds | Active Ability
-What happens when another Toon touches Waxwell's flame trail? | They receive the Ignited buff | Ability cooldowns recover twice as fast
-How long does the Ignited buff last? | 5 seconds | Cooldown recovery effect
-What is Waxwell's Ignite cooldown? | 60 seconds | Active Ability
-What is Yatta's Passive Ability called? | Piñata Party | Drops random candy items
-How many candy items does Yatta drop after completing a Machine? | 2 | Piñata Party
-How many candy items does Yatta drop when injured? | 4 | Piñata Party
-How many Trinkets can a Toon equip? | 2 | Cannot be changed during a run
-How many Trinket loadouts can a player save? | 3 | Different Trinket combinations
-Which Trinket gives 30 extra Tapes at the start of a round? | Coin Purse | Dandy's Store
-How much does Coin Purse cost? | 200 Ichor | No unlock requirement
-Which Trinket gives a Movement Speed boost when a new Floor arrives? | Pull Toy | 25% for 10 seconds
-How much does Pull Toy cost? | 1,250 Ichor | Requires surviving 30 Floors and 100% research on any Twisted
-Which Trinket provides a Pop item every new Floor? | Pop Pack | Requires an open inventory slot
-How much does Pop Pack cost? | 1,500 Ichor | Requires buying 30 Shop Items and collecting 75 Items
-Which Trinket provides an Air Horn every other Floor? | Megaphone | Requires an open inventory slot
-How much does Megaphone cost? | 1,850 Ichor | Requires encountering 125 Twisteds and reaching Floor 20
-Which Trinket grants 50 additional Stamina but reduces Movement Speed? | Cooler | Reduces Movement Speed by 5%
-How much does Cooler cost? | 2,250 Ichor | Requires traveling 250,000 meters and collecting 30 Rare or higher Items
-Which Trinket protects against long-ranged Twisted attacks? | Cardboard 'Armor' | One activation per Floor
-How much does Cardboard 'Armor' cost? | 2,750 Ichor | Requires 100% research on Twisted Goob and Twisted Scraps
-Which Trinket increases Extraction Speed by 7.5% but reduces Skill Check chance? | Blue Bandana | Reduces Skill Check chance by 5%
-Which Twisted must be researched to unlock Blue Bandana? | Twisted Boxten | Requires 100% Research
-Which Trinket increases Skill Check size and chance by 10%? | Paint Bucket | Twisted Brusha reward
-Which Trinket reduces Active Ability cooldowns by 8%? | Sweet Charm | Twisted Cosmo reward
-Which Trinket increases Walk and Run Speed on odd-numbered Floors? | Clown Horn | 10% speed increase
-Which Trinket increases Run Speed by 7.5%? | Pink Bow | Twisted Poppy reward
-Which Trinket decreases both Walk and Run Speed by 10%? | Brick | Twisted Shrimpo reward
-Which Trinket restores 20 Stamina when an Item is picked up? | Feather Duster | Does not include Capsules or Tapes
-Which Trinket highlights nearby Twisteds when a Machine is started? | Party Popper | Lasts 5 seconds
-Which Trinket increases Blackout light radius by 25%? | Spare Bulb | Also affects light-producing Toons
-Which Trinket reduces Active Ability cooldowns by 5 seconds? | Ghost Snakes In A Can | Twisted Connie reward
-Which Trinket highlights all Machine locations when a new Floor arrives? | Fishing Rod | Highlights for 5 seconds
-Which Trinket increases Walk and Run Speed on even-numbered Floors? | Ribbon Spool | 10% speed increase
-Which Trinket boosts a random stat by 12% once per Floor? | Lucky Coin | Effect resets on the next Floor
-Which Trinket increases Run Speed during Panic Mode? | Vanity Mirror | 30% Run Speed
-Which Trinket provides 5 additional Stamina for every living Toon? | Friendship Bracelet | Maximum of 40 additional Stamina
-Which Trinket grants a random Uncommon Item every new Floor? | Crayon Set | Requires an open inventory slot
-Which Trinket increases Skill Check chance by 25% but decreases Skill Check size? | Participation Award | Decreases size by 10%
-Which Trinket protects the player from a fatal attack once per round? | Savory Charm | Does not protect against Lethal attacks
-Which Trinket instantly completes the first Machine extracted from on a Floor? | Vee's Remote | Only if fewer than 50% of Machines are completed
-Which Trinket increases Tapes earned by 25%? | Dandy Plush | Does not affect picked-up Tapes
-Which Trinket makes the player immune to the Slow debuff? | Train Whistle | Twisted Dyle reward
-Which Trinket allows a second Legendary Card in a Lab Card deck? | Personnel Badge | Twisted Dessa reward
-Which Trinket makes Blackouts only halfway dark for its owner? | Missing Piece | Twisted Dioda reward
-How often does Missing Piece highlight Twisteds during Blackouts? | Every 8 seconds | Highlights for 2 seconds
-Which Trinket grants 30 Stamina after using an Active Ability? | Peppermint Icing | Twisted Ginger reward
-Which Trinket increases the duration of Candy Items by 4 seconds? | Glazed Fondant Bag | Twisted Cocoa reward
-Which Trinket increases the radius of ring-based aura abilities by 25%? | Toy Kit | Twisted Bobette reward
-Which Trinket decreases Stealth by 5%? | Scrapbook | Twisted Flyte reward
-Which Trinket highlights Easter Baskets every 10 seconds? | Egg Radar | Twisted Eggson reward
-Which Trinket highlights Pumpkins and Halloween Decor every 10 seconds? | Bone Needle and Thread | Twisted Ribecca reward
-Which Trinket highlights Christmas Ornaments every 10 seconds? | Festive Lights | Twisted Rudie reward
-Which Trinket gives an additional Heart to Soulvester? | Soul Sword | Also slows attacking Twisteds
-Which Trinket slows a Twisted by 15% after it damages the player? | Soul Sword | Slow lasts 30 seconds
-Which Trinket increases Stamina Regeneration by 15% for every Item in the inventory? | Whispering Flower | Twisted Bassie reward
-Which Trinket highlights healing Items when the player is missing a Heart? | Memory Locket | Twisted Gourdy reward
-Which Trinket causes Twisteds that attack the player to have an extra 3-second attack cooldown? | Blushy Bat | Obtained through the official BlushCrunch Studio Roblox group
-Which currency is used to purchase Toons and Trinkets? | Ichor | Dandy's Store
-Which currency is used to purchase Items during a run? | Tapes | Dandy's Shop
-Which currency is used to purchase Lab Cards and Vials? | Ambrosia | Dioda's Store
-Which currency is used to unlock Christmas Event Toons? | Ornaments | Christmas Event
-Which currency is used to unlock Easter Event Toons? | Baskets | Easter Event
-Which currency is used to unlock Halloween Event Toons? | Pumpkins | Halloween Event
-How many different currencies are currently in Dandy's World? | 7 | Includes four regular currencies and three Event currencies
-How much Ichor does collecting a Research Capsule provide? | 2 | Capsule reward
-How much Research does a Research Capsule normally provide? | 1% | 2% when playing as Rodger
-How many Research Capsules spawn for each Twisted on a Floor? | 2 | Corresponding to that Twisted
-What does using a Bandage restore? | 1 Heart | Healing Item
-What does using a Health Kit restore? | Full health | Healing Item
-What does Chocolate increase when used? | Maximum Stamina and Walk Speed | 25 additional Max Stamina and 10% Walk Speed
-How long does Chocolate's effect last? | 10 seconds | 14 seconds with Glazed Fondant Bag
-What does Gumballs provide when used? | A random 10% stat boost | Lasts 5 seconds
-How many uses do Gumballs have? | 3 | Consumable Item
-What does Pop restore? | 45 Stamina | Escaping Item
-What does Stamina Candy increase? | Stamina Regeneration by 50% | Lasts 20 seconds
-What does BonBon increase? | Extraction Speed and Movement Speed | 50% Extraction and 25% Movement
-What does a Christmas Cookie provide? | A 15% Movement Speed boost to nearby Toons | Lasts 10 seconds
-What does Glitter Glue create? | An Extraction Speed-boosting puddle | Only affects the player who placed it
-How much Extraction Speed does Glitter Glue provide? | 75% | Also applies Slowness I
-How long does a Glitter Glue puddle last? | 60 seconds | Effect duration
-How long does Glitter Glue's effect last after leaving the puddle? | 5 seconds | Slowness and Extraction buff
-What does Jawbreaker provide? | A random 50% stat effect | Lasts 20 seconds
-How much Machine completion does a Jumper Cable provide? | 33% | Must be used while extracting
-What does Bottle o' Pop restore? | Full Stamina | Very Rare Item
-What does Box o' Chocolates increase? | Maximum Stamina and Run Speed | 25 additional Max Stamina and 10% Run Speed
-How many uses does Box o' Chocolates have? | 5 | Very Rare Item
-What does a Health Kit restore? | Full Hearts | Healing Item
-What does an Eject Button increase? | Stealth, Walk Speed, and Run Speed | Also removes Slow
-How much Walk and Run Speed does an Eject Button provide? | 25 | Lasts 3 seconds
-What does an Extra Heart do? | Absorbs the next hit | Bonus Heart
-What does a Smoke Bomb do? | Makes a chasing Twisted lose interest | Lasts 3 seconds
-Can a Smoke Bomb stop a Lethal Twisted? | No | Does not work against Lethal Twisteds
-What does a Valve do to a Machine? | Instantly completes it to approximately 99% | Must be used while extracting
-How many Tapes does a Common Item give when used? | 2 | Item use reward
-How many Tapes does a Rare Item give when used? | 5 | Item use reward
-How many Tapes does a Very Rare Item give when used? | 8 | Item use reward
-How many Tapes does an Ultra Rare Item give when used? | 10 | Item use reward
-What is the name of the main game mode? | Gardenview | Standard game mode
-What is the name of the separate game mode added in Version 1.0? | The Labs | Added November 20, 2026
-What is the name of the coordinator in The Labs? | Dessa | Runs Experiments
-Who operates the Ambrosia shop in The Labs? | Dioda | Labs shopkeeper
-What currency is earned in The Labs? | Ambrosia | Used for Lab Cards and Vials
-What is the exchange rate for Ichor to Ambrosia? | 10 Ichor for 1 Ambrosia | Limited exchange
-How many Lab Card slots can a player equip? | 4 | Lab Card deck
-How long does the Lab Card vote last during an elevator ride? | 30 seconds | Card selection
-How often do Experiments occur in The Labs? | Every 5 Floors | Special objectives
-How many additional Machines does each Labs Floor require? | 1 | Compared with Gardenview
-Which Lethal Twisted is friends with Dioda? | Twisted Dessa | Labs encounter
-Which Lethal Twisted is friends with Dessa? | Twisted Dioda | Labs encounter
+The main currency used to buy Toons and Trinkets in the Lobby is _____. | Ichor | Used in Dandy's Store
+The currency used to buy Items during a run is _____. | Tapes | Used in Dandy's Shop
+The currency used to buy Cards and Vials in Dioda's Store is _____. | Ambrosia | Used in The Labs
+The currency used to unlock Twisted Research is _____. | Research | Collected from Research Capsules and encounters
+The number of different currency types currently in the game is _____. | 7 | Includes event currencies
+The currency used during the Easter event is _____. | Baskets | Event currency
+The currency used during the Christmas event is _____. | Ornaments | Event currency
+The currency used during the Halloween event is _____. | Pumpkins | Event currency
+The number of Trinkets a Toon can equip at once is _____. | 2 | Equipped before a run
+The number of Trinket loadouts a player can save is _____. | 3 | Used to save Trinket combinations
+Trinkets can be changed after entering a run _____ | No | Choose them before the run
+The number of extra inventory slots Bassie's Easter Basket gives her is _____. | 1 | Allows her to carry one additional item
+The Toon who can drop items from her inventory for other players is _____. | Bassie | Springful Sharing
+The Toon who can highlight items across the map for everyone is _____. | Coal | Scout
+The Toon who can highlight nearby items for herself is _____. | Pebble | Fetch!
+The Toon who can place a BonBon item is _____. | Cocoa | Bonbon
+The Toon who can get a random item using her ability is _____. | Gigi | Surprise!
+The Toon who drops candy items after completing a Machine is _____. | Yatta | Piñata Party
+The Toon who drops four candy items when injured is _____. | Yatta | Piñata Party
+The Toon who can create a decoy that attracts nearby Twisteds is _____. | Blot | Blot Jr.
+The Toon who can become invisible for a short time is _____. | Connie | Haunting Escape
+The Toon who can restore nearby Toons' Stamina is _____. | Astro | Nap Time
+The Toon with the passive ability Well Rested is _____. | Astro | Improves Stamina regeneration
+The Toon who can reveal Twisteds during Blackouts is _____. | Brightney | Night Light
+The Toon who can highlight Twisteds and Machines is _____. | Vee | Mic Check
+The Toon who can see the two nearest unfinished Machines is _____. | Vee | Camera Hijack
+The Toon who can pull other Toons toward himself is _____. | Goob | Hug!
+The Toon who can heal another Toon by giving them one of his Hearts is _____. | Cosmo | Sharing is Caring
+The Toon who can heal himself using Tapes is _____. | Teagan | Tea Time
+The Toon who can heal another Toon using Tapes is _____. | Sprout | Baked Sweets
+The Toon who can increase nearby Toons' Movement Speed is _____. | Tisha | Tidy Up!
+The Toon who can hide inside a gift box is _____. | Bobette | Precious Packaging
+The Toon who gives nearby Toons faster Stamina regeneration is _____. | Bobette | Festive Aura
+The Toon who gains Extraction Speed for every living Toon is _____. | Boxten | Wind-Up
+The Toon who gains a speed boost when a Machine is completed is _____. | Finn | Reel In
+The Toon who can paint nearby Machines to boost extraction is _____. | Brusha | Artistic Inspiration
+The Toon who can highlight items for all players for 10 seconds is _____. | Coal | Scout
+The Toon who can dash forward using an ability is _____. | Flutter | Floaty Dash
+The Toon who can place a Gust that boosts Movement Speed is _____. | Flyte | Gust
+The Toon who can teleport to another Toon using a mirror is _____. | Glisten | Reflection
+The Toon who gains Movement Speed when missing Hearts is _____. | Looey | Heart of Helium
+The Toon who can sniff out nearby items is _____. | Pebble | Fetch!
+The Toon who is immune to most applied debuffs is _____. | Ribecca | The Undead
+The Toon who can protect an ally by taking their next hit is _____. | Soulvester | Soul Shield
+The Toon who can see the health of living teammates is _____. | Sprout | Overprotective
+The Toon who gains Extraction Speed by eating books is _____. | Squirm | Distressed Delicacy
+The Toon who can roll for a random stat boost is _____. | Toodles | Beginner's Luck
+The Toon who gives players a speed boost when the elevator opens is _____. | Gourdy | Sugar Rush
+The Toon who transforms during Blackouts is _____. | Eclipse | Total Eclipse
+The Toon who can remove his Tired II debuff temporarily is _____. | Waxwell | Ignite
+The name of Astro's Active Ability is _____. | Nap Time | Restores nearby Toons' Stamina
+The name of Astro's Passive Ability is _____. | Well Rested | Improves Stamina regeneration
+The name of Bassie's Active Ability is _____. | Springful Sharing | Drops items from her inventory
+The name of Bassie's Passive Ability is _____. | Easter Basket | Gives her an extra inventory slot
+The name of Boxten's Passive Ability is _____. | Wind-Up | Increases Extraction Speed
+The name of Vee's Active Ability is _____. | Mic Check | Highlights Twisteds and Machines
+The name of Vee's Passive Ability is _____. | Camera Hijack | Highlights nearby unfinished Machines
+The name of Pebble's Active Ability is _____. | Speak! | Attracts nearby Twisteds
+The name of Pebble's Passive Ability is _____. | Fetch! | Highlights nearby items
+The name of Connie's Active Ability is _____. | Haunting Escape | Makes her invisible temporarily
+The name of Tisha's Active Ability is _____. | Tidy Up! | Boosts nearby Toons' Movement Speed
+The name of Teagan's Active Ability is _____. | Tea Time | Costs Tapes to heal herself
+The name of Sprout's Active Ability is _____. | Baked Sweets | Costs Tapes to heal another Toon
+The amount of Research a normal Research Capsule provides is _____. | 1% | Rodger receives 2%
+The amount of Research a Research Capsule gives Rodger is _____. | 2% | Rodger collects double Research
+The amount of Ichor earned for picking up a Research Capsule is _____. | 2 | Capsule pickup reward
+The number of Research Capsules that spawn for each Twisted on a Floor is _____. | 2 | They correspond to that Twisted
+The number of Tapes added by picking up a Tape item is _____. | 5 | Added to the Tape counter
+The number of Hearts a Bandage restores is _____. | 1 | Healing item
+The amount of health a Health Kit restores is _____. | Full health | Restores the user's Hearts
+The amount of Stamina a Pop item restores is _____. | 45 | Stamina item
+The amount of Stamina a Bottle o' Pop restores is _____. | Full Stamina | Refills the Stamina bar
+The Machine completion a Jumper Cable adds is _____. | 33% | Must be used while extracting
+The Machine completion a Valve raises a Machine to is _____. | About 99% | Must be used while extracting
+The item that makes a chasing Twisted lose interest briefly is _____. | Smoke Bomb | Does not work on Lethal Twisteds
+The item that absorbs the next hit is _____. | Extra Heart | Adds a bonus Heart
+The item that increases Maximum Stamina and Walk Speed is _____. | Chocolate | Temporary effect
+The item that boosts a random stat is _____. | Gumballs | Has three uses
+The item that increases Stamina regeneration is _____. | Stamina Candy | Temporary effect
+The number of Tapes added by a Tapes item is _____. | 5 | Used during runs
+The item that increases Extraction Speed and Movement Speed is _____. | BonBon | Cocoa's ability can place it
+The duration of BonBon's effect is _____. | 10 seconds | Boosts Extraction and Movement Speed
+The Extraction Speed boost provided by BonBon is _____. | 50% | Temporary boost
+The Movement Speed boost provided by BonBon is _____. | 25% | Temporary boost
+The Trinket that gives 30 starting Tapes is _____. | Coin Purse | Dandy's Store Trinket
+The Trinket that increases Movement Speed when a new Floor arrives is _____. | Pull Toy | Temporary speed boost
+The duration of Pull Toy's speed boost is _____. | 10 seconds | Activates on a new Floor
+The Trinket that provides a Pop item on new Floors is _____. | Pop Pack | Requires an open inventory slot
+The Trinket that provides an Air Horn is _____. | Megaphone | Requires an open inventory slot
+The Trinket that increases Stamina but lowers Movement Speed is _____. | Cooler | Dandy's Store Trinket
+The amount of extra Stamina provided by Cooler is _____. | 50 | Comes with a Movement Speed penalty
+The Trinket that protects against long-ranged Twisted attacks is _____. | Cardboard 'Armor' | Activates once per Floor
+The Trinket that increases Extraction Speed is _____. | Blue Bandana | Twisted Boxten Research Trinket
+The Trinket that increases Run Speed is _____. | Pink Bow | Twisted Poppy Research Trinket
+The Trinket that decreases Walk and Run Speed is _____. | Brick | Twisted Shrimpo Research Trinket
+The Trinket that reduces Active Ability cooldowns by 8% is _____. | Sweet Charm | Twisted Cosmo Research Trinket
+The Trinket that reduces Active Ability cooldowns by 5 seconds is _____. | Ghost Snakes In A Can | Twisted Connie Research Trinket
+The amount of Stamina Feather Duster restores when picking up an item is _____. | 20 | Does not count Tapes or Capsules
+The Trinket that increases Stamina based on living Toons is _____. | Friendship Bracelet | Twisted Goob Research Trinket
+The maximum Stamina bonus from Friendship Bracelet is _____. | 40 | Based on living teammates
+The Trinket that increases Run Speed during Panic Mode is _____. | Vanity Mirror | Provides a 30% boost
+The Trinket that increases Tapes earned is _____. | Dandy Plush | Provides a 25% boost
+The Trinket that protects against the Slow debuff is _____. | Train Whistle | Twisted Dyle Research Trinket
+The amount of Stamina Peppermint Icing restores after using an Active Ability is _____. | 30 | Event Trinket
+The Trinket that increases ring-based Ability radius is _____. | Toy Kit | Increases it by 25%
+The Trinket that extends Candy item effects is _____. | Glazed Fondant Bag | Adds 4 seconds
+The Trinket that provides a random stat boost once per Floor is _____. | Lucky Coin | Boosts a random stat by 12%
+The Trinket that increases Skill Check chance is _____. | Participation Award | Also reduces Skill Check size
+The Trinket that can protect the player from one fatal attack is _____. | Savory Charm | Does not protect against Lethal attacks
+The number of times Savory Charm can activate per round is _____. | Once | Twisted Sprout Research Trinket
+The Trinket that highlights Research Capsules is _____. | Research Map | Highlights them during matches
+The Trinket that gives a Pop item on new Floors is _____. | Pop Pack | Requires an open inventory slot
+The Trinket that provides an Air Horn every other Floor is _____. | Megaphone | Requires an open inventory slot
+The Trinket that highlights nearby Easter Baskets is _____. | Egg Radar | Event Trinket
+The Trinket that highlights nearby Christmas Ornaments is _____. | Festive Lights | Event Trinket
+The Trinket that highlights nearby Halloween Pumpkins is _____. | Bone Needle and Thread | Event Trinket
+The shop that sells Items using Tapes is _____. | Dandy's Shop | Used during a run
+The shop that sells Trinkets using Ichor is _____. | Dandy's Store | Located in the Lobby
+The shop that sells Cards and Vials using Ambrosia is _____. | Dioda's Store | Located in the Lobby Basement
+The character who sells Items in The Labs instead of Dandy is _____. | Dessa | Her shop restocks Items
