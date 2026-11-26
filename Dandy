@@ -1,120 +1,241 @@
-The main currency used to buy Toons and Trinkets in the Lobby is _____. | Ichor | Used in Dandy's Store
-The currency used to buy Items during a run is _____. | Tapes | Used in Dandy's Shop
-The currency used to buy Cards and Vials in Dioda's Store is _____. | Ambrosia | Used in The Labs
-The currency used to unlock Twisted Research is _____. | Research | Collected from Research Capsules and encounters
-The number of different currency types currently in the game is _____. | 7 | Includes event currencies
-The currency used during the Easter event is _____. | Baskets | Event currency
-The currency used during the Christmas event is _____. | Ornaments | Event currency
-The currency used during the Halloween event is _____. | Pumpkins | Event currency
+The main currency used to buy Toons and Trinkets in the Lobby is _____. | Ichor | Sold at Dandy's Store
+The currency used to buy Items from the elevator shop during a run is _____. | Tapes | Dandy's Shop; Tapes have no use outside a run
+The currency used to buy Lab Cards and Ambrosia Vials is _____. | Ambrosia | Spent at Dioda's Shop for The Labs
+The currency used to buy Easter Toons, Skins and Stickers in Bassie's Store is _____. | Baskets | Easter event currency
+The currency used to buy Christmas Toons, Skins and Stickers in Bobette's Store is _____. | Ornaments | Christmas event currency
+The currency used to buy Halloween Toons, Skins and Stickers in Gourdy's Store is _____. | Pumpkins | Halloween event currency
+The number of currency types in the game since the Labs update is _____. | 7 | Ichor, Tapes, Research, Ambrosia, Baskets, Ornaments, Pumpkins
+The only currency that cannot be used outside of a run is _____. | Tapes | Research and Tapes also cannot buy Skins or Stickers
+The Research percentage on a Twisted needed to unlock its Twisted Research Trinket is _____. | 100% | Research is progress, not something you spend
+The Research percentage on a Twisted needed to unlock its description is _____. | 50% | Unlocks the Twisted's description
+The amount of Ichor earned for completing a Machine is _____. | 5 | Shared Machines give 1 Ichor per 20% you contributed
+The amount of Ichor earned for picking up a Research Capsule is _____. | 2 | Also gives Research
+The amount of Ichor earned for using a Toon's non-Passive Ability is _____. | 5 | Once per Floor
+The amount of Tapes earned for completing a Floor is _____. | 5 | Intermission reward
+The amount of Tapes earned for encountering most Twisteds is _____. | 5 | Twisted Glisten and Twisted Connie give 3
+The number of Ichor needed to get 1 Ambrosia at Dioda's Shop is _____. | 10 | Exchange rate is 10 Ichor to 1 Ambrosia
+Event currencies collected on weekends are _____. | Doubled | Applies to Baskets, Ornaments and Pumpkins
+The amount of Research a Research Capsule gives is _____. | 1% | Rodger gets 2%
+The amount of Research a Research Capsule gives Rodger is _____. | 2% | Detective doubles Research
+The amount of Research gained for encountering a Twisted is _____. | 5% | Rodger doubles it
+The number of Research Capsules that spawn for each Twisted on a Floor is _____. | 2 | Each belongs to a specific Twisted
+The Toon who collects double the normal Research is _____. | Rodger | Passive: Detective
 The number of Trinkets a Toon can equip at once is _____. | 2 | Equipped before a run
-The number of Trinket loadouts a player can save is _____. | 3 | Used to save Trinket combinations
-Trinkets can be changed after entering a run _____ | No | Choose them before the run
-The number of extra inventory slots Bassie's Easter Basket gives her is _____. | 1 | Allows her to carry one additional item
-The Toon who can drop items from her inventory for other players is _____. | Bassie | Springful Sharing
-The Toon who can highlight items across the map for everyone is _____. | Coal | Scout
-The Toon who can highlight nearby items for herself is _____. | Pebble | Fetch!
-The Toon who can place a BonBon item is _____. | Cocoa | Bonbon
-The Toon who can get a random item using her ability is _____. | Gigi | Surprise!
-The Toon who drops candy items after completing a Machine is _____. | Yatta | Piñata Party
-The Toon who drops four candy items when injured is _____. | Yatta | Piñata Party
-The Toon who can create a decoy that attracts nearby Twisteds is _____. | Blot | Blot Jr.
-The Toon who can become invisible for a short time is _____. | Connie | Haunting Escape
-The Toon who can restore nearby Toons' Stamina is _____. | Astro | Nap Time
-The Toon with the passive ability Well Rested is _____. | Astro | Improves Stamina regeneration
-The Toon who can reveal Twisteds during Blackouts is _____. | Brightney | Night Light
-The Toon who can highlight Twisteds and Machines is _____. | Vee | Mic Check
-The Toon who can see the two nearest unfinished Machines is _____. | Vee | Camera Hijack
-The Toon who can pull other Toons toward himself is _____. | Goob | Hug!
-The Toon who can heal another Toon by giving them one of his Hearts is _____. | Cosmo | Sharing is Caring
-The Toon who can heal himself using Tapes is _____. | Teagan | Tea Time
-The Toon who can heal another Toon using Tapes is _____. | Sprout | Baked Sweets
-The Toon who can increase nearby Toons' Movement Speed is _____. | Tisha | Tidy Up!
-The Toon who can hide inside a gift box is _____. | Bobette | Precious Packaging
-The Toon who gives nearby Toons faster Stamina regeneration is _____. | Bobette | Festive Aura
-The Toon who gains Extraction Speed for every living Toon is _____. | Boxten | Wind-Up
-The Toon who gains a speed boost when a Machine is completed is _____. | Finn | Reel In
-The Toon who can paint nearby Machines to boost extraction is _____. | Brusha | Artistic Inspiration
-The Toon who can highlight items for all players for 10 seconds is _____. | Coal | Scout
-The Toon who can dash forward using an ability is _____. | Flutter | Floaty Dash
-The Toon who can place a Gust that boosts Movement Speed is _____. | Flyte | Gust
-The Toon who can teleport to another Toon using a mirror is _____. | Glisten | Reflection
-The Toon who gains Movement Speed when missing Hearts is _____. | Looey | Heart of Helium
-The Toon who can sniff out nearby items is _____. | Pebble | Fetch!
-The Toon who is immune to most applied debuffs is _____. | Ribecca | The Undead
-The Toon who can protect an ally by taking their next hit is _____. | Soulvester | Soul Shield
-The Toon who can see the health of living teammates is _____. | Sprout | Overprotective
-The Toon who gains Extraction Speed by eating books is _____. | Squirm | Distressed Delicacy
-The Toon who can roll for a random stat boost is _____. | Toodles | Beginner's Luck
-The Toon who gives players a speed boost when the elevator opens is _____. | Gourdy | Sugar Rush
-The Toon who transforms during Blackouts is _____. | Eclipse | Total Eclipse
-The Toon who can remove his Tired II debuff temporarily is _____. | Waxwell | Ignite
-The name of Astro's Active Ability is _____. | Nap Time | Restores nearby Toons' Stamina
-The name of Astro's Passive Ability is _____. | Well Rested | Improves Stamina regeneration
-The name of Bassie's Active Ability is _____. | Springful Sharing | Drops items from her inventory
+The number of Trinket loadouts a player can save is _____. | 3 | Each loadout saves a pair of Trinkets
+Trinkets can be changed after entering a run _____. | No | Choose them before the run
+The Trinket obtained by joining the BlushCrunch Studio Roblox group is _____. | Blushy Bat | Adds 3 seconds to the attack cooldown of a Twisted that hits you
+The number of Trinkets that can be bought in Dandy's Store with Ichor is _____. | 14 | Costs 14,525 Ichor total
+The cheapest Trinkets in Dandy's Store cost _____ Ichor. | 200 | Coin Purse and Research Map
+The Trinket that gives 30 extra starting Tapes is _____. | Coin Purse | 200 Ichor at Dandy's Store
+The Trinket that highlights all Research Capsules every 10 seconds is _____. | Research Map | 200 Ichor at Dandy's Store
+The Trinket that adds a large amount of completion to the first Machine you extract from each Floor is _____. | Wrench | 325 Ichor at Dandy's Store
+The Trinket that increases Extraction Speed by 5% is _____. | Machine Manual | 350 Ichor at Dandy's Store
+The Trinket that increases Walk and Run Speed by 5% is _____. | Speedy Shoes | 400 Ichor at Dandy's Store
+The Trinket that grants 15 more Stamina is _____. | Speedometer | 450 Ichor at Dandy's Store
+The Trinket that increases Skill Check window size by 40 units is _____. | Thinking Cap | 750 Ichor; requires finishing 30 Machines
+The Trinket that increases Movement Speed by 25% for 10 seconds when Panic Mode activates is _____. | Alarm | 1,000 Ichor; requires surviving 50 Floors
+The Trinket that increases Stamina Regeneration by 15% is _____. | Thermos | 1,250 Ichor at Dandy's Store
+The Trinket that increases Movement Speed by 25% for 10 seconds when a new Floor arrives is _____. | Pull Toy | 1,250 Ichor at Dandy's Store
+The Trinket that grants a Pop item every new Floor is _____. | Pop Pack | Requires an open inventory slot
+The Trinket that grants an Air Horn every other Floor is _____. | Megaphone | Requires an open inventory slot
+The Trinket that grants 50 more Stamina but lowers Movement Speed by 5% is _____. | Cooler | 2,250 Ichor at Dandy's Store
+The Trinket that protects against long-ranged Twisted attacks once per Floor is _____. | Cardboard 'Armor' | 2,750 Ichor; needs 100% Research on Twisted Goob and Twisted Scraps
+The Trinket that increases Extraction Speed by 7.5% but lowers Skill Check chance by 5% is _____. | Blue Bandana | Common Research Trinket
+The Trinket that increases Run Speed by 7.5% is _____. | Pink Bow | Common Research Trinket
+The Trinket that lowers both Walk and Run Speed by 10% is _____. | Brick | Common Research Trinket
+The Trinket that decreases Active Ability cooldown by 8% is _____. | Sweet Charm | Common Research Trinket
+The Trinket that decreases Active Ability cooldown by 5 seconds is _____. | Ghost Snakes In A Can | Research Trinket from Twisted Connie
+The amount of Stamina Feather Duster restores when you pick up an Item is _____. | 20 | Capsules and Tapes do not count
+The Trinket that increases Walk Speed by 10% is _____. | Dog Plush | Uncommon Research Trinket
+The Trinket that increases Blackout light radius by 25% is _____. | Spare Bulb | Uncommon Research Trinket
+The Trinket that starts you with 100 extra Tapes is _____. | Fancy Purse | Uncommon Research Trinket
+The Trinket that stops Rare Twisteds from being alerted when you fail a Skill Check is _____. | Mime Makeup | Rare Research Trinket
+The Trinket that increases Stealth by 25% is _____. | Diary | Rare Research Trinket
+The Trinket that boosts a random stat by 12% once every Floor is _____. | Lucky Coin | Rare Research Trinket
+The Trinket that increases Run Speed by 30% during Panic Mode is _____. | Vanity Mirror | Rare Research Trinket
+The Trinket that gives 5 more Stamina for every living Toon is _____. | Friendship Bracelet | Maxes out at 40 Stamina
+The Trinket that increases Skill Check chance by 25% but decreases Skill Check size by 10% is _____. | Participation Award | Main Character Research Trinket
+The Trinket that increases Stamina Regeneration by 100% while extracting is _____. | Star Pillow | Main Character Research Trinket
+The Trinket that saves you from one fatal attack and grants 10 seconds of invincibility is _____. | Savory Charm | Does not save against Lethal attacks
+The Trinket that instantly completes the first Machine you extract from if under 50% of Machines are done is _____. | Vee's Remote | Once per Floor
+The Trinket that gives a 50% discount on Dandy's Shop Items during even-Floor intermissions is _____. | Dandy Plush | Lethal Research Trinket
+The Trinket that makes you immune to the Slow debuff is _____. | Train Whistle | Lethal Research Trinket
+The Trinket that highlights nearby Baskets every 10 seconds is _____. | Egg Radar | Easter event Trinket
+The Trinket that highlights nearby Ornaments every 10 seconds is _____. | Festive Lights | Christmas event Trinket
+The Trinket that highlights nearby Pumpkins every 10 seconds is _____. | Bone Needle and Thread | Halloween event Trinket
+The Trinket that grants 30 Stamina after using an Active Ability is _____. | Peppermint Icing | Event Trinket
+The Trinket that adds 4 seconds to the duration of Candy Items is _____. | Glazed Fondant Bag | Includes BonBon
+The Trinket that decreases Stealth by 5% is _____. | Scrapbook | Event Trinket
+The Toon who can drop Items from her inventory for other Toons is _____. | Bassie | Springful Sharing
 The name of Bassie's Passive Ability is _____. | Easter Basket | Gives her an extra inventory slot
-The name of Boxten's Passive Ability is _____. | Wind-Up | Increases Extraction Speed
-The name of Vee's Active Ability is _____. | Mic Check | Highlights Twisteds and Machines
-The name of Vee's Passive Ability is _____. | Camera Hijack | Highlights nearby unfinished Machines
-The name of Pebble's Active Ability is _____. | Speak! | Attracts nearby Twisteds
-The name of Pebble's Passive Ability is _____. | Fetch! | Highlights nearby items
-The name of Connie's Active Ability is _____. | Haunting Escape | Makes her invisible temporarily
-The name of Tisha's Active Ability is _____. | Tidy Up! | Boosts nearby Toons' Movement Speed
-The name of Teagan's Active Ability is _____. | Tea Time | Costs Tapes to heal herself
-The name of Sprout's Active Ability is _____. | Baked Sweets | Costs Tapes to heal another Toon
-The amount of Research a normal Research Capsule provides is _____. | 1% | Rodger receives 2%
-The amount of Research a Research Capsule gives Rodger is _____. | 2% | Rodger collects double Research
-The amount of Ichor earned for picking up a Research Capsule is _____. | 2 | Capsule pickup reward
-The number of Research Capsules that spawn for each Twisted on a Floor is _____. | 2 | They correspond to that Twisted
-The number of Tapes added by picking up a Tape item is _____. | 5 | Added to the Tape counter
-The number of Hearts a Bandage restores is _____. | 1 | Healing item
-The amount of health a Health Kit restores is _____. | Full health | Restores the user's Hearts
-The amount of Stamina a Pop item restores is _____. | 45 | Stamina item
-The amount of Stamina a Bottle o' Pop restores is _____. | Full Stamina | Refills the Stamina bar
-The Machine completion a Jumper Cable adds is _____. | 33% | Must be used while extracting
-The Machine completion a Valve raises a Machine to is _____. | About 99% | Must be used while extracting
-The item that makes a chasing Twisted lose interest briefly is _____. | Smoke Bomb | Does not work on Lethal Twisteds
-The item that absorbs the next hit is _____. | Extra Heart | Adds a bonus Heart
-The item that increases Maximum Stamina and Walk Speed is _____. | Chocolate | Temporary effect
-The item that boosts a random stat is _____. | Gumballs | Has three uses
-The item that increases Stamina regeneration is _____. | Stamina Candy | Temporary effect
-The number of Tapes added by a Tapes item is _____. | 5 | Used during runs
-The item that increases Extraction Speed and Movement Speed is _____. | BonBon | Cocoa's ability can place it
-The duration of BonBon's effect is _____. | 10 seconds | Boosts Extraction and Movement Speed
-The Extraction Speed boost provided by BonBon is _____. | 50% | Temporary boost
-The Movement Speed boost provided by BonBon is _____. | 25% | Temporary boost
-The Trinket that gives 30 starting Tapes is _____. | Coin Purse | Dandy's Store Trinket
-The Trinket that increases Movement Speed when a new Floor arrives is _____. | Pull Toy | Temporary speed boost
-The duration of Pull Toy's speed boost is _____. | 10 seconds | Activates on a new Floor
-The Trinket that provides a Pop item on new Floors is _____. | Pop Pack | Requires an open inventory slot
-The Trinket that provides an Air Horn is _____. | Megaphone | Requires an open inventory slot
-The Trinket that increases Stamina but lowers Movement Speed is _____. | Cooler | Dandy's Store Trinket
-The amount of extra Stamina provided by Cooler is _____. | 50 | Comes with a Movement Speed penalty
-The Trinket that protects against long-ranged Twisted attacks is _____. | Cardboard 'Armor' | Activates once per Floor
-The Trinket that increases Extraction Speed is _____. | Blue Bandana | Twisted Boxten Research Trinket
-The Trinket that increases Run Speed is _____. | Pink Bow | Twisted Poppy Research Trinket
-The Trinket that decreases Walk and Run Speed is _____. | Brick | Twisted Shrimpo Research Trinket
-The Trinket that reduces Active Ability cooldowns by 8% is _____. | Sweet Charm | Twisted Cosmo Research Trinket
-The Trinket that reduces Active Ability cooldowns by 5 seconds is _____. | Ghost Snakes In A Can | Twisted Connie Research Trinket
-The amount of Stamina Feather Duster restores when picking up an item is _____. | 20 | Does not count Tapes or Capsules
-The Trinket that increases Stamina based on living Toons is _____. | Friendship Bracelet | Twisted Goob Research Trinket
-The maximum Stamina bonus from Friendship Bracelet is _____. | 40 | Based on living teammates
-The Trinket that increases Run Speed during Panic Mode is _____. | Vanity Mirror | Provides a 30% boost
-The Trinket that increases Tapes earned is _____. | Dandy Plush | Provides a 25% boost
-The Trinket that protects against the Slow debuff is _____. | Train Whistle | Twisted Dyle Research Trinket
-The amount of Stamina Peppermint Icing restores after using an Active Ability is _____. | 30 | Event Trinket
-The Trinket that increases ring-based Ability radius is _____. | Toy Kit | Increases it by 25%
-The Trinket that extends Candy item effects is _____. | Glazed Fondant Bag | Adds 4 seconds
-The Trinket that provides a random stat boost once per Floor is _____. | Lucky Coin | Boosts a random stat by 12%
-The Trinket that increases Skill Check chance is _____. | Participation Award | Also reduces Skill Check size
-The Trinket that can protect the player from one fatal attack is _____. | Savory Charm | Does not protect against Lethal attacks
-The number of times Savory Charm can activate per round is _____. | Once | Twisted Sprout Research Trinket
-The Trinket that highlights Research Capsules is _____. | Research Map | Highlights them during matches
-The Trinket that gives a Pop item on new Floors is _____. | Pop Pack | Requires an open inventory slot
-The Trinket that provides an Air Horn every other Floor is _____. | Megaphone | Requires an open inventory slot
-The Trinket that highlights nearby Easter Baskets is _____. | Egg Radar | Event Trinket
-The Trinket that highlights nearby Christmas Ornaments is _____. | Festive Lights | Event Trinket
-The Trinket that highlights nearby Halloween Pumpkins is _____. | Bone Needle and Thread | Event Trinket
-The shop that sells Items using Tapes is _____. | Dandy's Shop | Used during a run
-The shop that sells Trinkets using Ichor is _____. | Dandy's Store | Located in the Lobby
-The shop that sells Cards and Vials using Ambrosia is _____. | Dioda's Store | Located in the Lobby Basement
-The character who sells Items in The Labs instead of Dandy is _____. | Dessa | Her shop restocks Items
+The Toon who highlights Items across the Floor for all Toons for 10 seconds is _____. | Coal | Scout
+The Toon who highlights nearby Items with a Passive Ability is _____. | Pebble | Fetch!
+The name of Pebble's Active Ability is _____. | Speak! | Barks to attract nearby Twisteds
+The Toon who can drop a BonBon is _____. | Cocoa | Ability: Bonbon
+The Toon who pulls a random Item from her head is _____. | Gigi | Surprise!
+The Toon who drops two candies when a Machine is completed is _____. | Yatta | Piñata Party
+The Toon who drops four candies when injured is _____. | Yatta | Piñata Party
+The Toon who can place a decoy that attracts nearby Twisteds is _____. | Blot | Blot Jr. costs 10 Tapes
+The Toon who can turn invisible for 5 seconds is _____. | Connie | Haunting Escape
+The Toon who restores the Stamina of nearby Toons is _____. | Astro | Nap Time
+The name of Astro's Passive Ability is _____. | Well Rested | Faster Stamina regeneration
+The Toon who reveals Twisteds during Blackouts is _____. | Brightney | Night Light
+The Toon who reveals all Twisteds and Machines for 5 seconds is _____. | Vee | Mic Check
+The name of Vee's Passive Ability is _____. | Camera Hijack | Highlights the two nearest unfinished Machines
+The Toon who pulls a visible teammate toward himself is _____. | Goob | Hug!
+The Toon who pulls herself toward a visible teammate or Machine is _____. | Scraps | Crafty Grapple
+The Toon who gives one of his Hearts to heal another Toon is _____. | Cosmo | Sharing is Caring
+The Toon who can heal herself for 75 Tapes is _____. | Teagan | Tea Time
+The Toon who heals a selected Toon by one Heart for 100 Tapes is _____. | Sprout | Baked Sweets
+The name of Sprout's Passive Ability is _____. | Overprotective | Shows location and health of all living Toons
+The Toon who spends 100 Tapes to restore a teammate to full Hearts is _____. | Ginger | Baked with Care!
+The Toon who gives nearby Toons 25% Movement Speed for 5 seconds and removes Ichor puddles is _____. | Tisha | Tidy Up!
+The Toon who can hide inside a gift box and become invincible for 8 seconds is _____. | Bobette | Precious Packaging
+The name of Bobette's Passive Ability is _____. | Festive Aura | Faster Stamina regeneration for nearby Toons
+The Toon who gains 6% Extraction Speed for every living Toon is _____. | Boxten | Wind-Up
+The Toon who gains Movement Speed after a Machine is completed is _____. | Finn | Reel In
+The Toon who paints Machines to boost extraction is _____. | Brusha | Artistic Inspiration
+The Toon who can dash forward is _____. | Flutter | Floaty Dash
+The Toon who can place a wind zone that boosts Movement Speed is _____. | Flyte | Gust
+The Toon who can teleport to another Toon is _____. | Glisten | Reflection
+The Toon who gains 20% Movement Speed for every missing Heart is _____. | Looey | Heart of Helium
+The Toon who blocks applied debuffs is _____. | Ribecca | The Undead
+The Toon who can take a teammate's next hit for them is _____. | Soulvester | Soul Shield
+The Toon who gains 100% Extraction Speed by eating books is _____. | Squirm | Distressed Delicacy
+The Toon who gives a random stat a 15% boost for 10 seconds is _____. | Toodles | Beginner's Luck
+The Toon who gives all players 20% Movement Speed when the elevator opens is _____. | Gourdy | Sugar Rush
+The Toon who gives nearby Toons a random 20% stat boost for 15 seconds is _____. | Gourdy | Trick or Treat
+The Toon who transforms into a werewolf during Blackouts is _____. | Eclipse | Total Eclipse
+The Toon who can remove his Tired II debuff for 10 seconds is _____. | Waxwell | Ignite
+The Toon who adds 20% progress to a Machine the first time he touches it is _____. | Eggson | Fixer Upper
+The Toon who charges forward with a burst of speed is _____. | Rudie | Antler Charge
+The Toon who gives a selected Toon 75% faster Extraction for 15 seconds is _____. | Shelly | Inspiration
+The Toon whose ability is called Panic Pop is _____. | Poppy | Gains Movement Speed after taking a hit
+The Toon with the Comedy/Tragedy Ability is _____. | Razzle & Dazzle | Better Movement on odd Floors, better Extraction on even Floors
+The two free starter Toons are Poppy and _____. | Boxten | Can also be bought for Ichor
+The cost of Shrimpo in Dandy's Store is _____ Ichor. | 100 | One of the cheapest Toons
+The cost of Astro in Dandy's Store is _____ Ichor. | 5,000 | Also needs 100% Research on Twisted Astro
+The number of Hearts a regular Toon has is _____. | 3 | Main Characters have 2
+The number of Hearts a Main Character has is _____. | 2 | Regular Toons have 3
+The Twisteds that remove all Hearts in one hit are called _____ Twisteds. | Lethal | Includes Twisted Dandy and Twisted Dyle
+Twisted Dandy can appear after your team skips Dandy's Shop _____ Floors in a row. | 3 | He gets angrier with each skip
+The number of Hearts a Bandage restores is _____. | 1 | Healing Item; 60 Tapes in Dandy's Shop
+The amount of health a Health Kit restores is _____. | Full health | 100 Tapes in Dandy's Shop
+The amount of Stamina a Pop restores is _____. | 45 | Common Item
+The amount of Stamina a Bottle o' Pop restores is _____. | Full Stamina | Very Rare; 85 Tapes
+The Machine completion a Jumper Cable adds is _____. | 33% | Must be used while extracting; 65 Tapes
+The Item that instantly completes a Machine you are extracting is _____. | Valve | Cannot be used if you are not extracting
+The Item that makes a chasing Twisted lose interest for 3 seconds is _____. | Smoke Bomb | Does not work on Lethal Twisteds; 150 Tapes
+The Item that increases Max Stamina by 25 and Walk Speed by 10% for 10 seconds is _____. | Chocolate | Common Item
+The Item that randomly boosts one stat by 10% for 5 seconds and has 3 uses is _____. | Gumballs | Common Item
+The Item that increases Stamina Regeneration by 50% for 20 seconds is _____. | Stamina Candy | Common Item
+The Item that increases Stealth by 25% for 8 seconds is _____. | Stealth Candy | Common Item
+The Item that increases Walk and Run Speed by 25% for 5 seconds is _____. | Speed Candy | Uncommon Item
+The Item that increases Stamina Regeneration by 150% for 15 seconds is _____. | Protein Bar | Uncommon Item
+The Item that increases Extraction Speed by 100% for 10 seconds while on a Machine is _____. | Instructions | Uncommon Item
+The Item that increases Skill Check window size by 50 for 15 seconds is _____. | Stopwatch | Common Item
+The Item that increases Extraction Speed by 50% and Movement Speed by 25% is _____. | BonBon | Lasts 10 seconds; not sold normally
+The number of Tapes added by picking up a Tape Item is _____. | 5 | Added to the Tape counter
+Cards appear on every _____ Floor. | Odd-numbered | Players vote on which Card is played
+The number of different Cards that can be voted on before they run out is _____. | 21 | They run out around Floor 45
+The Card that applies a 10% discount to Dandy's Shop Items is _____. | Frugal | Dandy's Shop discount
+The Card that gives every Toon 45 Tapes is _____. | Spare Change | Penny Pincher does the same
+The Card that heals every injured Toon by 1 Heart is _____. | First Aid | Medical Attention does the same
+The Card that adds 5 seconds to the elevator panic timer is _____. | Decency | Etiquette does the same
+The Card that decreases the time needed to fill Machines by 5 seconds is _____. | Tech Savvy | Rehearsal and Practice cut ability cooldowns instead
+The Card that takes players to Dyle's Floor is _____. | TIME'S UP | Challenge Card; spawns from Floor 9 onward
+The character who runs the shop that sells Lab Cards and Ambrosia Vials is _____. | Dioda | Dioda's Shop is in The Labs lobby
+The item sold at Dioda's Shop that revives you once per Labs run is _____. | Ambrosia Vial | Costs Ambrosia; buy it before the run starts
+The character whose Experiments appear in The Labs is _____. | Dessa | Experiments reward Ambrosia
+The number of Ambrosia earned for completing a Floor in The Labs is _____. | 5 | Experiments give extra Ambrosia
+The Update that added The Labs and Ambrosia is Update _____. | 1.0 | Released November 20, 2026
+The Trinket unlocked with 100% Research on Twisted Boxten is _____. | Blue Bandana | Increases Extraction Speed by 7.5% but lowers Skill Check chance by 5%
+The Trinket unlocked with 100% Research on Twisted Poppy is _____. | Pink Bow | Increases Run Speed by 7.5%
+The Trinket unlocked with 100% Research on Twisted Shrimpo is _____. | Brick | Lowers Walk and Run Speed by 10%
+The Trinket unlocked with 100% Research on Twisted Cosmo is _____. | Sweet Charm | Reduces Active Ability cooldown by 8%
+The Trinket unlocked with 100% Research on Twisted Tisha is _____. | Feather Duster | Restores 20 Stamina when you pick up an Item
+The Trinket unlocked with 100% Research on Twisted Sprout is _____. | Savory Charm | Saves you from one fatal attack
+The Trinket unlocked with 100% Research on Twisted Goob is _____. | Friendship Bracelet | 5 Stamina per living Toon, up to 40
+The Trinket unlocked with 100% Research on Twisted Astro is _____. | Star Pillow | Doubles Stamina Regeneration while extracting
+The Trinket unlocked with 100% Research on Twisted Rodger is _____. | Magnifying Glass | Reduces Skill Check size by 33% but adds more completion on success
+The Trinket unlocked with 100% Research on Twisted Dandy is _____. | Dandy Plush | Lethal Twisted Research Trinket
+The Trinket unlocked with 100% Research on Twisted Dyle is _____. | Train Whistle | Makes you immune to the Slow debuff
+The Trinket unlocked with 100% Research on Twisted Toodles is _____. | Dog Plush | Increases Walk Speed by 10%
+The Trinket unlocked with 100% Research on Twisted Vee is _____. | Vee's Remote | Main Character Research Trinket
+The Trinket unlocked with 100% Research on Twisted Connie is _____. | Ghost Snakes In A Can | Reduces Active Ability cooldown by 5 seconds
+The Trinket that increases Walk and Run Speed by 10% on odd-numbered Floors is _____. | Clown Horn | Common Research Trinket
+The Trinket that increases Walk and Run Speed by 10% on even-numbered Floors is _____. | Ribbon Spool | Uncommon Research Trinket
+The Trinket that highlights nearby Twisteds for 5 seconds when you start working on a Machine is _____. | Party Popper | Common Research Trinket
+The Trinket that gives you a random Uncommon Item on each new Floor is _____. | Crayon Set | Requires an open inventory slot
+The Trinket that increases Walk and Run Speed by 25% for 4 seconds after picking up an Item is _____. | Bone | The effect stacks and caps at 40 Speed
+The Trinket that gives a Twisted that hits you a 15% speed debuff for 30 seconds is _____. | Soul Sword | Event Trinket; does not stack
+The Trinket that highlights healing Items on the Floor while you are not at full health is _____. | Memory Locket | Event Trinket
+The Trinket that decreases Stealth by 10% is _____. | Coal | Event Trinket
+The Trinket unlocked with 100% Research on Twisted Eggson is _____. | Egg Radar | Easter event Trinket; highlights Baskets
+The Trinket unlocked with 100% Research on Twisted Rudie is _____. | Festive Lights | Christmas event Trinket; highlights Ornaments
+The only Trinket that can be removed and re-added by leaving and rejoining the group is _____. | Blushy Bat | Earned by joining the BlushCrunch Studio group
+The Toon who needs 100 Ichor and has no other requirement is _____. | Shrimpo | Has 1 star in every stat
+The Toon who costs 350 Ichor and requires surviving 15 Floors is _____. | Toodles | Beginner's Luck
+The Toon who costs 500 Ichor and requires finishing 15 Machines is _____. | Finn | Reel In
+The Toon who costs 500 Ichor and has no other requirement is _____. | Tisha | Tidy Up!
+The Toon who costs 1,000 Ichor and requires owning 4 or more Toons is _____. | Cosmo | Sharing is Caring
+The Toon who costs 1,000 Ichor and requires completing all Poppy Mastery Quests is _____. | Looey | Heart of Helium
+The Toon who costs 1,000 Ichor and requires 50% Research on any Twisted is _____. | Rodger | Detective
+The Toon who costs 1,250 Ichor and requires buying 25 Items from Dandy's Shop is _____. | Teagan | Tea Time
+The Toon who costs 1,250 Ichor and requires surviving 5 Blackouts is _____. | Brightney | Night Light
+The Toon who costs 1,300 Ichor and requires 100% Research on Twisted Flutter is _____. | Flutter | Floaty Dash
+The Toon who costs 1,500 Ichor and requires 50% Research on Twisted Goob is _____. | Scraps | Crafty Grapple
+The Toon who costs 1,750 Ichor and requires completing 3 Scraps Mastery Quests is _____. | Goob | Hug!
+The Toon who costs 2,000 Ichor and requires 50% Research on Twisted Connie is _____. | Connie | Haunting Escape
+The Toon who costs 2,500 Ichor and requires finishing 300 Machines is _____. | Glisten | Also needs 50% Research on Twisted Glisten
+The Toon who costs 3,000 Ichor and requires owning 3 or more Titles is _____. | Squirm | Also needs 50% Research on Twisted Squirm
+The Toon who costs 3,500 Ichor and requires completing 3 Goob Mastery Quests is _____. | Waxwell | Also needs 50% Research on Twisted Waxwell
+The Toon who costs 3,750 Ichor and requires all Toodles Mastery Quests is _____. | Pebble | Also needs 100% Research on Twisted Pebble
+The Toon who costs 4,250 Ichor and requires all Tisha Mastery Quests is _____. | Shelly | Also needs 100% Research on Twisted Shelly
+The Toon who costs 4,500 Ichor and requires all Cosmo Mastery Quests is _____. | Sprout | Also needs 100% Research on Twisted Sprout
+The Toon who costs 4,500 Ichor and requires all Brightney Mastery Quests is _____. | Vee | Also needs 100% Research on Twisted Vee
+The Toon who costs 5,000 Ichor and requires encountering Twisted Dandy is _____. | Astro | Also needs 100% Research on Twisted Astro
+The Toon who costs 2,000 Ichor and has no other requirement is _____. | Razzle & Dazzle | Comedy/Tragedy
+The Toon you must complete both Looey and Yatta Mastery Quests to unlock is _____. | Blot | Costs 3,000 Ichor
+The Toon who needs 45 Rare or higher Items picked up and 50% Research on Twisted Gigi is _____. | Gigi | Costs 2,000 Ichor
+The Toons who cost 3,000 event currency and 2,500 Ichor are Bassie, Bobette and _____. | Gourdy | Event Main Characters
+The cost of Sprout's Baked Sweets is 100 Tapes plus _____ Tapes for each extra Sprout on the Floor. | 50 | 100 second cooldown
+The cost of Blot Jr. is 10 Tapes plus _____ Tapes for each extra Blot on the Floor. | 10 | 60 second cooldown
+The Main Character Toons require 100% Research on their Twisted and full Mastery of another _____. | Toon | Costs more Ichor than a normal Toon
+The Main Character that requires Toodles Mastery is _____. | Pebble | Speak! and Fetch!
+The Main Character that requires Tisha Mastery is _____. | Shelly | Inspiration and Problem Solver
+The shop on the right side of the Lobby that sells Skins and Stickers is _____. | Dyle's Store | Dandy's Store is on the left
+The percentage of Research gained for encountering a Twisted is _____. | 5% | Capsules give 1% each
+The Twisted that can disguise itself as a fake Research Capsule is _____. | Twisted Rodger | Holds a fake Capsule in his render
+The Robux price of the first Ichor pack, which gives 300 Ichor, is _____. | 75 | 375 Robux gives 1,500 Ichor
+The amount of Ichor given for 1,250 Robux is _____. | 5,500 | Largest Ichor pack
+The amount of Tapes earned for completing a Machine to 100% is _____. | 10 | 1 Tape per 10% completion
+The amount of an event currency earned for encountering a Twisted is _____. | 1 | Collectables and Machines give 5 each
+The Item rarity of Jumper Cable is _____. | Rare | Adds 33% completion
+The Item rarity of Health Kit is _____. | Very Rare | Restores full health
+The Item rarity of Smoke Bomb is _____. | Ultra Rare | Does not work on Lethal Twisteds
+The Item rarity of Gumballs is _____. | Common | Has 3 uses
+The Item rarity of Speed Candy is _____. | Uncommon | Increases Walk and Run Speed by 25% for 5 seconds
+The Item rarity of BonBon is _____. | Rare | Cocoa's ability can drop it
+The Ultra Rare Items are Eject Button, Smoke Bomb and _____. | Valve | Each is a panic tool
+The Card that gives every Toon a random Item if they have an open slot is _____. | Blind Grab | Lost and Found does the same
+The Card that increases Max Stamina of all Toons by 10 is _____. | Well-Paced | Endurance does the same
+The Card that makes Toons glow slightly brighter during Blackouts is _____. | Sparkplug | Has the same artwork as Brightney's ability
+The Card that decreases the chance of a Blackout occurring is _____. | Electrician | Max chance drops from 30% to 25%
+The Card that decreases the chance of an Iced Over Floor is _____. | Frost Shield | Max chance drops from 30% to 25%
+The Card that decreases the chance of an Ichor Leak is _____. | Piping Tape | Max chance drops from 30% to 25%
+The Card that slightly increases the chance of rarer Items appearing is _____. | Avaricious | Covetous does the same
+The Card that reduces the speed Twisteds gain in Panic Mode by 5% is _____. | Suppression | Card effect
+The Card that decreases Toon Active Ability cooldowns by 5 seconds is _____. | Rehearsal | Practice does the same
+The number of pairs of Cards that share the same effect is _____. | 7 | Different names, same buff
+The amount of Stamina TIME'S UP gives when its floor is completed is _____. | 50 | For the rest of the run
+The Card that is the only challenge Card in the game is _____. | TIME'S UP | Leads to Dyle's Floor
+The price of a Common Lab Card in Ambrosia is _____. | 500 | Rare costs 1,000 and Legendary costs 2,500
+The price of a Rare Lab Card in Ambrosia is _____. | 1,000 | Sold at Dioda's Shop
+The price of a Legendary Lab Card in Ambrosia is _____. | 2,500 | Sold at Dioda's Shop
+The price of one Ambrosia Vial in Ambrosia is _____. | 500 | Revives you once per Labs run
+The Labs item that revives a teammate and is used at the elevator is the Ambrosia _____. | Heart | Not given if any player dies during an Experiment
+The amount of Ambrosia and Vials given to Alpha Player badge owners is 500 Ambrosia and _____ Vials. | 2 | Also grants the Alpha Player title
+The Labs are unlocked by completing _____. | Dandy's Buds | Then speak to Dyle
+The Labs have an Experiment on every _____ Floor. | Fifth | Experiments are Dessa's
+The Toon whose Passive Ability gives him one extra Heart, for a total of 4, is _____. | Soulvester | Event Toon
